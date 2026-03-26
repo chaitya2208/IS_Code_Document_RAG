@@ -1,0 +1,5972 @@
+[
+  {
+    "clause_id": "1.1",
+    "text": "1.1 The provisions of this standard are applicable for design, construction, maintenance and assessment of plain, reinforced and prestressed concrete structures. Also, they are applicable to the concrete part of steel-concrete composite structures.",
+    "page": 9,
+    "parent": "1",
+    "children": []
+  },
+  {
+    "clause_id": "1.2",
+    "text": "1.2 The provisions of this standard",
+    "page": 9,
+    "parent": "1",
+    "children": []
+  },
+  {
+    "clause_id": "1.3",
+    "text": "1.3 The provisions of this standard are applicable to the structural systems and members; using the materials and material considerations as specified hereunder.",
+    "page": 9,
+    "parent": "1",
+    "children": [
+      "1.3.1",
+      "1.3.2"
+    ]
+  },
+  {
+    "clause_id": "1.3.1",
+    "text": "1.3.1 Structural Systems",
+    "page": 9,
+    "parent": "1.3",
+    "children": [
+      "1.3.1.1",
+      "1.3.1.3",
+      "1.3.1.4",
+      "1.3.1.6"
+    ]
+  },
+  {
+    "clause_id": "1.3.1.1",
+    "text": "1.3.1.1 Plain concrete system",
+    "page": 9,
+    "parent": "1.3.1",
+    "children": []
+  },
+  {
+    "clause_id": "1.3.1.3",
+    "text": "1.3.1.3 Prestressed concrete system",
+    "page": 9,
+    "parent": "1.3.1",
+    "children": []
+  },
+  {
+    "clause_id": "1.3.1.4",
+    "text": "1.3.1.4 Precast concrete system",
+    "page": 9,
+    "parent": "1.3.1",
+    "children": []
+  },
+  {
+    "clause_id": "1.3.1.6",
+    "text": "1.3.1.6 Additional requirements for concrete structures",
+    "page": 10,
+    "parent": "1.3.1",
+    "children": []
+  },
+  {
+    "clause_id": "1.3.2",
+    "text": "1.3.2 Structural Materials",
+    "page": 10,
+    "parent": "1.3",
+    "children": []
+  },
+  {
+    "clause_id": "3.1",
+    "text": "3.1 Competent Authority \u2014 The authority that has legal jurisdiction to approve the plan, design and construction of the structure at the proposed site.",
+    "page": 11,
+    "parent": "3",
+    "children": []
+  },
+  {
+    "clause_id": "3.2",
+    "text": "3.2 Competent Ground \u2014 Ground on which the structure is to be constructed. It should be free from hazards like liquefaction, slope failure, and vertical bearing failure, and can resist safely the loads imposed by the superstructure.",
+    "page": 11,
+    "parent": "3",
+    "children": []
+  },
+  {
+    "clause_id": "3.3",
+    "text": "3.3 Design Basis Report (DBR) \u2014 A document authored by the owner of the structure (in consultation with the structural designer) which declares before the start of the process of design, all considerations namely design standards to be adopted, field investigations at the site of the project, materials, loads, mandatory load combinations, methods of analysis, methods of design and detailing, and special considerations.",
+    "page": 11,
+    "parent": "3",
+    "children": []
+  },
+  {
+    "clause_id": "3.4",
+    "text": "3.4 Durability \u2014 The ability of the structure or structural element to assure that the degradation is limited such that performance of the structure remains above the requirement over a specified period of time in the relevant environment.",
+    "page": 11,
+    "parent": "3",
+    "children": []
+  },
+  {
+    "clause_id": "3.5",
+    "text": "3.5 Durability Criteria \u2014 Under the action of design loads specified in this standard, capacity of a structure or a part thereof to",
+    "page": 11,
+    "parent": "3",
+    "children": []
+  },
+  {
+    "clause_id": "3.6",
+    "text": "3.6 Integrity Criteria \u2014 Under the action of design loads specified in this standard, capacity of a structure or a part thereof to",
+    "page": 11,
+    "parent": "3",
+    "children": []
+  },
+  {
+    "clause_id": "3.7",
+    "text": "3.7 Restorability Criteria \u2014 Under the action of design loads specified in this standard, capacity of a structure or a part thereof to",
+    "page": 11,
+    "parent": "3",
+    "children": []
+  },
+  {
+    "clause_id": "3.8",
+    "text": "3.8 Robustness Criteria \u2014 Under the action of design loads caused due to fire, blast and impact arising out of human errors (or any deliberate acts) specified in this standard, capacity of a structure or a part thereof to restrict",
+    "page": 11,
+    "parent": "3",
+    "children": []
+  },
+  {
+    "clause_id": "3.9",
+    "text": "3.9 Strength Criteria \u2014 Under the action of design loads specified in this standard, capacity of a structure or a part thereof to",
+    "page": 12,
+    "parent": "3",
+    "children": []
+  },
+  {
+    "clause_id": "3.10",
+    "text": "3.10 Serviceability Criteria \u2014 Under the action of design loads (other than those arising from blast, impact and fire) specified in this standard, capacity of a structure or a part thereof to",
+    "page": 12,
+    "parent": "3",
+    "children": []
+  },
+  {
+    "clause_id": "3.11",
+    "text": "3.11 Maintenance \u2014 Process of preserving the as-built condition of the structure.",
+    "page": 12,
+    "parent": "3",
+    "children": []
+  },
+  {
+    "clause_id": "3.12",
+    "text": "3.12 Nominal Cover \u2014 The design depth of concrete cover. This dimension is used in design and indicated in construction drawings.",
+    "page": 12,
+    "parent": "3",
+    "children": []
+  },
+  {
+    "clause_id": "3.13",
+    "text": "3.13 Quality Assurance \u2014 Rigorous, independent monitoring and correction undertaken by competent third party professionals or professional agencies (other than those involved in the quality control effort) to ensure that the design intent is actually realized in structures, which needs to be undertaken in each activity in the process of quality control.",
+    "page": 12,
+    "parent": "3",
+    "children": []
+  },
+  {
+    "clause_id": "3.14",
+    "text": "3.14 Quality Control \u2014 Adopting and ensuring formal procedures and processes that are based on scientific principles and professionally agreed norms, in the process of development of a structure, including conceptualizing structural configuration; selecting construction materials; performing structural design; preparing good construction structural drawings; converting structural drawings into a structure at site; and undertaking post-construction activities that protect the health of the structure from deterioration.",
+    "page": 12,
+    "parent": "3",
+    "children": []
+  },
+  {
+    "clause_id": "3.15",
+    "text": "3.15 Regular Structure \u2014 A structure that is composed of a regular grid of structural elements, which provide definite and direct load paths to transfer the forces (in horizontal and vertical planes) to the foundation with the least number of bends, and have uniform distributions in plan and elevation of structural system from the point of view of mass, stiffness, strength and deformability.",
+    "page": 12,
+    "parent": "3",
+    "children": []
+  },
+  {
+    "clause_id": "3.16",
+    "text": "3.16 Reliable \u2014 Consistently good in safety, quality, and performance, which can be trusted.",
+    "page": 12,
+    "parent": "3",
+    "children": []
+  },
+  {
+    "clause_id": "3.17",
+    "text": "3.17 Repair \u2014 Locally replace the structural material to restore or enhance the functionality (visually and otherwise) of the structure, and prevent deterioration of the structural members. This does not enhance the stiffness, strength and deformability of the structure and its structural members.",
+    "page": 13,
+    "parent": "3",
+    "children": []
+  },
+  {
+    "clause_id": "3.18",
+    "text": "3.18 Retrofit \u2014 Restore or enhance the stiffness, strength and deformability of the structure and its structural members.",
+    "page": 13,
+    "parent": "3",
+    "children": []
+  },
+  {
+    "clause_id": "5.1",
+    "text": "5.1 The concrete structures designed and detailed as per the provisions of this standard shall possess (throughout its design service life) margins specified herein with respect to",
+    "page": 14,
+    "parent": "5",
+    "children": [
+      "5.1.1",
+      "5.1.2"
+    ]
+  },
+  {
+    "clause_id": "5.1.1",
+    "text": "5.1.1 Characteristic Loads and Materials",
+    "page": 14,
+    "parent": "5.1",
+    "children": []
+  },
+  {
+    "clause_id": "5.1.2",
+    "text": "5.1.2 Principles of Mechanics",
+    "page": 14,
+    "parent": "5.1",
+    "children": []
+  },
+  {
+    "clause_id": "5.1.4.1",
+    "text": "5.1.4.1 The internal resistance capacities (namely strength and deformation capacities) of members of concrete structures shall be estimated based on accepted theories, experimental evidences, professional experience and need for durability. Unless required otherwise,",
+    "page": 15,
+    "parent": "5.1.4",
+    "children": []
+  },
+  {
+    "clause_id": "5.1.4.2",
+    "text": "5.1.4.2 Strength design and serviceability check for concrete structures using new technology and systems may be accepted based on experimental studies also in case design and detailing are based on:",
+    "page": 15,
+    "parent": "5.1.4",
+    "children": []
+  },
+  {
+    "clause_id": "5.2.1.1",
+    "text": "5.2.1.1 Performance requirements",
+    "page": 19,
+    "parent": "5.2.1",
+    "children": []
+  },
+  {
+    "clause_id": "5.2.1.2",
+    "text": "5.2.1.2 Design requirements",
+    "page": 19,
+    "parent": "5.2.1",
+    "children": []
+  },
+  {
+    "clause_id": "5.2.1.3",
+    "text": "5.2.1.3 The detailed requirements for strength criteria are given at 9.3.",
+    "page": 19,
+    "parent": "5.2.1",
+    "children": []
+  },
+  {
+    "clause_id": "5.2.2",
+    "text": "5.2.2 Serviceability Criteria",
+    "page": 19,
+    "parent": "5.2",
+    "children": [
+      "5.2.2.1",
+      "5.2.2.2",
+      "5.2.2.3"
+    ]
+  },
+  {
+    "clause_id": "5.2.2.1",
+    "text": "5.2.2.1 Performance requirements",
+    "page": 19,
+    "parent": "5.2.2",
+    "children": []
+  },
+  {
+    "clause_id": "5.2.2.2",
+    "text": "5.2.2.2 Design requirements",
+    "page": 20,
+    "parent": "5.2.2",
+    "children": []
+  },
+  {
+    "clause_id": "5.2.2.3",
+    "text": "5.2.2.3 The detailed requirements for serviceability criteria are given at 9.4.",
+    "page": 20,
+    "parent": "5.2.2",
+    "children": []
+  },
+  {
+    "clause_id": "5.2.3",
+    "text": "5.2.3 Durability Criteria",
+    "page": 20,
+    "parent": "5.2",
+    "children": [
+      "5.2.3.1",
+      "5.2.3.3"
+    ]
+  },
+  {
+    "clause_id": "5.2.3.1",
+    "text": "5.2.3.1 Performance requirements",
+    "page": 20,
+    "parent": "5.2.3",
+    "children": []
+  },
+  {
+    "clause_id": "5.2.3.3",
+    "text": "5.2.3.3 The detailed requirements for durability criteria are given at 9.5.",
+    "page": 20,
+    "parent": "5.2.3",
+    "children": []
+  },
+  {
+    "clause_id": "5.2.4",
+    "text": "5.2.4 Robustness Criteria",
+    "page": 20,
+    "parent": "5.2",
+    "children": [
+      "5.2.4.1",
+      "5.2.4.2",
+      "5.2.4.3"
+    ]
+  },
+  {
+    "clause_id": "5.2.4.1",
+    "text": "5.2.4.1 Performance requirements",
+    "page": 20,
+    "parent": "5.2.4",
+    "children": []
+  },
+  {
+    "clause_id": "5.2.4.2",
+    "text": "5.2.4.2 Design requirements",
+    "page": 21,
+    "parent": "5.2.4",
+    "children": []
+  },
+  {
+    "clause_id": "5.2.4.3",
+    "text": "5.2.4.3 The detailed requirements for robustness criteria are given at 9.6.",
+    "page": 21,
+    "parent": "5.2.4",
+    "children": []
+  },
+  {
+    "clause_id": "5.2.5.1",
+    "text": "5.2.5.1 Performance requirements",
+    "page": 22,
+    "parent": "5.2.5",
+    "children": []
+  },
+  {
+    "clause_id": "5.2.5.2",
+    "text": "5.2.5.2 Design requirements",
+    "page": 22,
+    "parent": "5.2.5",
+    "children": []
+  },
+  {
+    "clause_id": "5.2.5.3",
+    "text": "5.2.5.3 The detailed requirements for integrity criteria are given at 9.7.",
+    "page": 22,
+    "parent": "5.2.5",
+    "children": []
+  },
+  {
+    "clause_id": "5.2.6",
+    "text": "5.2.6 Restorability Criteria",
+    "page": 22,
+    "parent": "5.2",
+    "children": [
+      "5.2.6.1",
+      "5.2.6.2",
+      "5.2.6.3"
+    ]
+  },
+  {
+    "clause_id": "5.2.6.1",
+    "text": "5.2.6.1 Performance requirements",
+    "page": 22,
+    "parent": "5.2.6",
+    "children": []
+  },
+  {
+    "clause_id": "5.2.6.2",
+    "text": "5.2.6.2 Design requirements",
+    "page": 23,
+    "parent": "5.2.6",
+    "children": []
+  },
+  {
+    "clause_id": "5.2.6.3",
+    "text": "5.2.6.3 The detailed requirements for restorability criteria are given at 9.8.",
+    "page": 24,
+    "parent": "5.2.6",
+    "children": []
+  },
+  {
+    "clause_id": "5.4.1",
+    "text": "5.4.1 Reinforced Concrete Structural Systems",
+    "page": 24,
+    "parent": "5.4",
+    "children": [
+      "5.4.1.1",
+      "5.4.1.2"
+    ]
+  },
+  {
+    "clause_id": "5.4.1.1",
+    "text": "5.4.1.1 Reinforced concrete structures may be composed of any of the following basic structural systems:",
+    "page": 24,
+    "parent": "5.4.1",
+    "children": []
+  },
+  {
+    "clause_id": "5.4.1.2",
+    "text": "5.4.1.2 While selecting a structural system for a RC structure, the following shall be considered:",
+    "page": 25,
+    "parent": "5.4.1",
+    "children": []
+  },
+  {
+    "clause_id": "5.4.2",
+    "text": "5.4.2 Prestressed Concrete Structural Systems",
+    "page": 25,
+    "parent": "5.4",
+    "children": [
+      "5.4.2.4"
+    ]
+  },
+  {
+    "clause_id": "5.4.2.4",
+    "text": "5.4.2.4 Inelasticity in prestressed Members",
+    "page": 26,
+    "parent": "5.4.2",
+    "children": []
+  },
+  {
+    "clause_id": "5.5.1",
+    "text": "5.5.1 Relevant Indian Standards shall be complied with for materials, production, workmanship, maintenance and use of structure to realize the design objectives. Constructability, maintainability and usability (during design service life) shall be integral part of the process of design along with the usual activities of choosing materials, selecting suitable structural system, preparing accurate analytical models, performing structural design, and providing reinforcement detail.",
+    "page": 26,
+    "parent": "5.5",
+    "children": []
+  },
+  {
+    "clause_id": "5.5.2",
+    "text": "5.5.2 Quality in construction shall be ensured through quality control (which is exercised by the construction agency), and quality assurance (which is exercised by an independent third party peer review agency).",
+    "page": 27,
+    "parent": "5.5",
+    "children": []
+  },
+  {
+    "clause_id": "5.5.3",
+    "text": "5.5.3 The owner shall ensure that quality systems are in place to build safe, serviceable, sustainable, aesthetic and economical structures to adopt quality control and assurance.",
+    "page": 27,
+    "parent": "5.5",
+    "children": []
+  },
+  {
+    "clause_id": "5.6.1",
+    "text": "5.6.1 Both cast in-situ and precast concrete structures shall be designed such that all member joints and connections shall remain elastic (under the action of the forces and moments transmitted through them under the action of design loads combined as per Table 3), except when stated otherwise in other relevant Indian Standards.",
+    "page": 27,
+    "parent": "5.6",
+    "children": []
+  },
+  {
+    "clause_id": "5.6.2",
+    "text": "5.6.2 When joints and connections sustain inelasticity even after being designed for the design loads, the structure shall be provided with additional lateral restraint in the form of braces or structural walls made-by adequate moment connections or by a system of bracings.",
+    "page": 27,
+    "parent": "5.6",
+    "children": []
+  },
+  {
+    "clause_id": "5.7.1",
+    "text": "5.7.1 Types of Maintenance in Focus",
+    "page": 27,
+    "parent": "5.7",
+    "children": []
+  },
+  {
+    "clause_id": "5.7.2",
+    "text": "5.7.2 Actions of Maintenance",
+    "page": 27,
+    "parent": "5.7",
+    "children": []
+  },
+  {
+    "clause_id": "6.1.2",
+    "text": "6.1.2 Imposed Load",
+    "page": 29,
+    "parent": "6.1",
+    "children": [
+      "6.1.2.1",
+      "6.1.2.2",
+      "6.1.2.3"
+    ]
+  },
+  {
+    "clause_id": "6.1.2.1",
+    "text": "6.1.2.1 Critical positioning of imposed load",
+    "page": 29,
+    "parent": "6.1.2",
+    "children": []
+  },
+  {
+    "clause_id": "6.1.2.2",
+    "text": "6.1.2.2 Reduction in imposed load",
+    "page": 30,
+    "parent": "6.1.2",
+    "children": []
+  },
+  {
+    "clause_id": "6.1.2.3",
+    "text": "6.1.2.3 Imposed load in estimation of deflection owing to creep",
+    "page": 30,
+    "parent": "6.1.2",
+    "children": []
+  },
+  {
+    "clause_id": "6.1.7",
+    "text": "6.1.7 Liquid Pressure Load",
+    "page": 31,
+    "parent": "6.1",
+    "children": []
+  },
+  {
+    "clause_id": "6.1.8",
+    "text": "6.1.8 Machine Vibration Load",
+    "page": 31,
+    "parent": "6.1",
+    "children": []
+  },
+  {
+    "clause_id": "6.2.2",
+    "text": "6.2.2 Shrinkage",
+    "page": 32,
+    "parent": "6.2",
+    "children": []
+  },
+  {
+    "clause_id": "6.2.4",
+    "text": "6.2.4 Temperature \u2014 Ambient Air",
+    "page": 33,
+    "parent": "6.2",
+    "children": []
+  },
+  {
+    "clause_id": "6.2.5",
+    "text": "6.2.5 Temperature \u2014 Fire",
+    "page": 33,
+    "parent": "6.2",
+    "children": []
+  },
+  {
+    "clause_id": "6.2.6",
+    "text": "6.2.6 Earthquake Ground Shaking",
+    "page": 33,
+    "parent": "6.2",
+    "children": []
+  },
+  {
+    "clause_id": "6.3.1",
+    "text": "6.3.1 Characteristic Loads",
+    "page": 34,
+    "parent": "6.3",
+    "children": []
+  },
+  {
+    "clause_id": "6.3.2",
+    "text": "6.3.2 Design Loads",
+    "page": 34,
+    "parent": "6.3",
+    "children": []
+  },
+  {
+    "clause_id": "6.3.3",
+    "text": "6.3.3 Partial Safety Factors \u201d for Loads",
+    "page": 34,
+    "parent": "6.3",
+    "children": []
+  },
+  {
+    "clause_id": "6.4.1",
+    "text": "6.4.1 Three minimum sets of load combinations, namely:",
+    "page": 34,
+    "parent": "6.4",
+    "children": []
+  },
+  {
+    "clause_id": "6.4.2",
+    "text": "6.4.2 The load combinations specified above are the minimum combinations that need to be considered. Further:",
+    "page": 34,
+    "parent": "6.4",
+    "children": []
+  },
+  {
+    "clause_id": "6.4.3",
+    "text": "6.4.3 The structure shall be examined under the action of loads arising from combining the design loads (as stated in 6.3) as per:",
+    "page": 35,
+    "parent": "6.4",
+    "children": []
+  },
+  {
+    "clause_id": "7.1.1",
+    "text": "7.1.1 Ingredients of Concrete",
+    "page": 41,
+    "parent": "7.1",
+    "children": []
+  },
+  {
+    "clause_id": "7.1.1.2.1",
+    "text": "7.1.1.2.1 Sulphate resisting Portland cement is a type of Portland Cement in which the amount of tri-calcium aluminate (C3A) is restricted to lower than 5 percent and 2(C3A +C4AF) lower than 25 percent.",
+    "page": 44,
+    "parent": "7.1.1.2",
+    "children": []
+  },
+  {
+    "clause_id": "7.1.1.2.2",
+    "text": "7.1.1.2.2 Composite cement conforming to IS 16415 is a mixture of Portland cement clinker (IS 16353), fly ash [IS 3812 (Part 1)], granulated slag (IS 12089) and gypsum.",
+    "page": 44,
+    "parent": "7.1.1.2",
+    "children": []
+  },
+  {
+    "clause_id": "7.1.1.2.3",
+    "text": "7.1.1.2.3 Low heat Portland cement conforming to IS 12600 shall be used with adequate precautions with regard to removal of formwork, etc.",
+    "page": 44,
+    "parent": "7.1.1.2",
+    "children": []
+  },
+  {
+    "clause_id": "7.1.1.2.4",
+    "text": "7.1.1.2.4 High alumina cement conforming to IS 6452 is suitable for use only under special circumstances with the prior approval of the engineer-in-charge. Specialist literature may be consulted for guidance regarding the use of these types of cements. but in some cold regions, this cement may find use as a structural material taking advantage of high heat of hydration and high early strength development.",
+    "page": 44,
+    "parent": "7.1.1.2",
+    "children": []
+  },
+  {
+    "clause_id": "7.1.1.2.5",
+    "text": "7.1.1.2.5 Supersulphated cement is used where concrete is likely to be attacked by sulphate. It is a product of granulated blast furnace slag, calcium sulphate and a small quantity of Portland cement or Portland cement clinker or any other suitable source of lime. This cement has chemical resistance to most of the aggressive conditions generally encountered in construction and to the attack of sulphates in particular. It is used generally for marine works, mass concrete jobs to resist the attack by aggressive waters, reinforced concrete pipes in ground waters, concrete construction in sulphate-bearing soils, in chemical works involving exposure to high concentration of sulphates of weak solutions of mineral acids, underside of bridges, over railways (steam driven locos) and for concrete",
+    "page": 44,
+    "parent": "7.1.1.2",
+    "children": []
+  },
+  {
+    "clause_id": "7.1.1.2.6",
+    "text": "7.1.1.2.6 Microfine ordinary Portland cement conforming to IS 16993 is suitable for special applications like rock grouting, grouting concrete structures and underground construction for leak prevention, soil stabilization, etc.",
+    "page": 45,
+    "parent": "7.1.1.2",
+    "children": []
+  },
+  {
+    "clause_id": "7.1.1.2.7",
+    "text": "7.1.1.2.7 Hydrophobic Portland cement is manufactured on special requirement for high rainfall areas to improve the shelf life of the cement.",
+    "page": 45,
+    "parent": "7.1.1.2",
+    "children": []
+  },
+  {
+    "clause_id": "7.1.1.2.8",
+    "text": "7.1.1.2.8 Rapid hardening Portland cement (RHPC) has similar properties to that of ordinary Portland cement except that RHPC is more finely ground with slightly altered chemical composition.",
+    "page": 45,
+    "parent": "7.1.1.2",
+    "children": []
+  },
+  {
+    "clause_id": "7.1.1.3.1.2",
+    "text": "7.1.1.3.1.2 Natural surface water",
+    "page": 45,
+    "parent": "7.1.1.3.1",
+    "children": []
+  },
+  {
+    "clause_id": "7.1.1.3.1.5",
+    "text": "7.1.1.3.1.5 Water from underground sources",
+    "page": 46,
+    "parent": "7.1.1.3.1",
+    "children": []
+  },
+  {
+    "clause_id": "7.1.1.3.2",
+    "text": "7.1.1.3.2 Testing and requirements of water",
+    "page": 46,
+    "parent": "7.1.1.3",
+    "children": []
+  },
+  {
+    "clause_id": "1000",
+    "text": "1000 mg/\\ chloride in water for reinforced concrete work can be permitted provided the chloride content of hardened concrete is checked at the time of concrete mix design and conform to requirement of total chloride content in the concrete as per this standard.",
+    "page": 48,
+    "parent": null,
+    "children": []
+  },
+  {
+    "clause_id": "30",
+    "text": "30 min from the initial setting time of control test block prepared with the same cement and distilled water. The test blocks shall be prepared and tested in accordance with the requirements of IS 4031 (Part 5).",
+    "page": 49,
+    "parent": null,
+    "children": []
+  },
+  {
+    "clause_id": "7.1.1.3.3",
+    "text": "7.1.1.3.3 Testing and requirements of curing water",
+    "page": 49,
+    "parent": "7.1.1.3",
+    "children": []
+  },
+  {
+    "clause_id": "7.1.1.3.4",
+    "text": "7.1.1.3.4 Sampling of water for concrete making and curing",
+    "page": 49,
+    "parent": "7.1.1.3",
+    "children": []
+  },
+  {
+    "clause_id": "7.1.1.4.1",
+    "text": "7.1.1.4.1 Mineral admixtures/Supplementary cementitious materials (SCMs)",
+    "page": 49,
+    "parent": "7.1.1.4",
+    "children": []
+  },
+  {
+    "clause_id": "7.1.1.4.2",
+    "text": "7.1.1.4.2 Chemical admixtures",
+    "page": 51,
+    "parent": "7.1.1.4",
+    "children": [
+      "7.1.1.4.2.1",
+      "7.1.1.4.2.2",
+      "7.1.1.4.2.3",
+      "7.1.1.4.2.4"
+    ]
+  },
+  {
+    "clause_id": "7.1.1.4.2.1",
+    "text": "7.1.1.4.2.1 Chemical admixtures, as mentioned in Table 9 if used, shall comply with IS 9103. Previous experience with and data on such materials should be considered in relation to the likely standards of supervision and workmanship to the work being specified.",
+    "page": 51,
+    "parent": "7.1.1.4.2",
+    "children": []
+  },
+  {
+    "clause_id": "7.1.1.4.2.2",
+    "text": "7.1.1.4.2.2 Chemical admixtures can be achieved by a spectrum of materials and manufacturing processes, but shall comply with IS 9103. Further",
+    "page": 51,
+    "parent": "7.1.1.4.2",
+    "children": []
+  },
+  {
+    "clause_id": "7.1.1.4.2.3",
+    "text": "7.1.1.4.2.3 The amount of admixture added to a mix shall be recorded in the production record. Additional dose of admixture may be added at project site and mixed adequately in mixer itself to regain the workability of concrete (if necessary) with mutual agreement between the producer/supplier and the purchaser/user of concrete. But, the producer/supplier shall assure the ultimate quality of concrete supplied by him and maintain record of quantity and time of addition.",
+    "page": 51,
+    "parent": "7.1.1.4.2",
+    "children": []
+  },
+  {
+    "clause_id": "7.1.1.4.2.4",
+    "text": "7.1.1.4.2.4 Shrinkage compensating admixtures shall not be used in structural concrete.",
+    "page": 52,
+    "parent": "7.1.1.4.2",
+    "children": []
+  },
+  {
+    "clause_id": "7.1.2",
+    "text": "7.1.2 Grades of concrete",
+    "page": 53,
+    "parent": "7.1",
+    "children": [
+      "7.1.2.1",
+      "7.1.2.2",
+      "7.1.2.3",
+      "7.1.2.4"
+    ]
+  },
+  {
+    "clause_id": "7.1.2.1",
+    "text": "7.1.2.1 The provisions of this standard shall be admissible to the grades of concrete listed in Table 10.",
+    "page": 53,
+    "parent": "7.1.2",
+    "children": []
+  },
+  {
+    "clause_id": "7.1.2.2",
+    "text": "7.1.2.2 Concrete of grades lower than those given in Table 10 shall be used only as lean concrete. meant to be a leveling course, foundation for masonry boundary walls and other small temporary RC construction of single storey, provided the strength of such concrete is sufficient to resist the loads appearing on the concrete.",
+    "page": 53,
+    "parent": "7.1.2",
+    "children": []
+  },
+  {
+    "clause_id": "7.1.2.3",
+    "text": "7.1.2.3 For concrete using mineral admixtures and those using high early strength cements, the properties of setting time and time dependent strength gain are different from those of standard and ordinary concretes. Cognizance of such modified properties shall be taken in deciding de-shuttering time, curing period and early age loading.",
+    "page": 53,
+    "parent": "7.1.2",
+    "children": []
+  },
+  {
+    "clause_id": "7.1.2.4",
+    "text": "7.1.2.4 The minimum grade of plain concrete (PC), reinforced concrete (RC) and prestressed concrete (PSC) shall be taken.",
+    "page": 53,
+    "parent": "7.1.2",
+    "children": []
+  },
+  {
+    "clause_id": "7.1.3",
+    "text": "7.1.3 Concrete Mix Proportioning",
+    "page": 53,
+    "parent": "7.1",
+    "children": [
+      "7.1.3.1",
+      "7.1.3.3"
+    ]
+  },
+  {
+    "clause_id": "7.1.3.1",
+    "text": "7.1.3.1 Mix proportion",
+    "page": 53,
+    "parent": "7.1.3",
+    "children": [
+      "7.1.3.1.1",
+      "7.1.3.1.2",
+      "7.1.3.1.3",
+      "7.1.3.1.4"
+    ]
+  },
+  {
+    "clause_id": "7.1.3.1.1",
+    "text": "7.1.3.1.1 The mix proportions shall be selected to ensure required:",
+    "page": 53,
+    "parent": "7.1.3.1",
+    "children": []
+  },
+  {
+    "clause_id": "7.1.3.1.2",
+    "text": "7.1.3.1.2 The determination of the proportions of ingredients of concrete to attain the properties of concrete as mentioned above shall be made by:",
+    "page": 54,
+    "parent": "7.1.3.1",
+    "children": []
+  },
+  {
+    "clause_id": "7.1.3.1.3",
+    "text": "7.1.3.1.3 Design mix concrete shall be preferred to nominal mix. When the former cannot be used for any reason in projects with grades of M20 or lower; the latter may be used with the permission of engineer-in-charge.",
+    "page": 54,
+    "parent": "7.1.3.1",
+    "children": []
+  },
+  {
+    "clause_id": "7.1.3.1.4",
+    "text": "7.1.3.1.4 Information required for concrete mix design",
+    "page": 54,
+    "parent": "7.1.3.1",
+    "children": []
+  },
+  {
+    "clause_id": "7.1.3.2.1",
+    "text": "7.1.3.2.1 The constructor shall carry out the mix design and the mix so designed (not the method of design) shall be approved by the engineer-in-charge, within the limitations of parameters and other stipulations laid down by this standard. If sought by the engineer- in-charge, supporting data (including graphs showing strength versus water-cement ratio for range of proportions, complete trial mix proportioning details) shall be provided to substantiate the choice of cement content, fine and coarse aggregate content, water, mineral admixtures, chemical admixtures, etc.",
+    "page": 55,
+    "parent": "7.1.3.2",
+    "children": []
+  },
+  {
+    "clause_id": "7.1.3.2.2",
+    "text": "7.1.3.2.2 The mix shall be designed to produce the densest possible concrete, following the approved procedures of mix designs and trials.",
+    "page": 55,
+    "parent": "7.1.3.2",
+    "children": []
+  },
+  {
+    "clause_id": "7.1.3.2.3",
+    "text": "7.1.3.2.3 The grade of concrete shall have the required workability, durability characteristics and characteristic strength not less than the values given in Table 10.",
+    "page": 55,
+    "parent": "7.1.3.2",
+    "children": []
+  },
+  {
+    "clause_id": "7.1.3.2.5",
+    "text": "7.1.3.2.5 Mix design done may be considered adequate for works undertaken within an year, provided there is no change in source and the quality of the materials.",
+    "page": 56,
+    "parent": "7.1.3.2",
+    "children": []
+  },
+  {
+    "clause_id": "7.1.3.3",
+    "text": "7.1.3.3 Nominal mix concrete",
+    "page": 57,
+    "parent": "7.1.3",
+    "children": []
+  },
+  {
+    "clause_id": "7.1.4",
+    "text": "7.1.4 Physical Properties",
+    "page": 58,
+    "parent": "7.1",
+    "children": [
+      "7.1.4.1",
+      "7.1.4.2",
+      "7.1.4.3",
+      "7.1.4.4",
+      "7.1.4.5",
+      "7.1.4.6",
+      "7.1.4.7"
+    ]
+  },
+  {
+    "clause_id": "7.1.4.1",
+    "text": "7.1.4.1 Modulus of elasticity",
+    "page": 58,
+    "parent": "7.1.4",
+    "children": [
+      "7.1.4.1.1"
+    ]
+  },
+  {
+    "clause_id": "7.1.4.1.1",
+    "text": "7.1.4.1.1 The above equation is valid for concretes made with quartzite and granite aggregates only. For limestone and sandstone aggregates, the value should be reduced by 10 percent and 30 percent respectively. For basalt aggregates, the value should be increased by 20 percent.",
+    "page": 58,
+    "parent": "7.1.4.1",
+    "children": []
+  },
+  {
+    "clause_id": "7.1.4.2",
+    "text": "7.1.4.2 Poisson\u2019s ratio",
+    "page": 58,
+    "parent": "7.1.4",
+    "children": []
+  },
+  {
+    "clause_id": "7.1.4.3",
+    "text": "7.1.4.3 Coefficient of thermal expansion",
+    "page": 59,
+    "parent": "7.1.4",
+    "children": []
+  },
+  {
+    "clause_id": "7.1.4.4",
+    "text": "7.1.4.4 Creep coefficient",
+    "page": 59,
+    "parent": "7.1.4",
+    "children": [
+      "7.1.4.4.1",
+      "7.1.4.4.2",
+      "7.1.4.4.3"
+    ]
+  },
+  {
+    "clause_id": "7.1.4.4.1",
+    "text": "7.1.4.4.1 The coefficient given above shall not be applicable to light weight concretes. The above estimates of ?#\"0 (*) shall be considered for normal weight concretes of grades M20 to M100, if the compressive stress does not exceed 0.36 fox at the age of loading.",
+    "page": 59,
+    "parent": "7.1.4.4",
+    "children": []
+  },
+  {
+    "clause_id": "7.1.4.4.2",
+    "text": "7.1.4.4.2 The creep coefficient Prsty (1) in concrete members at time * shall be determined depending on the level of creep expected in structures. For this purpose, structures shall be classified into three levels of creep as given below:",
+    "page": 59,
+    "parent": "7.1.4.4",
+    "children": []
+  },
+  {
+    "clause_id": "7.1.4.4.3",
+    "text": "7.1.4.4.3 Po shall be estimated as given below for different levels of creep. When self-compacting concrete is used, Pt.to (1) shall be increased by 10 percent for all levels of creep.",
+    "page": 60,
+    "parent": "7.1.4.4",
+    "children": []
+  },
+  {
+    "clause_id": "2",
+    "text": "2 = Notional creep coefficient to which the creep co-efficient reaches logarithmically in 75 years, and",
+    "page": 62,
+    "parent": null,
+    "children": []
+  },
+  {
+    "clause_id": "7.1.4.5",
+    "text": "7.1.4.5 Shrinkage strain",
+    "page": 63,
+    "parent": "7.1.4",
+    "children": [
+      "7.1.4.5.1",
+      "7.1.4.5.2",
+      "7.1.4.5.3"
+    ]
+  },
+  {
+    "clause_id": "7.1.4.5.1",
+    "text": "7.1.4.5.1 The total shrinkage strain is composed of two components, the autogenous shrinkage strain and the drying shrinkage strain. The value of the total shrinkage strain Ecs iS given by:",
+    "page": 63,
+    "parent": "7.1.4.5",
+    "children": []
+  },
+  {
+    "clause_id": "7.1.4.5.2",
+    "text": "7.1.4.5.2 The autogenous shrinkage strain develops during hardening of concrete; the major part develops in the early days after casting. Autogenous shrinkage is a linear function of concrete strength. It should be considered specifically when new concrete is cast against hardened concrete. The development of autogenous shrinkage with time may be taken as:",
+    "page": 63,
+    "parent": "7.1.4.5",
+    "children": [
+      "7.1.4.5.2.1"
+    ]
+  },
+  {
+    "clause_id": "7.1.4.5.2.1",
+    "text": "7.1.4.5.2.1 In the absence of accurate field/laboratory data, the values given below may be considered in design.",
+    "page": 63,
+    "parent": "7.1.4.5.2",
+    "children": []
+  },
+  {
+    "clause_id": "7.1.4.5.3",
+    "text": "7.1.4.5.3 The drying shrinkage strain develops slowly as it is a function of migration of the water through the hardened concrete.",
+    "page": 64,
+    "parent": "7.1.4.5",
+    "children": [
+      "7.1.4.5.3.1"
+    ]
+  },
+  {
+    "clause_id": "7.1.4.5.3.1",
+    "text": "7.1.4.5.3.1 Values of \u00e9a may be taken from the table given below. These values are expected mean values with a coefficient of variation of about 30 percent.",
+    "page": 64,
+    "parent": "7.1.4.5.3",
+    "children": []
+  },
+  {
+    "clause_id": "7.1.4.6",
+    "text": "7.1.4.6 Strength",
+    "page": 65,
+    "parent": "7.1.4",
+    "children": [
+      "7.1.4.6.1",
+      "7.1.4.6.2",
+      "7.1.4.6.3",
+      "7.1.4.6.4",
+      "7.1.4.6.5"
+    ]
+  },
+  {
+    "clause_id": "7.1.4.6.1",
+    "text": "7.1.4.6.1 Compressive strength",
+    "page": 65,
+    "parent": "7.1.4.6",
+    "children": []
+  },
+  {
+    "clause_id": "7.1.4.6.2",
+    "text": "7.1.4.6.2 Direct tensile strength",
+    "page": 65,
+    "parent": "7.1.4.6",
+    "children": []
+  },
+  {
+    "clause_id": "7.1.4.6.3",
+    "text": "7.1.4.6.3 Split tensile strength",
+    "page": 65,
+    "parent": "7.1.4.6",
+    "children": []
+  },
+  {
+    "clause_id": "7.1.4.6.4",
+    "text": "7.1.4.6.4 Modulus of rupture",
+    "page": 66,
+    "parent": "7.1.4.6",
+    "children": []
+  },
+  {
+    "clause_id": "7.1.4.6.5",
+    "text": "7.1.4.6.5 Increase in strength with age",
+    "page": 66,
+    "parent": "7.1.4.6",
+    "children": []
+  },
+  {
+    "clause_id": "7.1.4.7",
+    "text": "7.1.4.7 Workability",
+    "page": 67,
+    "parent": "7.1.4",
+    "children": []
+  },
+  {
+    "clause_id": "1",
+    "text": "1 For most of the placing conditions, internal vibrators (needle vibrators) are suitable. 2 The diameter of the needle shall be determined based on the density and spacing of reinforcement bars and thickness of sections.",
+    "page": 68,
+    "parent": null,
+    "children": [
+      "1.1",
+      "1.2",
+      "1.3",
+      "1.0"
+    ]
+  },
+  {
+    "clause_id": "3",
+    "text": "3 For tremie concrete, vibrators are not required to be used.",
+    "page": 68,
+    "parent": null,
+    "children": [
+      "3.1",
+      "3.2",
+      "3.3",
+      "3.4",
+      "3.5",
+      "3.6",
+      "3.7",
+      "3.8",
+      "3.9",
+      "3.10",
+      "3.11",
+      "3.12",
+      "3.13",
+      "3.14",
+      "3.15",
+      "3.16",
+      "3.17",
+      "3.18"
+    ]
+  },
+  {
+    "clause_id": "4",
+    "text": "4 For workability of self compacting concrete, refer 12.5.1",
+    "page": 68,
+    "parent": null,
+    "children": []
+  },
+  {
+    "clause_id": "7.2.1",
+    "text": "7.2.1 Grades of steel reinforcing bars",
+    "page": 68,
+    "parent": "7.2",
+    "children": [
+      "7.2.1.1",
+      "7.2.1.2"
+    ]
+  },
+  {
+    "clause_id": "7.2.1.1",
+    "text": "7.2.1.1 The grade of the steel bars to be used at site shall be as given in the structural drawings. No change shall be made at site, unless it is approved specifically by the structural designer and owner.",
+    "page": 68,
+    "parent": "7.2.1",
+    "children": []
+  },
+  {
+    "clause_id": "7.2.1.2",
+    "text": "7.2.1.2 The reinforcing steel bars used shall conform to IS 1786. The provisions of this standard shall be applicable to reinforcing steels of grades given in Table 14.",
+    "page": 68,
+    "parent": "7.2.1",
+    "children": []
+  },
+  {
+    "clause_id": "7.2.2",
+    "text": "7.2.2 Physical Properties",
+    "page": 69,
+    "parent": "7.2",
+    "children": [
+      "7.2.2.1",
+      "7.2.2.2",
+      "7.2.2.3",
+      "7.2.2.4",
+      "7.2.2.5"
+    ]
+  },
+  {
+    "clause_id": "7.2.2.1",
+    "text": "7.2.2.1 Modulus of elasticity",
+    "page": 69,
+    "parent": "7.2.2",
+    "children": []
+  },
+  {
+    "clause_id": "7.2.2.2",
+    "text": "7.2.2.2 Poisson's ratio",
+    "page": 69,
+    "parent": "7.2.2",
+    "children": []
+  },
+  {
+    "clause_id": "7.2.2.3",
+    "text": "7.2.2.3 Coefficient of thermal expansion",
+    "page": 69,
+    "parent": "7.2.2",
+    "children": []
+  },
+  {
+    "clause_id": "7.2.2.4",
+    "text": "7.2.2.4 Strength",
+    "page": 69,
+    "parent": "7.2.2",
+    "children": [
+      "7.2.2.4.1",
+      "7.2.2.4.2"
+    ]
+  },
+  {
+    "clause_id": "7.2.2.4.1",
+    "text": "7.2.2.4.1 The yield strength of steels for which there is no clearly defined yield point, shall be taken as the 0.2 percent proof stress, which represents that strength results in a residual plastic strain of 0.0020 when unloaded from it. For steels having definite yield points, the stress corresponding to the lower yield point shall be considered as the yield (tensile) strength. And, the ultimate (tensile) strength of steels shall be taken as the maximum stress that the steel will resist before rupture. Unless otherwise stated, strength refers to characteristic strength.",
+    "page": 69,
+    "parent": "7.2.2.4",
+    "children": []
+  },
+  {
+    "clause_id": "7.2.2.4.2",
+    "text": "7.2.2.4.2 The following are the acceptance criteria for steel reinforcement:",
+    "page": 69,
+    "parent": "7.2.2.4",
+    "children": []
+  },
+  {
+    "clause_id": "7.2.2.5",
+    "text": "7.2.2.5 Elongation",
+    "page": 70,
+    "parent": "7.2.2",
+    "children": []
+  },
+  {
+    "clause_id": "7.3.1",
+    "text": "7.3.1 Prestressing Steel",
+    "page": 70,
+    "parent": "7.3",
+    "children": [
+      "7.3.1.2",
+      "7.3.1.3"
+    ]
+  },
+  {
+    "clause_id": "7.3.1.2",
+    "text": "7.3.1.2 Physical properties",
+    "page": 73,
+    "parent": "7.3.1",
+    "children": [
+      "7.3.1.2.1",
+      "7.3.1.2.2",
+      "7.3.1.2.3",
+      "7.3.1.2.5"
+    ]
+  },
+  {
+    "clause_id": "7.3.1.2.1",
+    "text": "7.3.1.2.1 Modulus of elasticity",
+    "page": 73,
+    "parent": "7.3.1.2",
+    "children": []
+  },
+  {
+    "clause_id": "7.3.1.2.2",
+    "text": "7.3.1.2.2 Poisson's ratio",
+    "page": 73,
+    "parent": "7.3.1.2",
+    "children": []
+  },
+  {
+    "clause_id": "7.3.1.2.3",
+    "text": "7.3.1.2.3 Coefficient of thermal expansion",
+    "page": 73,
+    "parent": "7.3.1.2",
+    "children": []
+  },
+  {
+    "clause_id": "7.3.1.2.5",
+    "text": "7.3.1.2.5 Stress relaxation",
+    "page": 74,
+    "parent": "7.3.1.2",
+    "children": []
+  },
+  {
+    "clause_id": "0.155",
+    "text": "0.155 Normal Relaxation Steel",
+    "page": 75,
+    "parent": "0",
+    "children": []
+  },
+  {
+    "clause_id": "0.143",
+    "text": "0.143 Low Relaxation Steel",
+    "page": 75,
+    "parent": "0",
+    "children": []
+  },
+  {
+    "clause_id": "7.3.1.3",
+    "text": "7.3.1.3 Untensioned steel",
+    "page": 75,
+    "parent": "7.3.1",
+    "children": []
+  },
+  {
+    "clause_id": "7.3.2",
+    "text": "7.3.2 Sheathing Ducts and Joints",
+    "page": 75,
+    "parent": "7.3",
+    "children": [
+      "7.3.2.1",
+      "7.3.2.2",
+      "7.3.2.3",
+      "7.3.2.4"
+    ]
+  },
+  {
+    "clause_id": "7.3.2.1",
+    "text": "7.3.2.1 Metallic ducts",
+    "page": 76,
+    "parent": "7.3.2",
+    "children": []
+  },
+  {
+    "clause_id": "7.3.2.2",
+    "text": "7.3.2.2 Corrugated High Density Poly-Eurythane Ducts",
+    "page": 76,
+    "parent": "7.3.2",
+    "children": []
+  },
+  {
+    "clause_id": "7.3.2.3",
+    "text": "7.3.2.3 Tests on mild steel and corrugated HDPE sheathing ducts",
+    "page": 77,
+    "parent": "7.3.2",
+    "children": [
+      "7.3.2.3.1"
+    ]
+  },
+  {
+    "clause_id": "7.3.2.3.1",
+    "text": "7.3.2.3.1 Mild steel sheathing ducts",
+    "page": 77,
+    "parent": "7.3.2.3",
+    "children": []
+  },
+  {
+    "clause_id": "7.3.2.4",
+    "text": "7.3.2.4 Sheathing duct joints",
+    "page": 82,
+    "parent": "7.3.2",
+    "children": [
+      "7.3.2.4.1",
+      "7.3.2.4.2",
+      "7.3.2.4.3"
+    ]
+  },
+  {
+    "clause_id": "7.3.2.4.1",
+    "text": "7.3.2.4.1 The sheathing ducts shall be of the spiral corrugated type. For major projects, the sheathing ducts shall be manufactured preferably at the project site utilizing appropriate machines. With such an arrangement, long lengths of sheathing ducts may be used with consequent reduction in the number of joints and couplers. Where sheathing duct joints are unavoidable, such joints shall be made cement slurry tight by the use of corrugated threaded sleeve couplers which can be tightly screwed on to the outer side of the sheathing ducts. A heat-shrink coupler also could be used, if suitable.",
+    "page": 82,
+    "parent": "7.3.2.4",
+    "children": []
+  },
+  {
+    "clause_id": "7.3.2.4.2",
+    "text": "7.3.2.4.2 The sleeve coupler (see Fig. 6) shall not have a length of the coupler less than 150mm, but should be increased up to 200 mm wherever practicable. The joints between the ends of the coupler and the duct shall be sealed with adhesive sealing tape to prevent penetration of cement slurry during concreting. The couplers of adjacent ducts shall be staggered, wherever practicable. As far as possible, couplers shall not be located in curved zones. The corrugated sleeve couplers are being manufactured conveniently using the sheath making machine with the next higher size of die set.",
+    "page": 82,
+    "parent": "7.3.2.4",
+    "children": []
+  },
+  {
+    "clause_id": "7.3.2.4.3",
+    "text": "7.3.2.4.3 The heat-shrink coupler (see Fig. 7) is supplied in the form of bandage rolls, which can be used for all diameters of sheathing ducts. The bandage is coated on the underside with a heat sensitive adhesive so that after heating the bandage material shrinks in to the sheathing and ensures formation of a leak proof joint, without the need for extra taping or support in the form of corrugated sleeve couplers. A soft gas flame is used to heat the coupler.",
+    "page": 82,
+    "parent": "7.3.2.4",
+    "children": [
+      "7.3.2.4.3.1"
+    ]
+  },
+  {
+    "clause_id": "7.3.2.4.3.1",
+    "text": "7.3.2.4.3.1 Corrugated HDPE sheathing ducts",
+    "page": 83,
+    "parent": "7.3.2.4.3",
+    "children": []
+  },
+  {
+    "clause_id": "7.3.3",
+    "text": "7.3.3 Mechanical Couplers",
+    "page": 83,
+    "parent": "7.3",
+    "children": [
+      "7.3.3.1",
+      "7.3.3.2"
+    ]
+  },
+  {
+    "clause_id": "7.3.3.1",
+    "text": "7.3.3.1 Fixed or movable type mechanical couplers shall:",
+    "page": 83,
+    "parent": "7.3.3",
+    "children": []
+  },
+  {
+    "clause_id": "7.3.3.2",
+    "text": "7.3.3.2 Also, the anchorage and stressing of second tendon shall not disturb the anchorage of the first tendon when fixed couplers are used.",
+    "page": 83,
+    "parent": "7.3.3",
+    "children": []
+  },
+  {
+    "clause_id": "7.4.1",
+    "text": "7.4.1 Pre-tensioned Systems",
+    "page": 84,
+    "parent": "7.4",
+    "children": [
+      "7.4.1.1",
+      "7.4.1.2",
+      "7.4.1.3",
+      "7.4.1.4"
+    ]
+  },
+  {
+    "clause_id": "7.4.1.1",
+    "text": "7.4.1.1 Anchorages",
+    "page": 84,
+    "parent": "7.4.1",
+    "children": []
+  },
+  {
+    "clause_id": "7.4.1.2",
+    "text": "7.4.1.2 Transfer of prestress",
+    "page": 85,
+    "parent": "7.4.1",
+    "children": []
+  },
+  {
+    "clause_id": "7.4.1.3",
+    "text": "7.4.1.3 Anchorage of tensile force for the ultimate limit state:",
+    "page": 86,
+    "parent": "7.4.1",
+    "children": []
+  },
+  {
+    "clause_id": "1.0",
+    "text": "1.0 Goodbondconditions",
+    "page": 87,
+    "parent": "1",
+    "children": []
+  },
+  {
+    "clause_id": "7.4.1.4",
+    "text": "7.4.1.4 Deviators",
+    "page": 88,
+    "parent": "7.4.1",
+    "children": [
+      "7.4.1.4.1",
+      "7.4.1.4.2"
+    ]
+  },
+  {
+    "clause_id": "7.4.1.4.1",
+    "text": "7.4.1.4.1 A deviator shall withstand both longitudinal and transverse forces applied by tendon and transmit them to the structure; and ensure that the radius of curvature of the prestressing tendon does not cause any overstressing or damage to it.",
+    "page": 88,
+    "parent": "7.4.1.4",
+    "children": []
+  },
+  {
+    "clause_id": "7.4.1.4.2",
+    "text": "7.4.1.4.2 In a deviation zone,",
+    "page": 88,
+    "parent": "7.4.1.4",
+    "children": []
+  },
+  {
+    "clause_id": "7.4.2",
+    "text": "7.4.2 Post-tensioned Systems",
+    "page": 88,
+    "parent": "7.4",
+    "children": [
+      "7.4.2.1",
+      "7.4.2.2",
+      "7.4.2.3"
+    ]
+  },
+  {
+    "clause_id": "7.4.2.1",
+    "text": "7.4.2.1 The anchorages in post tensioned system shall be any one of the following types:",
+    "page": 88,
+    "parent": "7.4.2",
+    "children": []
+  },
+  {
+    "clause_id": "7.4.2.2",
+    "text": "7.4.2.2 The anchorage shall meet the following requirements:",
+    "page": 88,
+    "parent": "7.4.2",
+    "children": []
+  },
+  {
+    "clause_id": "7.4.2.3",
+    "text": "7.4.2.3 The anchorage shall be capable of:",
+    "page": 89,
+    "parent": "7.4.2",
+    "children": []
+  },
+  {
+    "clause_id": "7.5.1",
+    "text": "7.5.1 Constituent Materials",
+    "page": 92,
+    "parent": "7.5",
+    "children": []
+  },
+  {
+    "clause_id": "7.5.2",
+    "text": "7.5.2 Use of Grout Colloidal Mixer",
+    "page": 92,
+    "parent": "7.5",
+    "children": []
+  },
+  {
+    "clause_id": "7.5.3",
+    "text": "7.5.3 Properties of Grout",
+    "page": 92,
+    "parent": "7.5",
+    "children": []
+  },
+  {
+    "clause_id": "7.5.4",
+    "text": "7.5.4 Tests for Ascertaining Properties of Grout",
+    "page": 93,
+    "parent": "7.5",
+    "children": []
+  },
+  {
+    "clause_id": "8.1.1",
+    "text": "8.1.1 Linear Analysis",
+    "page": 94,
+    "parent": "8.1",
+    "children": []
+  },
+  {
+    "clause_id": "8.1.2",
+    "text": "8.1.2 Nonlinear Analysis",
+    "page": 95,
+    "parent": "8.1",
+    "children": [
+      "8.1.2.1",
+      "8.1.2.2",
+      "8.1.2.3"
+    ]
+  },
+  {
+    "clause_id": "8.1.2.1",
+    "text": "8.1.2.1 Nonlinear analysis shall be used to assess new concrete structures (and their members) under the action of loads corresponding to Set 2 Accidental Load Combinations and Set 3 Extreme Load Combinations as specified in 6.4 and Table 2), and existing concrete structures (and their members) under the action of loads corresponding to all three sets of load combinations (specified in 6.4 and Table 2).",
+    "page": 95,
+    "parent": "8.1.2",
+    "children": []
+  },
+  {
+    "clause_id": "8.1.2.2",
+    "text": "8.1.2.2 The actual inelastic properties with no partial safety factors applied to the characteristic strengths and strains are used.",
+    "page": 96,
+    "parent": "8.1.2",
+    "children": []
+  },
+  {
+    "clause_id": "8.1.2.3",
+    "text": "8.1.2.3 Standard structural analysis software (publicly validated), only after undertaking a detailed sensitivity analysis of the parameters used to define the inelastic stress-strain or load-deformation characteristics of the materials and/or members shall be used.",
+    "page": 96,
+    "parent": "8.1.2",
+    "children": []
+  },
+  {
+    "clause_id": "8.2.1",
+    "text": "8.2.1 Modelling",
+    "page": 96,
+    "parent": "8.2",
+    "children": [
+      "8.2.1.1",
+      "8.2.1.2",
+      "8.2.1.3"
+    ]
+  },
+  {
+    "clause_id": "8.2.1.1",
+    "text": "8.2.1.1 Member flexibility",
+    "page": 96,
+    "parent": "8.2.1",
+    "children": []
+  },
+  {
+    "clause_id": "8.2.1.2",
+    "text": "8.2.1.2 Soil-Foundation system flexibility",
+    "page": 99,
+    "parent": "8.2.1",
+    "children": []
+  },
+  {
+    "clause_id": "8.2.1.3",
+    "text": "8.2.1.3 Effect of Prestress",
+    "page": 101,
+    "parent": "8.2.1",
+    "children": []
+  },
+  {
+    "clause_id": "8.2.2",
+    "text": "8.2.2 Loading",
+    "page": 101,
+    "parent": "8.2",
+    "children": []
+  },
+  {
+    "clause_id": "8.2.3",
+    "text": "8.2.3 Analysis",
+    "page": 101,
+    "parent": "8.2",
+    "children": [
+      "8.2.3.1",
+      "8.2.3.2",
+      "8.2.3.3"
+    ]
+  },
+  {
+    "clause_id": "8.2.3.1",
+    "text": "8.2.3.1 Linear Analysis",
+    "page": 103,
+    "parent": "8.2.3",
+    "children": [
+      "8.2.3.1.1",
+      "8.2.3.1.2",
+      "8.2.3.1.3"
+    ]
+  },
+  {
+    "clause_id": "8.2.3.1.1",
+    "text": "8.2.3.1.1 Linear analysis may be performed of concrete structural systems, when:",
+    "page": 103,
+    "parent": "8.2.3.1",
+    "children": []
+  },
+  {
+    "clause_id": "8.2.3.1.2",
+    "text": "8.2.3.1.2 Linear analysis may be performed using the four methods, namely:",
+    "page": 103,
+    "parent": "8.2.3.1",
+    "children": []
+  },
+  {
+    "clause_id": "8.2.3.1.3",
+    "text": "8.2.3.1.3 In each of methods mentioned above, it shall be ensured that:",
+    "page": 104,
+    "parent": "8.2.3.1",
+    "children": []
+  },
+  {
+    "clause_id": "8.2.3.2",
+    "text": "8.2.3.2 Approximate Geometric Nonlinear Analysis",
+    "page": 104,
+    "parent": "8.2.3",
+    "children": []
+  },
+  {
+    "clause_id": "8.2.3.3",
+    "text": "8.2.3.3 Nonlinear Analysis",
+    "page": 104,
+    "parent": "8.2.3",
+    "children": []
+  },
+  {
+    "clause_id": "8.3.1",
+    "text": "8.3.1 Modelling",
+    "page": 106,
+    "parent": "8.3",
+    "children": [
+      "8.3.1.1"
+    ]
+  },
+  {
+    "clause_id": "8.3.1.1",
+    "text": "8.3.1.1 A member or local region shall be represented by a strut and tie model, which consists of a traditional truss made up of struts and ties connected at nodes, capable of transferring the factored loads applied on them. The truss can represent:",
+    "page": 106,
+    "parent": "8.3.1",
+    "children": []
+  },
+  {
+    "clause_id": "8.3.3",
+    "text": "8.3.3 Analysis",
+    "page": 107,
+    "parent": "8.3",
+    "children": []
+  },
+  {
+    "clause_id": "8.7.1",
+    "text": "8.7.1 Solid Slabs",
+    "page": 111,
+    "parent": "8.7",
+    "children": [
+      "8.7.1.1",
+      "8.7.1.2",
+      "8.7.1.3",
+      "8.7.1.4",
+      "8.7.1.5",
+      "8.7.1.6"
+    ]
+  },
+  {
+    "clause_id": "8.7.1.1",
+    "text": "8.7.1.1 One-way slabs",
+    "page": 111,
+    "parent": "8.7.1",
+    "children": []
+  },
+  {
+    "clause_id": "8.7.1.2",
+    "text": "8.7.1.2 Two-way slabs",
+    "page": 111,
+    "parent": "8.7.1",
+    "children": []
+  },
+  {
+    "clause_id": "8.7.1.3",
+    "text": "8.7.1.3 Slabs monolithic with supports",
+    "page": 111,
+    "parent": "8.7.1",
+    "children": []
+  },
+  {
+    "clause_id": "8.7.1.4",
+    "text": "8.7.1.4 Slabs carrying concentrated load",
+    "page": 112,
+    "parent": "8.7.1",
+    "children": []
+  },
+  {
+    "clause_id": "8.7.1.5",
+    "text": "8.7.1.5 Slabs spanning in two directions at right angles",
+    "page": 114,
+    "parent": "8.7.1",
+    "children": []
+  },
+  {
+    "clause_id": "8.7.1.6",
+    "text": "8.7.1.6 Analysis of two way slabs",
+    "page": 114,
+    "parent": "8.7.1",
+    "children": []
+  },
+  {
+    "clause_id": "8.7.2",
+    "text": "8.7.2 Ribbed, Hollow Or Voided Slabs",
+    "page": 119,
+    "parent": "8.7",
+    "children": []
+  },
+  {
+    "clause_id": "8.7.3",
+    "text": "8.7.3 Flat Slabs",
+    "page": 119,
+    "parent": "8.7",
+    "children": [
+      "8.7.3.1",
+      "8.7.3.2",
+      "8.7.3.3",
+      "8.7.3.4",
+      "8.7.3.5"
+    ]
+  },
+  {
+    "clause_id": "8.7.3.1",
+    "text": "8.7.3.1 General",
+    "page": 119,
+    "parent": "8.7.3",
+    "children": [
+      "8.7.3.1.1"
+    ]
+  },
+  {
+    "clause_id": "8.7.3.1.1",
+    "text": "8.7.3.1.1 For the purpose of this clause, the following definitions shall apply:",
+    "page": 119,
+    "parent": "8.7.3.1",
+    "children": []
+  },
+  {
+    "clause_id": "8.7.3.2",
+    "text": "8.7.3.2 Geometric proportioning",
+    "page": 120,
+    "parent": "8.7.3",
+    "children": [
+      "8.7.3.2.1",
+      "8.7.3.2.3"
+    ]
+  },
+  {
+    "clause_id": "8.7.3.2.1",
+    "text": "8.7.3.2.1 Thickness of flat slab",
+    "page": 120,
+    "parent": "8.7.3.2",
+    "children": []
+  },
+  {
+    "clause_id": "8.7.3.2.3",
+    "text": "8.7.3.2.3 Column heads",
+    "page": 120,
+    "parent": "8.7.3.2",
+    "children": []
+  },
+  {
+    "clause_id": "8.7.3.3",
+    "text": "8.7.3.3 Determination of bending moment",
+    "page": 121,
+    "parent": "8.7.3",
+    "children": [
+      "8.7.3.3.1",
+      "8.7.3.3.2",
+      "8.7.3.3.3"
+    ]
+  },
+  {
+    "clause_id": "8.7.3.3.1",
+    "text": "8.7.3.3.1 Methods of analysis",
+    "page": 121,
+    "parent": "8.7.3.3",
+    "children": []
+  },
+  {
+    "clause_id": "8.7.3.3.2",
+    "text": "8.7.3.3.2 Bending moments in panels with marginal beams",
+    "page": 121,
+    "parent": "8.7.3.3",
+    "children": []
+  },
+  {
+    "clause_id": "8.7.3.3.3",
+    "text": "8.7.3.3.3 Transfer of bending moments to columns",
+    "page": 121,
+    "parent": "8.7.3.3",
+    "children": []
+  },
+  {
+    "clause_id": "8.7.3.4",
+    "text": "8.7.3.4 Direct design method",
+    "page": 122,
+    "parent": "8.7.3",
+    "children": [
+      "8.7.3.4.1",
+      "8.7.3.4.2"
+    ]
+  },
+  {
+    "clause_id": "8.7.3.4.1",
+    "text": "8.7.3.4.1 The direct design method shall be used to analyse and design flat slab structural system only when the flat slab system fulfils the following conditions:",
+    "page": 122,
+    "parent": "8.7.3.4",
+    "children": []
+  },
+  {
+    "clause_id": "8.7.3.4.2",
+    "text": "8.7.3.4.2 The following steps shall be followed:",
+    "page": 123,
+    "parent": "8.7.3.4",
+    "children": []
+  },
+  {
+    "clause_id": "8.7.3.5",
+    "text": "8.7.3.5 Equivalent frame method",
+    "page": 126,
+    "parent": "8.7.3",
+    "children": [
+      "8.7.3.5.1",
+      "8.7.3.5.2",
+      "8.7.3.5.3",
+      "8.7.3.5.4",
+      "8.7.3.5.5"
+    ]
+  },
+  {
+    "clause_id": "8.7.3.5.1",
+    "text": "8.7.3.5.1 Assumptions",
+    "page": 126,
+    "parent": "8.7.3.5",
+    "children": []
+  },
+  {
+    "clause_id": "8.7.3.5.2",
+    "text": "8.7.3.5.2 Loading pattern",
+    "page": 127,
+    "parent": "8.7.3.5",
+    "children": [
+      "8.7.3.5.2.1",
+      "8.7.3.5.2.2",
+      "8.7.3.5.2.3",
+      "8.7.3.5.2.4"
+    ]
+  },
+  {
+    "clause_id": "8.7.3.5.2.1",
+    "text": "8.7.3.5.2.1 When the loading pattern is known, the structure shall be analyzed for the load concerned.",
+    "page": 127,
+    "parent": "8.7.3.5.2",
+    "children": []
+  },
+  {
+    "clause_id": "8.7.3.5.2.2",
+    "text": "8.7.3.5.2.2 When imposed load/dead load ratio is variable, but does not exceed 0.75, or the nature of the imposed load is such that all panels are loaded simultaneously, the maximum moments shall be assumed to occur at all sections when full design imposed load is on the entire slab system.",
+    "page": 127,
+    "parent": "8.7.3.5.2",
+    "children": []
+  },
+  {
+    "clause_id": "8.7.3.5.2.3",
+    "text": "8.7.3.5.2.3 For other conditions of imposed load/dead load ratio and when all panels are not loaded simultaneously,",
+    "page": 127,
+    "parent": "8.7.3.5.2",
+    "children": []
+  },
+  {
+    "clause_id": "8.7.3.5.2.4",
+    "text": "8.7.3.5.2.4 In no case shall the design moment be taken to be less than those occurring with full design imposed load on all panels.",
+    "page": 127,
+    "parent": "8.7.3.5.2",
+    "children": []
+  },
+  {
+    "clause_id": "8.7.3.5.3",
+    "text": "8.7.3.5.3 Negative design moment",
+    "page": 128,
+    "parent": "8.7.3.5",
+    "children": [
+      "8.7.3.5.3.1",
+      "8.7.3.5.3.2",
+      "8.7.3.5.3.3"
+    ]
+  },
+  {
+    "clause_id": "8.7.3.5.3.1",
+    "text": "8.7.3.5.3.1 At an interior support, the critical section for negative moment, in both column strip and middle strip, shall be taken at the face of rectilinear supports, but in no case at a distance greater than 0.175 1, from the centre of the column, where 1, is the length of the span in the direction moments are being determined, measured center-to-center of supports.",
+    "page": 128,
+    "parent": "8.7.3.5.3",
+    "children": []
+  },
+  {
+    "clause_id": "8.7.3.5.3.2",
+    "text": "8.7.3.5.3.2 At an exterior support provided with bracket or capital, the critical section for negative moment in the direction perpendicular to the edge shall be taken at a distance from the face of the bracket or capital not greater than one-half the projection of the bracket or capital beyond the face of the bracket or capital.",
+    "page": 128,
+    "parent": "8.7.3.5.3",
+    "children": []
+  },
+  {
+    "clause_id": "8.7.3.5.3.3",
+    "text": "8.7.3.5.3.3 Circular or regular polygon shaped bracket or capital shall be treated as square bracket or capital having the same area.",
+    "page": 128,
+    "parent": "8.7.3.5.3",
+    "children": []
+  },
+  {
+    "clause_id": "8.7.3.5.4",
+    "text": "8.7.3.5.4 Modification of Maximum Moment",
+    "page": 128,
+    "parent": "8.7.3.5",
+    "children": []
+  },
+  {
+    "clause_id": "8.7.3.5.5",
+    "text": "8.7.3.5.5 Distribution of bending moment across the panel width",
+    "page": 128,
+    "parent": "8.7.3.5",
+    "children": [
+      "8.7.3.5.5.1",
+      "8.7.3.5.5.2"
+    ]
+  },
+  {
+    "clause_id": "8.7.3.5.5.1",
+    "text": "8.7.3.5.5.1 The column strip shall be designed to resist:",
+    "page": 128,
+    "parent": "8.7.3.5.5",
+    "children": []
+  },
+  {
+    "clause_id": "8.7.3.5.5.2",
+    "text": "8.7.3.5.5.2 The middle strip shall be designed to resist the following:",
+    "page": 128,
+    "parent": "8.7.3.5.5",
+    "children": []
+  },
+  {
+    "clause_id": "8.8.1",
+    "text": "8.8.1 Definitions",
+    "page": 129,
+    "parent": "8.8",
+    "children": []
+  },
+  {
+    "clause_id": "8.8.2",
+    "text": "8.8.2 Effective Length of Compression Members",
+    "page": 129,
+    "parent": "8.8",
+    "children": [
+      "8.8.2.1",
+      "8.8.2.2"
+    ]
+  },
+  {
+    "clause_id": "8.8.2.1",
+    "text": "8.8.2.1 Generalized method",
+    "page": 130,
+    "parent": "8.8.2",
+    "children": []
+  },
+  {
+    "clause_id": "8.8.2.2",
+    "text": "8.8.2.2 Prescriptive method",
+    "page": 135,
+    "parent": "8.8.2",
+    "children": [
+      "8.8.2.2.1",
+      "8.8.2.2.2"
+    ]
+  },
+  {
+    "clause_id": "8.8.2.2.1",
+    "text": "8.8.2.2.1 Columns and beam-columns",
+    "page": 135,
+    "parent": "8.8.2.2",
+    "children": []
+  },
+  {
+    "clause_id": "8.8.2.2.2",
+    "text": "8.8.2.2.2 Structural wall",
+    "page": 136,
+    "parent": "8.8.2.2",
+    "children": []
+  },
+  {
+    "clause_id": "8.10.1",
+    "text": "8.10.1 Deflection",
+    "page": 138,
+    "parent": "8.10",
+    "children": [
+      "8.10.1.1",
+      "8.10.1.2"
+    ]
+  },
+  {
+    "clause_id": "8.10.1.1",
+    "text": "8.10.1.1 Beams and slabs",
+    "page": 138,
+    "parent": "8.10.1",
+    "children": []
+  },
+  {
+    "clause_id": "0.063",
+    "text": "0.063 Fully continuous Members",
+    "page": 140,
+    "parent": "0",
+    "children": []
+  },
+  {
+    "clause_id": "8.10.1.2",
+    "text": "8.10.1.2 Columns and walls",
+    "page": 141,
+    "parent": "8.10.1",
+    "children": []
+  },
+  {
+    "clause_id": "8.10.2",
+    "text": "8.10.2 Crack Width Calculation for Beams",
+    "page": 141,
+    "parent": "8.10",
+    "children": [
+      "8.10.2.1",
+      "8.10.2.2",
+      "8.10.2.3"
+    ]
+  },
+  {
+    "clause_id": "8.10.2.1",
+    "text": "8.10.2.1 The crack width w, at the surface of the member shall be estimated as:",
+    "page": 141,
+    "parent": "8.10.2",
+    "children": []
+  },
+  {
+    "clause_id": "8.10.2.2",
+    "text": "8.10.2.2 The average steel strain \u00a2,, shall be estimated on the basis of the following assumptions (see Fig. 23):",
+    "page": 142,
+    "parent": "8.10.2",
+    "children": []
+  },
+  {
+    "clause_id": "8.10.2.3",
+    "text": "8.10.2.3 Alternatively, \u00a2,, may be approximated on the basis of a cracked section and then reduce this by an amount equal to the tensile force generated in concrete divided by the",
+    "page": 142,
+    "parent": "8.10.2",
+    "children": []
+  },
+  {
+    "clause_id": "8.10.3",
+    "text": "8.10.3 Temperature Stresses and Deformations",
+    "page": 143,
+    "parent": "8.10",
+    "children": []
+  },
+  {
+    "clause_id": "9.1.1",
+    "text": "9.1.1 Overturning",
+    "page": 144,
+    "parent": "9.1",
+    "children": [
+      "9.1.1.1"
+    ]
+  },
+  {
+    "clause_id": "9.1.1.1",
+    "text": "9.1.1.1 Uplift at column bases",
+    "page": 146,
+    "parent": "9.1.1",
+    "children": []
+  },
+  {
+    "clause_id": "9.1.2",
+    "text": "9.1.2 Sliding",
+    "page": 146,
+    "parent": "9.1",
+    "children": []
+  },
+  {
+    "clause_id": "9.1.3",
+    "text": "9.1.3 Floatation",
+    "page": 147,
+    "parent": "9.1",
+    "children": []
+  },
+  {
+    "clause_id": "9.1.4",
+    "text": "9.1.4 Subsidence",
+    "page": 148,
+    "parent": "9.1",
+    "children": []
+  },
+  {
+    "clause_id": "9.2.1.1",
+    "text": "9.2.1.1 Effective span",
+    "page": 149,
+    "parent": "9.2.1",
+    "children": [
+      "9.2.1.1.1"
+    ]
+  },
+  {
+    "clause_id": "9.2.1.1.1",
+    "text": "9.2.1.1.1 Beams and slabs",
+    "page": 149,
+    "parent": "9.2.1.1",
+    "children": []
+  },
+  {
+    "clause_id": "9.2.1.2",
+    "text": "9.2.1.2 Effective depth",
+    "page": 152,
+    "parent": "9.2.1",
+    "children": []
+  },
+  {
+    "clause_id": "9.2.1.3",
+    "text": "9.2.1.3 Effective width of flange",
+    "page": 152,
+    "parent": "9.2.1",
+    "children": []
+  },
+  {
+    "clause_id": "9.2.1.4",
+    "text": "9.2.1.4 Effective height",
+    "page": 153,
+    "parent": "9.2.1",
+    "children": []
+  },
+  {
+    "clause_id": "9.2.1.5",
+    "text": "9.2.1.5 Cover to reinforcement",
+    "page": 153,
+    "parent": "9.2.1",
+    "children": [
+      "9.2.1.5.1",
+      "9.2.1.5.2"
+    ]
+  },
+  {
+    "clause_id": "9.2.1.5.1",
+    "text": "9.2.1.5.1 Nominal Cover",
+    "page": 153,
+    "parent": "9.2.1.5",
+    "children": [
+      "9.2.1.5.1.1",
+      "9.2.1.5.1.2",
+      "9.2.1.5.1.3",
+      "9.2.1.5.1.4"
+    ]
+  },
+  {
+    "clause_id": "9.2.1.5.1.1",
+    "text": "9.2.1.5.1.1 It shall be taken as the clear thickness of plain concrete from the exterior edge of the concrete member to the bar nearest to the exterior surface, namely the distance from the exterior face to the nearest:",
+    "page": 153,
+    "parent": "9.2.1.5.1",
+    "children": []
+  },
+  {
+    "clause_id": "9.2.1.5.1.2",
+    "text": "9.2.1.5.1.2 The provisions specified herein are applicable to cast in-situ normal aggregate concretes. Hence:",
+    "page": 154,
+    "parent": "9.2.1.5.1",
+    "children": []
+  },
+  {
+    "clause_id": "9.2.1.5.1.3",
+    "text": "9.2.1.5.1.3 The nominal cover shall be subjected to the tolerance specified in Table 37.",
+    "page": 154,
+    "parent": "9.2.1.5.1",
+    "children": []
+  },
+  {
+    "clause_id": "9.2.1.5.1.4",
+    "text": "9.2.1.5.1.4 The nominal cover at a bar shall not be less than:",
+    "page": 154,
+    "parent": "9.2.1.5.1",
+    "children": []
+  },
+  {
+    "clause_id": "9.2.1.5.2",
+    "text": "9.2.1.5.2 Effective cover",
+    "page": 154,
+    "parent": "9.2.1.5",
+    "children": []
+  },
+  {
+    "clause_id": "9.2.2",
+    "text": "9.2.2 Absolute Dimensions",
+    "page": 155,
+    "parent": "9.2",
+    "children": [
+      "9.2.2.1",
+      "9.2.2.2",
+      "9.2.2.3",
+      "9.2.2.4",
+      "9.2.2.5",
+      "9.2.2.6",
+      "9.2.2.7",
+      "9.2.2.8",
+      "9.2.2.9",
+      "9.2.2.10",
+      "9.2.2.11"
+    ]
+  },
+  {
+    "clause_id": "9.2.2.1",
+    "text": "9.2.2.1 Nominal diameter of steel bars",
+    "page": 155,
+    "parent": "9.2.2",
+    "children": []
+  },
+  {
+    "clause_id": "9.2.2.2",
+    "text": "9.2.2.2 Sizing of concrete members",
+    "page": 155,
+    "parent": "9.2.2",
+    "children": [
+      "9.2.2.2.1",
+      "9.2.2.2.2",
+      "9.2.2.2.3"
+    ]
+  },
+  {
+    "clause_id": "9.2.2.2.1",
+    "text": "9.2.2.2.1 Durability Requirement",
+    "page": 155,
+    "parent": "9.2.2.2",
+    "children": []
+  },
+  {
+    "clause_id": "9.2.2.2.2",
+    "text": "9.2.2.2.2 Fire resistance requirement",
+    "page": 155,
+    "parent": "9.2.2.2",
+    "children": []
+  },
+  {
+    "clause_id": "9.2.2.2.3",
+    "text": "9.2.2.2.3 Strength requirement",
+    "page": 156,
+    "parent": "9.2.2.2",
+    "children": [
+      "9.2.2.2.3.1"
+    ]
+  },
+  {
+    "clause_id": "9.2.2.2.3.1",
+    "text": "9.2.2.2.3.1 In special residential buildings that comply with the following conditions:",
+    "page": 156,
+    "parent": "9.2.2.2.3",
+    "children": []
+  },
+  {
+    "clause_id": "9.2.2.3",
+    "text": "9.2.2.3 Maximum diameter of bars",
+    "page": 157,
+    "parent": "9.2.2",
+    "children": [
+      "9.2.2.3.1",
+      "9.2.2.3.2"
+    ]
+  },
+  {
+    "clause_id": "9.2.2.3.1",
+    "text": "9.2.2.3.1 Longitudinal reinforcement",
+    "page": 157,
+    "parent": "9.2.2.3",
+    "children": []
+  },
+  {
+    "clause_id": "9.2.2.3.2",
+    "text": "9.2.2.3.2 Transverse reinforcement",
+    "page": 157,
+    "parent": "9.2.2.3",
+    "children": []
+  },
+  {
+    "clause_id": "9.2.2.4",
+    "text": "9.2.2.4 Minimum size of bars",
+    "page": 158,
+    "parent": "9.2.2",
+    "children": [
+      "9.2.2.4.1",
+      "9.2.2.4.2"
+    ]
+  },
+  {
+    "clause_id": "9.2.2.4.1",
+    "text": "9.2.2.4.1 Longitudinal reinforcement",
+    "page": 158,
+    "parent": "9.2.2.4",
+    "children": []
+  },
+  {
+    "clause_id": "9.2.2.4.2",
+    "text": "9.2.2.4.2 Transverse reinforcement",
+    "page": 158,
+    "parent": "9.2.2.4",
+    "children": []
+  },
+  {
+    "clause_id": "9.2.2.5",
+    "text": "9.2.2.5 Maximum spacing of bars",
+    "page": 159,
+    "parent": "9.2.2",
+    "children": []
+  },
+  {
+    "clause_id": "9.2.2.6",
+    "text": "9.2.2.6 Minimum spacing of bars",
+    "page": 161,
+    "parent": "9.2.2",
+    "children": [
+      "9.2.2.6.1",
+      "9.2.2.6.2"
+    ]
+  },
+  {
+    "clause_id": "9.2.2.6.1",
+    "text": "9.2.2.6.1 Reinforced concrete members",
+    "page": 161,
+    "parent": "9.2.2.6",
+    "children": []
+  },
+  {
+    "clause_id": "9.2.2.6.2",
+    "text": "9.2.2.6.2 Prestressed concrete members",
+    "page": 162,
+    "parent": "9.2.2.6",
+    "children": []
+  },
+  {
+    "clause_id": "9.2.2.7",
+    "text": "9.2.2.7 Development length",
+    "page": 163,
+    "parent": "9.2.2",
+    "children": [
+      "9.2.2.7.1",
+      "9.2.2.7.2",
+      "9.2.2.7.3",
+      "9.2.2.7.4",
+      "9.2.2.7.5",
+      "9.2.2.7.6"
+    ]
+  },
+  {
+    "clause_id": "9.2.2.7.1",
+    "text": "9.2.2.7.1 A bar at any section shall extend on each side of the section by providing the required development length, end anchorage or a combination thereof. The development length L, shall be estimated based on the tension or compression stress required to be developed at that section, as:",
+    "page": 164,
+    "parent": "9.2.2.7",
+    "children": []
+  },
+  {
+    "clause_id": "9.2.2.7.2",
+    "text": "9.2.2.7.2 When design load combinations related to serviceability criteria specified in Table 4 are used, the design bond stress specified in 8.4.2.1(b) shall be used.",
+    "page": 164,
+    "parent": "9.2.2.7",
+    "children": []
+  },
+  {
+    "clause_id": "9.2.2.7.3",
+    "text": "9.2.2.7.3 In the estimation of development length:",
+    "page": 164,
+    "parent": "9.2.2.7",
+    "children": []
+  },
+  {
+    "clause_id": "9.2.2.7.4",
+    "text": "9.2.2.7.4 The development length is the same for bars of members being designed by the limit state method and for bars of members being checked for meeting serviceability requirements by the allowable stress method.",
+    "page": 164,
+    "parent": "9.2.2.7",
+    "children": []
+  },
+  {
+    "clause_id": "9.2.2.7.5",
+    "text": "9.2.2.7.5 The development length of each bar in a set of bundled bars shall be that for the individual bar increased by:",
+    "page": 164,
+    "parent": "9.2.2.7",
+    "children": []
+  },
+  {
+    "clause_id": "9.2.2.7.6",
+    "text": "9.2.2.7.6 When more steel is provided than that required by design calculations, then the development length L,; estimated by the above expression can be reduced further. The reduced development length Lj, shall be estimated as:",
+    "page": 164,
+    "parent": "9.2.2.7",
+    "children": []
+  },
+  {
+    "clause_id": "9.2.2.8",
+    "text": "9.2.2.8 Anchorage of bars",
+    "page": 165,
+    "parent": "9.2.2",
+    "children": [
+      "9.2.2.8.1",
+      "9.2.2.8.2",
+      "9.2.2.8.3",
+      "9.2.2.8.4"
+    ]
+  },
+  {
+    "clause_id": "9.2.2.8.1",
+    "text": "9.2.2.8.1 Anchorage of mechanical devices",
+    "page": 166,
+    "parent": "9.2.2.8",
+    "children": []
+  },
+  {
+    "clause_id": "9.2.2.8.2",
+    "text": "9.2.2.8.2 Anchorage in shear reinforcement",
+    "page": 166,
+    "parent": "9.2.2.8",
+    "children": []
+  },
+  {
+    "clause_id": "9.2.2.8.3",
+    "text": "9.2.2.8.3 Bearing stresses at bends",
+    "page": 166,
+    "parent": "9.2.2.8",
+    "children": []
+  },
+  {
+    "clause_id": "9.2.2.8.4",
+    "text": "9.2.2.8.4 Other requirements",
+    "page": 167,
+    "parent": "9.2.2.8",
+    "children": []
+  },
+  {
+    "clause_id": "9.2.2.9",
+    "text": "9.2.2.9 Splicing of bars",
+    "page": 167,
+    "parent": "9.2.2",
+    "children": [
+      "9.2.2.9.1",
+      "9.2.2.9.2"
+    ]
+  },
+  {
+    "clause_id": "9.2.2.9.1",
+    "text": "9.2.2.9.1 Lap splicing",
+    "page": 168,
+    "parent": "9.2.2.9",
+    "children": []
+  },
+  {
+    "clause_id": "9.2.2.9.2",
+    "text": "9.2.2.9.2 Mechanical coupling",
+    "page": 170,
+    "parent": "9.2.2.9",
+    "children": []
+  },
+  {
+    "clause_id": "9.2.2.10",
+    "text": "9.2.2.10 Curtailment of bars",
+    "page": 170,
+    "parent": "9.2.2",
+    "children": [
+      "9.2.2.10.1",
+      "9.2.2.10.2",
+      "9.2.2.10.3"
+    ]
+  },
+  {
+    "clause_id": "9.2.2.10.1",
+    "text": "9.2.2.10.1 Positive moment reinforcement",
+    "page": 171,
+    "parent": "9.2.2.10",
+    "children": []
+  },
+  {
+    "clause_id": "9.2.2.10.2",
+    "text": "9.2.2.10.2 Negative moment reinforcement",
+    "page": 171,
+    "parent": "9.2.2.10",
+    "children": []
+  },
+  {
+    "clause_id": "9.2.2.10.3",
+    "text": "9.2.2.10.3 Curtailment of bundled bars",
+    "page": 171,
+    "parent": "9.2.2.10",
+    "children": []
+  },
+  {
+    "clause_id": "9.2.2.11",
+    "text": "9.2.2.11 Cover to reinforcing bars and prestressing tendons",
+    "page": 172,
+    "parent": "9.2.2",
+    "children": []
+  },
+  {
+    "clause_id": "9.2.3",
+    "text": "9.2.3 Relative Dimensions",
+    "page": 173,
+    "parent": "9.2",
+    "children": [
+      "9.2.3.1",
+      "9.2.3.2",
+      "9.2.3.3"
+    ]
+  },
+  {
+    "clause_id": "9.2.3.1",
+    "text": "9.2.3.1 Maximum slenderness of members",
+    "page": 174,
+    "parent": "9.2.3",
+    "children": []
+  },
+  {
+    "clause_id": "9.2.3.2",
+    "text": "9.2.3.2 Cross-sectional aspect ratio",
+    "page": 180,
+    "parent": "9.2.3",
+    "children": []
+  },
+  {
+    "clause_id": "9.2.3.3",
+    "text": "9.2.3.3 Distinction between columns and structural walls",
+    "page": 180,
+    "parent": "9.2.3",
+    "children": []
+  },
+  {
+    "clause_id": "9.2.4.1",
+    "text": "9.2.4.1 Minimum Reinforcement",
+    "page": 182,
+    "parent": "9.2.4",
+    "children": []
+  },
+  {
+    "clause_id": "9.2.4.2",
+    "text": "9.2.4.2 Maximum reinforcement",
+    "page": 189,
+    "parent": "9.2.4",
+    "children": []
+  },
+  {
+    "clause_id": "9.2.5",
+    "text": "9.2.5 Critical Sections",
+    "page": 192,
+    "parent": "9.2",
+    "children": [
+      "9.2.5.1",
+      "9.2.5.2"
+    ]
+  },
+  {
+    "clause_id": "9.2.5.1",
+    "text": "9.2.5.1 Bending moment",
+    "page": 193,
+    "parent": "9.2.5",
+    "children": []
+  },
+  {
+    "clause_id": "9.2.5.2",
+    "text": "9.2.5.2 Shear force",
+    "page": 193,
+    "parent": "9.2.5",
+    "children": [
+      "9.2.5.2.2",
+      "9.2.5.2.3"
+    ]
+  },
+  {
+    "clause_id": "9.2.5.2.2",
+    "text": "9.2.5.2.2 Reinforced concrete beams",
+    "page": 197,
+    "parent": "9.2.5.2",
+    "children": []
+  },
+  {
+    "clause_id": "9.2.5.2.3",
+    "text": "9.2.5.2.3 PSC beams",
+    "page": 199,
+    "parent": "9.2.5.2",
+    "children": []
+  },
+  {
+    "clause_id": "9.2.6",
+    "text": "9.2.6 Design Strengths of Concrete and Steels",
+    "page": 200,
+    "parent": "9.2",
+    "children": [
+      "9.2.6.1",
+      "9.2.6.2",
+      "9.2.6.3",
+      "9.2.6.4",
+      "9.2.6.5",
+      "9.2.6.6"
+    ]
+  },
+  {
+    "clause_id": "9.2.6.1",
+    "text": "9.2.6.1 Concrete",
+    "page": 200,
+    "parent": "9.2.6",
+    "children": []
+  },
+  {
+    "clause_id": "9.2.6.2",
+    "text": "9.2.6.2 Reinforcing steel",
+    "page": 206,
+    "parent": "9.2.6",
+    "children": []
+  },
+  {
+    "clause_id": "9.2.6.3",
+    "text": "9.2.6.3 Prestressing steel",
+    "page": 207,
+    "parent": "9.2.6",
+    "children": []
+  },
+  {
+    "clause_id": "9.2.6.4",
+    "text": "9.2.6.4 Confined concrete",
+    "page": 208,
+    "parent": "9.2.6",
+    "children": []
+  },
+  {
+    "clause_id": "9.2.6.5",
+    "text": "9.2.6.5 Reinforcing steel",
+    "page": 213,
+    "parent": "9.2.6",
+    "children": []
+  },
+  {
+    "clause_id": "9.2.6.6",
+    "text": "9.2.6.6 Prestressing steel",
+    "page": 215,
+    "parent": "9.2.6",
+    "children": []
+  },
+  {
+    "clause_id": "9.3.2",
+    "text": "9.3.2 Design strength capacities",
+    "page": 218,
+    "parent": "9.3",
+    "children": [
+      "9.3.2.1",
+      "9.3.2.2",
+      "9.3.2.4",
+      "9.3.2.5",
+      "9.3.2.6",
+      "9.3.2.7",
+      "9.3.2.74",
+      "9.3.2.8",
+      "9.3.2.9",
+      "9.3.2.10"
+    ]
+  },
+  {
+    "clause_id": "9.3.2.1",
+    "text": "9.3.2.1 Assumptions",
+    "page": 219,
+    "parent": "9.3.2",
+    "children": []
+  },
+  {
+    "clause_id": "9.3.2.2",
+    "text": "9.3.2.2 Minimum eccentricity",
+    "page": 220,
+    "parent": "9.3.2",
+    "children": [
+      "9.3.2.2.1",
+      "9.3.2.2.2",
+      "9.3.2.2.3"
+    ]
+  },
+  {
+    "clause_id": "9.3.2.2.1",
+    "text": "9.3.2.2.1 All compression members (columns or structural walls) shall be designed for at least the bending moments arising out of the minimum eccentricities of the axial load for bending about each of the two axes of the cross-section of the member, given by:",
+    "page": 220,
+    "parent": "9.3.2.2",
+    "children": []
+  },
+  {
+    "clause_id": "9.3.2.2.2",
+    "text": "9.3.2.2.2 All structural walls shall be designed for the additional eccentricity @, wa due to slenderness effect in the out-of-plane direction given by:",
+    "page": 220,
+    "parent": "9.3.2.2",
+    "children": []
+  },
+  {
+    "clause_id": "9.3.2.2.3",
+    "text": "9.3.2.2.3 The unsupported length /,, x and 1, y (for bending about the two axes of the cross-section) of a compression member shall be taken as the clear distance between end restraints, except as below:",
+    "page": 221,
+    "parent": "9.3.2.2",
+    "children": []
+  },
+  {
+    "clause_id": "9.3.2.3.1",
+    "text": "9.3.2.3.1 Limiting strains",
+    "page": 221,
+    "parent": "9.3.2.3",
+    "children": []
+  },
+  {
+    "clause_id": "9.3.2.3.3",
+    "text": "9.3.2.3.3 Short columns",
+    "page": 222,
+    "parent": "9.3.2.3",
+    "children": []
+  },
+  {
+    "clause_id": "9.3.2.3.4",
+    "text": "9.3.2.3.4 Long columns",
+    "page": 223,
+    "parent": "9.3.2.3",
+    "children": []
+  },
+  {
+    "clause_id": "9.3.2.4",
+    "text": "9.3.2.4 Design limiting bending moment capacity My,",
+    "page": 223,
+    "parent": "9.3.2",
+    "children": [
+      "9.3.2.4.1",
+      "9.3.2.4.2",
+      "9.3.2.4.3",
+      "9.3.2.4.4",
+      "9.3.2.4.5",
+      "9.3.2.4.6"
+    ]
+  },
+  {
+    "clause_id": "9.3.2.4.1",
+    "text": "9.3.2.4.1 Limiting strains",
+    "page": 223,
+    "parent": "9.3.2.4",
+    "children": []
+  },
+  {
+    "clause_id": "9.3.2.4.2",
+    "text": "9.3.2.4.2 Slender beams",
+    "page": 224,
+    "parent": "9.3.2.4",
+    "children": [
+      "9.3.2.4.2.1"
+    ]
+  },
+  {
+    "clause_id": "9.3.2.4.2.1",
+    "text": "9.3.2.4.2.1 The estimation of limiting moment capacity M,, of a doubly-reinforced rectangular RC section designed to be under-reinforced shall be as given hereunder (Fig. 42).",
+    "page": 224,
+    "parent": "9.3.2.4.2",
+    "children": []
+  },
+  {
+    "clause_id": "9.3.2.4.3",
+    "text": "9.3.2.4.3 Slabs, footings and rafts",
+    "page": 226,
+    "parent": "9.3.2.4",
+    "children": []
+  },
+  {
+    "clause_id": "9.3.2.4.4",
+    "text": "9.3.2.4.4 Prestressed concrete beams - bonded tendons",
+    "page": 226,
+    "parent": "9.3.2.4",
+    "children": []
+  },
+  {
+    "clause_id": "9.3.2.4.5",
+    "text": "9.3.2.4.5 Prestressed concrete beams - unbonded tendons",
+    "page": 229,
+    "parent": "9.3.2.4",
+    "children": [
+      "9.3.2.4.5.1",
+      "9.3.2.4.5.2",
+      "9.3.2.4.5.3"
+    ]
+  },
+  {
+    "clause_id": "9.3.2.4.5.1",
+    "text": "9.3.2.4.5.1 The limiting bending moment capacity My, at a section of a PSC beam with unbonded prestressing steel shall be obtained by:",
+    "page": 229,
+    "parent": "9.3.2.4.5",
+    "children": []
+  },
+  {
+    "clause_id": "9.3.2.4.5.2",
+    "text": "9.3.2.4.5.2 The limiting moment capacity M, of an unbonded prestressed rectangular section designed to be under-reinforced shall be estimated as given hereunder (Fig. 45).",
+    "page": 230,
+    "parent": "9.3.2.4.5",
+    "children": []
+  },
+  {
+    "clause_id": "9.3.2.4.5.3",
+    "text": "9.3.2.4.5.3 For the PSC section to be under-reinforced, Esp and hence top are known. Also, strain \u00a2, in the extreme fiber of concrete on the compression side shall be less than limiting strain \u20ac, jim. But, to begin with, \u00a2, shall be taken as the limiting strain \u00a2,,,, and x, estimated by the iteration scheme given below:",
+    "page": 231,
+    "parent": "9.3.2.4.5",
+    "children": []
+  },
+  {
+    "clause_id": "9.3.2.4.6",
+    "text": "9.3.2.4.6 Columns and structural walls",
+    "page": 232,
+    "parent": "9.3.2.4",
+    "children": []
+  },
+  {
+    "clause_id": "9.3.2.5",
+    "text": "9.3.2.5 Design shear force capacity V;,",
+    "page": 232,
+    "parent": "9.3.2",
+    "children": [
+      "9.3.2.5.1",
+      "9.3.2.5.2",
+      "9.3.2.5.3",
+      "9.3.2.5.4"
+    ]
+  },
+  {
+    "clause_id": "9.3.2.5.1",
+    "text": "9.3.2.5.1 Limiting stress",
+    "page": 232,
+    "parent": "9.3.2.5",
+    "children": []
+  },
+  {
+    "clause_id": "9.3.2.5.2",
+    "text": "9.3.2.5.2 RC beams and columns",
+    "page": 233,
+    "parent": "9.3.2.5",
+    "children": [
+      "9.3.2.5.2.1",
+      "9.3.2.5.2.2"
+    ]
+  },
+  {
+    "clause_id": "9.3.2.5.2.1",
+    "text": "9.3.2.5.2.1 Shear reinforcement shall be provided as per the following:",
+    "page": 233,
+    "parent": "9.3.2.5.2",
+    "children": []
+  },
+  {
+    "clause_id": "9.3.2.5.2.2",
+    "text": "9.3.2.5.2.2 The design shear force capacity V, of a RC beam or column shall be estimated as:",
+    "page": 233,
+    "parent": "9.3.2.5.2",
+    "children": []
+  },
+  {
+    "clause_id": "9.3.2.5.3",
+    "text": "9.3.2.5.3 RC structural walls",
+    "page": 234,
+    "parent": "9.3.2.5",
+    "children": []
+  },
+  {
+    "clause_id": "9.3.2.5.4",
+    "text": "9.3.2.5.4 Prestressed members",
+    "page": 235,
+    "parent": "9.3.2.5",
+    "children": []
+  },
+  {
+    "clause_id": "9.3.2.6",
+    "text": "9.3.2.6 Design torsional moment capacity T,,",
+    "page": 240,
+    "parent": "9.3.2",
+    "children": [
+      "9.3.2.6.1",
+      "9.3.2.6.2",
+      "9.3.2.6.3",
+      "9.3.2.6.5"
+    ]
+  },
+  {
+    "clause_id": "9.3.2.6.1",
+    "text": "9.3.2.6.1 General",
+    "page": 240,
+    "parent": "9.3.2.6",
+    "children": []
+  },
+  {
+    "clause_id": "9.3.2.6.2",
+    "text": "9.3.2.6.2 Limiting stress",
+    "page": 241,
+    "parent": "9.3.2.6",
+    "children": []
+  },
+  {
+    "clause_id": "9.3.2.6.3",
+    "text": "9.3.2.6.3 Critical section",
+    "page": 241,
+    "parent": "9.3.2.6",
+    "children": []
+  },
+  {
+    "clause_id": "9.3.2.6.5",
+    "text": "9.3.2.6.5 PSC Beams",
+    "page": 244,
+    "parent": "9.3.2.6",
+    "children": []
+  },
+  {
+    "clause_id": "9.3.2.7",
+    "text": "9.3.2.7 Design combined axial force P, - bending moment M,, capacity",
+    "page": 246,
+    "parent": "9.3.2",
+    "children": [
+      "9.3.2.7.1",
+      "9.3.2.7.2",
+      "9.3.2.7.3",
+      "9.3.2.7.5",
+      "9.3.2.7.6",
+      "9.3.2.7.7",
+      "9.3.2.7.8"
+    ]
+  },
+  {
+    "clause_id": "9.3.2.7.1",
+    "text": "9.3.2.7.1 The sufficiency of resistance of a RC member subjected to both axial force P, and bending moments M,, and M,, about both the axes of the cross-section shall be examined considering the assumptions listed in 9.3.2.1 and complying with the three governing equations of structural mechanics, namely:",
+    "page": 246,
+    "parent": "9.3.2.7",
+    "children": []
+  },
+  {
+    "clause_id": "9.3.2.7.2",
+    "text": "9.3.2.7.2 Vertical members carrying lateral loads (columns and structural walls) shall be classified as a braced or unbraced member as below using the stability index Q, defined in 8.2.3:",
+    "page": 246,
+    "parent": "9.3.2.7",
+    "children": []
+  },
+  {
+    "clause_id": "9.3.2.7.3",
+    "text": "9.3.2.7.3 Columns and structural walls shall be designed for results of Py) and Mpy & Mpy from any of the following:",
+    "page": 247,
+    "parent": "9.3.2.7",
+    "children": []
+  },
+  {
+    "clause_id": "9.3.2.74",
+    "text": "9.3.2.74 M,,, and M,,, shall be estimated as:",
+    "page": 247,
+    "parent": "9.3.2",
+    "children": []
+  },
+  {
+    "clause_id": "9.3.2.7.5",
+    "text": "9.3.2.7.5 General requirements for columns",
+    "page": 248,
+    "parent": "9.3.2.7",
+    "children": []
+  },
+  {
+    "clause_id": "9.3.2.7.6",
+    "text": "9.3.2.7.6 Columns under uniaxial bending",
+    "page": 249,
+    "parent": "9.3.2.7",
+    "children": []
+  },
+  {
+    "clause_id": "9.3.2.7.7",
+    "text": "9.3.2.7.7 Columns under biaxial bending",
+    "page": 256,
+    "parent": "9.3.2.7",
+    "children": []
+  },
+  {
+    "clause_id": "9.3.2.7.8",
+    "text": "9.3.2.7.8 Structural Walls",
+    "page": 259,
+    "parent": "9.3.2.7",
+    "children": [
+      "9.3.2.7.8.1",
+      "9.3.2.7.8.2",
+      "9.3.2.7.8.3",
+      "9.3.2.7.8.4"
+    ]
+  },
+  {
+    "clause_id": "9.3.2.7.8.1",
+    "text": "9.3.2.7.8.1 The design axial load Pp and design bending moments Mpy and Mpy on RC structural walls shall be estimated as in biaxial bending of columns specified in 9.3.2.7. In particular:",
+    "page": 259,
+    "parent": "9.3.2.7.8",
+    "children": []
+  },
+  {
+    "clause_id": "9.3.2.7.8.2",
+    "text": "9.3.2.7.8.2 RC structural walls under uniaxial bending shall be designed such that the design demand point (P5;Mpy) and (Pp; Mpy) lie inside the P, -M,y, and P, \u2014-M,y interaction diagrams, respectively. These two interaction diagrams shall be drawn as per the principles laid down in 9.3.2.7.",
+    "page": 259,
+    "parent": "9.3.2.7.8",
+    "children": []
+  },
+  {
+    "clause_id": "9.3.2.7.8.3",
+    "text": "9.3.2.7.8.3 Alternately, an approximate P; \u2014M_, interaction diagram can be drawn using 5 strain distribution specified at 5 critical points (Table 49 and Fig. 49). For a RC wall section with uniformly distributed steel, the expressions for limiting P, and My, are given in Table 50; @,,,, and /,,,, in the table shall be taken as per Table 48.",
+    "page": 259,
+    "parent": "9.3.2.7.8",
+    "children": []
+  },
+  {
+    "clause_id": "9.3.2.7.8.4",
+    "text": "9.3.2.7.8.4 For a RC section with generalised distribution of longitudinal steel (Fig. 50), the following equations may be used:",
+    "page": 259,
+    "parent": "9.3.2.7.8",
+    "children": []
+  },
+  {
+    "clause_id": "9.3.2.8",
+    "text": "9.3.2.8 Design combined axial force P;, - shear force V, capacity",
+    "page": 263,
+    "parent": "9.3.2",
+    "children": []
+  },
+  {
+    "clause_id": "9.3.2.9",
+    "text": "9.3.2.9 Design combined shear force V,, - bending moment My, capacity",
+    "page": 264,
+    "parent": "9.3.2",
+    "children": []
+  },
+  {
+    "clause_id": "9.3.2.10",
+    "text": "9.3.2.10 Design combined axial force P;, - shear force V,, - bending moment My, capacity",
+    "page": 264,
+    "parent": "9.3.2",
+    "children": []
+  },
+  {
+    "clause_id": "9.3.3",
+    "text": "9.3.3 Design and Detail of RC Members",
+    "page": 264,
+    "parent": "9.3",
+    "children": [
+      "9.3.3.2",
+      "9.3.3.3",
+      "9.3.3.4",
+      "9.3.3.5",
+      "9.3.3.6",
+      "9.3.3.7",
+      "9.3.3.8",
+      "9.3.3.9"
+    ]
+  },
+  {
+    "clause_id": "9.3.3.2",
+    "text": "9.3.3.2 Beams",
+    "page": 282,
+    "parent": "9.3.3",
+    "children": []
+  },
+  {
+    "clause_id": "9.3.3.3",
+    "text": "9.3.3.3 Columns and Beam-Columns",
+    "page": 294,
+    "parent": "9.3.3",
+    "children": []
+  },
+  {
+    "clause_id": "9.3.3.4",
+    "text": "9.3.3.4 Structural walls",
+    "page": 300,
+    "parent": "9.3.3",
+    "children": [
+      "9.3.3.4.1"
+    ]
+  },
+  {
+    "clause_id": "9.3.3.4.1",
+    "text": "9.3.3.4.1 Buildings with no openings",
+    "page": 300,
+    "parent": "9.3.3.4",
+    "children": [
+      "9.3.3.4.1.1",
+      "9.3.3.4.1.3",
+      "9.3.3.4.1.4"
+    ]
+  },
+  {
+    "clause_id": "9.3.3.4.1.1",
+    "text": "9.3.3.4.1.1 Stress-resultant demands",
+    "page": 300,
+    "parent": "9.3.3.4.1",
+    "children": []
+  },
+  {
+    "clause_id": "9.3.3.4.1.3",
+    "text": "9.3.3.4.1.3 Structural walls with openings",
+    "page": 303,
+    "parent": "9.3.3.4.1",
+    "children": []
+  },
+  {
+    "clause_id": "9.3.3.4.1.4",
+    "text": "9.3.3.4.1.4 Buildings with only structural walls",
+    "page": 303,
+    "parent": "9.3.3.4.1",
+    "children": []
+  },
+  {
+    "clause_id": "9.3.3.5",
+    "text": "9.3.3.5 Foundations",
+    "page": 303,
+    "parent": "9.3.3",
+    "children": [
+      "9.3.3.5.1",
+      "9.3.3.5.2",
+      "9.3.3.5.3",
+      "9.3.3.5.4",
+      "9.3.3.5.5"
+    ]
+  },
+  {
+    "clause_id": "9.3.3.5.1",
+    "text": "9.3.3.5.1 Spread Footings (Individual and Combined)",
+    "page": 303,
+    "parent": "9.3.3.5",
+    "children": []
+  },
+  {
+    "clause_id": "9.3.3.5.2",
+    "text": "9.3.3.5.2 Raft Foundations",
+    "page": 308,
+    "parent": "9.3.3.5",
+    "children": []
+  },
+  {
+    "clause_id": "9.3.3.5.3",
+    "text": "9.3.3.5.3 Piles and Pile Caps",
+    "page": 308,
+    "parent": "9.3.3.5",
+    "children": []
+  },
+  {
+    "clause_id": "9.3.3.5.4",
+    "text": "9.3.3.5.4 Piled-Rafts",
+    "page": 308,
+    "parent": "9.3.3.5",
+    "children": []
+  },
+  {
+    "clause_id": "9.3.3.5.5",
+    "text": "9.3.3.5.5 Wells and Well Caps",
+    "page": 308,
+    "parent": "9.3.3.5",
+    "children": []
+  },
+  {
+    "clause_id": "9.3.3.6",
+    "text": "9.3.3.6 Special Structural Elements",
+    "page": 308,
+    "parent": "9.3.3",
+    "children": [
+      "9.3.3.6.2"
+    ]
+  },
+  {
+    "clause_id": "9.3.3.6.2",
+    "text": "9.3.3.6.2 Corbels",
+    "page": 309,
+    "parent": "9.3.3.6",
+    "children": [
+      "9.3.3.6.2.1",
+      "9.3.3.6.2.2",
+      "9.3.3.6.2.3"
+    ]
+  },
+  {
+    "clause_id": "9.3.3.6.2.1",
+    "text": "9.3.3.6.2.1 Corbels may be designed by using strut &tie method. When doing so, the following shall be complied with:",
+    "page": 309,
+    "parent": "9.3.3.6.2",
+    "children": []
+  },
+  {
+    "clause_id": "9.3.3.6.2.2",
+    "text": "9.3.3.6.2.2 Alternately, a corbel may be designed by the following prescriptive method, if the following conditions are satisfied:",
+    "page": 310,
+    "parent": "9.3.3.6.2",
+    "children": []
+  },
+  {
+    "clause_id": "9.3.3.6.2.3",
+    "text": "9.3.3.6.2.3 In the prescriptive method, a corbel shall be designed in accordance with the following provisions:",
+    "page": 310,
+    "parent": "9.3.3.6.2",
+    "children": []
+  },
+  {
+    "clause_id": "9.3.3.7",
+    "text": "9.3.3.7 Joints",
+    "page": 312,
+    "parent": "9.3.3",
+    "children": []
+  },
+  {
+    "clause_id": "9.3.3.8",
+    "text": "9.3.3.8 Anchors",
+    "page": 322,
+    "parent": "9.3.3",
+    "children": []
+  },
+  {
+    "clause_id": "9.3.3.9",
+    "text": "9.3.3.9 Thermal expansion",
+    "page": 322,
+    "parent": "9.3.3",
+    "children": []
+  },
+  {
+    "clause_id": "9.3.4",
+    "text": "9.3.4 Design and Detail Of Prestressed Concrete Members",
+    "page": 322,
+    "parent": "9.3",
+    "children": [
+      "9.3.4.1",
+      "9.3.4.2",
+      "9.3.4.3",
+      "9.3.4.4",
+      "9.3.4.5",
+      "9.3.4.6",
+      "9.3.4.7",
+      "9.3.4.8",
+      "9.3.4.9"
+    ]
+  },
+  {
+    "clause_id": "9.3.4.1",
+    "text": "9.3.4.1 Effects of prestress",
+    "page": 324,
+    "parent": "9.3.4",
+    "children": []
+  },
+  {
+    "clause_id": "9.3.4.2",
+    "text": "9.3.4.2 Deductions for prestressing steel",
+    "page": 324,
+    "parent": "9.3.4",
+    "children": []
+  },
+  {
+    "clause_id": "9.3.4.3",
+    "text": "9.3.4.3 Maximum initial prestress",
+    "page": 324,
+    "parent": "9.3.4",
+    "children": []
+  },
+  {
+    "clause_id": "9.3.4.4",
+    "text": "9.3.4.4 Loss of Prestress",
+    "page": 325,
+    "parent": "9.3.4",
+    "children": [
+      "9.3.4.4.1",
+      "9.3.4.4.3",
+      "9.3.4.4.4",
+      "9.3.4.4.5"
+    ]
+  },
+  {
+    "clause_id": "9.3.4.4.1",
+    "text": "9.3.4.4.1 Creep of concrete",
+    "page": 325,
+    "parent": "9.3.4.4",
+    "children": []
+  },
+  {
+    "clause_id": "9.3.4.4.3",
+    "text": "9.3.4.4.3 Relaxation of steel",
+    "page": 326,
+    "parent": "9.3.4.4",
+    "children": []
+  },
+  {
+    "clause_id": "9.3.4.4.4",
+    "text": "9.3.4.4.4 Elastic shortening of concrete",
+    "page": 327,
+    "parent": "9.3.4.4",
+    "children": []
+  },
+  {
+    "clause_id": "9.3.4.4.5",
+    "text": "9.3.4.4.5 Slip in Anchorage",
+    "page": 327,
+    "parent": "9.3.4.4",
+    "children": []
+  },
+  {
+    "clause_id": "9.3.4.5",
+    "text": "9.3.4.5 Transmission length",
+    "page": 328,
+    "parent": "9.3.4",
+    "children": []
+  },
+  {
+    "clause_id": "9.3.4.6",
+    "text": "9.3.4.6 Anchorage zones",
+    "page": 329,
+    "parent": "9.3.4",
+    "children": [
+      "9.3.4.6.1",
+      "9.3.4.6.2"
+    ]
+  },
+  {
+    "clause_id": "9.3.4.6.1",
+    "text": "9.3.4.6.1 Bearing Stress",
+    "page": 329,
+    "parent": "9.3.4.6",
+    "children": []
+  },
+  {
+    "clause_id": "9.3.4.6.2",
+    "text": "9.3.4.6.2 Bursting tensile force",
+    "page": 330,
+    "parent": "9.3.4.6",
+    "children": []
+  },
+  {
+    "clause_id": "9.3.4.7",
+    "text": "9.3.4.7 Detail of untensioned reinforcement",
+    "page": 331,
+    "parent": "9.3.4",
+    "children": []
+  },
+  {
+    "clause_id": "9.3.4.8",
+    "text": "9.3.4.8 Additional requirements",
+    "page": 332,
+    "parent": "9.3.4",
+    "children": []
+  },
+  {
+    "clause_id": "9.3.4.9",
+    "text": "9.3.4.9 Prestressed members",
+    "page": 332,
+    "parent": "9.3.4",
+    "children": []
+  },
+  {
+    "clause_id": "9.3.5",
+    "text": "9.3.5 Design of Concrete Structures with Prestressed Members",
+    "page": 333,
+    "parent": "9.3",
+    "children": []
+  },
+  {
+    "clause_id": "9.3.6",
+    "text": "9.3.6 Design and detail by strut and tie method",
+    "page": 333,
+    "parent": "9.3",
+    "children": []
+  },
+  {
+    "clause_id": "0.75",
+    "text": "0.75 Fan - shaped Strut with transverse reinforcement confining concrete",
+    "page": 334,
+    "parent": "0",
+    "children": []
+  },
+  {
+    "clause_id": "70",
+    "text": "70 for Unbonded Prestressi ng Steel",
+    "page": 336,
+    "parent": null,
+    "children": []
+  },
+  {
+    "clause_id": "9.4.1",
+    "text": "9.4.1 Deformation Checks",
+    "page": 338,
+    "parent": "9.4",
+    "children": [
+      "9.4.1.1",
+      "9.4.1.2",
+      "9.4.1.3",
+      "9.4.1.4",
+      "9.4.1.5",
+      "9.4.1.6"
+    ]
+  },
+  {
+    "clause_id": "9.4.1.1",
+    "text": "9.4.1.1 Deflections",
+    "page": 338,
+    "parent": "9.4.1",
+    "children": []
+  },
+  {
+    "clause_id": "9.4.1.2",
+    "text": "9.4.1.2 Rotations",
+    "page": 341,
+    "parent": "9.4.1",
+    "children": []
+  },
+  {
+    "clause_id": "9.4.1.3",
+    "text": "9.4.1.3 Crack widths",
+    "page": 342,
+    "parent": "9.4.1",
+    "children": []
+  },
+  {
+    "clause_id": "9.4.1.4",
+    "text": "9.4.1.4 Vibrations",
+    "page": 344,
+    "parent": "9.4.1",
+    "children": []
+  },
+  {
+    "clause_id": "9.4.1.5",
+    "text": "9.4.1.5 Relative movement at joints",
+    "page": 345,
+    "parent": "9.4.1",
+    "children": []
+  },
+  {
+    "clause_id": "9.4.1.6",
+    "text": "9.4.1.6 Settlements of foundations",
+    "page": 347,
+    "parent": "9.4.1",
+    "children": []
+  },
+  {
+    "clause_id": "9.4.2",
+    "text": "9.4.2 Permissible Stresses",
+    "page": 347,
+    "parent": "9.4",
+    "children": [
+      "9.4.2.1",
+      "9.4.2.2",
+      "9.4.2.3"
+    ]
+  },
+  {
+    "clause_id": "9.4.2.1",
+    "text": "9.4.2.1 Concrete",
+    "page": 348,
+    "parent": "9.4.2",
+    "children": []
+  },
+  {
+    "clause_id": "6",
+    "text": "6 0:300(Fex)P\u00ae _ 0.090(f\u00a2)?\u00b0 For Fe250 bars in Tension KM 6 0.480( fox P\u00b0 = 0.144 6 For Fe415, Fe500 and Fe5500 bars in Tension ck TPbhd = <M 6 0.375(fox)?\u00ae = 0.113 \u20186 For Fe250 bars in Compression KM ck Ip: 6 0.600 fox) _ 0.180(fcx)?\u00ae For Fe415, Fe500 and Fe5500 bars in Compression KM",
+    "page": 349,
+    "parent": null,
+    "children": []
+  },
+  {
+    "clause_id": "0.83",
+    "text": "0.83 Rectangular or square cross - section , A, = cross-section Geometry factor = 8 try {070 Circular cross - section",
+    "page": 351,
+    "parent": "0",
+    "children": []
+  },
+  {
+    "clause_id": "9.4.2.2",
+    "text": "9.4.2.2 Steel reinforcement",
+    "page": 352,
+    "parent": "9.4.2",
+    "children": []
+  },
+  {
+    "clause_id": "9.4.2.3",
+    "text": "9.4.2.3 Increase in permissible stresses",
+    "page": 353,
+    "parent": "9.4.2",
+    "children": []
+  },
+  {
+    "clause_id": "9.4.3",
+    "text": "9.4.3 Stress Checks and Stress-Resultant Checks",
+    "page": 353,
+    "parent": "9.4",
+    "children": [
+      "9.4.3.1",
+      "9.4.3.2",
+      "9.4.3.3",
+      "9.4.3.4",
+      "9.4.3.5",
+      "9.4.3.6"
+    ]
+  },
+  {
+    "clause_id": "9.4.3.1",
+    "text": "9.4.3.1 Assumptions",
+    "page": 355,
+    "parent": "9.4.3",
+    "children": []
+  },
+  {
+    "clause_id": "9.4.3.2",
+    "text": "9.4.3.2 Axial force capacity P,; at serviceability criterion",
+    "page": 355,
+    "parent": "9.4.3",
+    "children": [
+      "9.4.3.2.1",
+      "9.4.3.2.2",
+      "9.4.3.2.3"
+    ]
+  },
+  {
+    "clause_id": "9.4.3.2.1",
+    "text": "9.4.3.2.1 Member in tension",
+    "page": 355,
+    "parent": "9.4.3.2",
+    "children": []
+  },
+  {
+    "clause_id": "9.4.3.2.2",
+    "text": "9.4.3.2.2 Pedestals and short columns in compression",
+    "page": 356,
+    "parent": "9.4.3.2",
+    "children": []
+  },
+  {
+    "clause_id": "9.4.3.2.3",
+    "text": "9.4.3.2.3 Long columns in compression",
+    "page": 356,
+    "parent": "9.4.3.2",
+    "children": [
+      "9.4.3.2.3.1",
+      "9.4.3.2.3.2"
+    ]
+  },
+  {
+    "clause_id": "9.4.3.2.3.1",
+    "text": "9.4.3.2.3.1 The design compression axial force demand P,,. ona long column (complying with 9.2.3.1(c)) in compression under the action of external serviceability loads shall be less than the serviceability compressive axial force capacity P,. estimated as:",
+    "page": 356,
+    "parent": "9.4.3.2.3",
+    "children": []
+  },
+  {
+    "clause_id": "9.4.3.2.3.2",
+    "text": "9.4.3.2.3.2 For composite columns, refer to IS 11384.",
+    "page": 357,
+    "parent": "9.4.3.2.3",
+    "children": []
+  },
+  {
+    "clause_id": "9.4.3.3",
+    "text": "9.4.3.3 Serviceability design bending moment capacity M,",
+    "page": 357,
+    "parent": "9.4.3",
+    "children": [
+      "9.4.3.3.1",
+      "9.4.3.3.2"
+    ]
+  },
+  {
+    "clause_id": "9.4.3.3.1",
+    "text": "9.4.3.3.1 Uncracked section",
+    "page": 357,
+    "parent": "9.4.3.3",
+    "children": []
+  },
+  {
+    "clause_id": "9.4.3.3.2",
+    "text": "9.4.3.3.2 Cracked section",
+    "page": 358,
+    "parent": "9.4.3.3",
+    "children": [
+      "9.4.3.3.2.1",
+      "9.4.3.3.2.2"
+    ]
+  },
+  {
+    "clause_id": "9.4.3.3.2.1",
+    "text": "9.4.3.3.2.1 If the requirements given in 9.4.3.4.2 are not satisfied, the stresses in concrete and steel shall be calculated by the theory of cracked RC section, in which the tensile resistance of concrete is ignored. Again, for the stresses so calculated shall be within the permissible stresses specified in 9.4.2 for the section to be deemed safe.",
+    "page": 358,
+    "parent": "9.4.3.3.2",
+    "children": []
+  },
+  {
+    "clause_id": "9.4.3.3.2.2",
+    "text": "9.4.3.3.2.2 The maximum stresses in concrete and steel shall be found from first principles based on the cracked section theory satisfying the following requirements:",
+    "page": 358,
+    "parent": "9.4.3.3.2",
+    "children": []
+  },
+  {
+    "clause_id": "9.4.3.4",
+    "text": "9.4.3.4 Combined serviceability design axial force P, - bending moment M, capacity",
+    "page": 359,
+    "parent": "9.4.3",
+    "children": [
+      "9.4.3.4.1",
+      "9.4.3.4.2"
+    ]
+  },
+  {
+    "clause_id": "9.4.3.4.1",
+    "text": "9.4.3.4.1 Uncracked section",
+    "page": 359,
+    "parent": "9.4.3.4",
+    "children": []
+  },
+  {
+    "clause_id": "9.4.3.4.2",
+    "text": "9.4.3.4.2 Cracked section",
+    "page": 360,
+    "parent": "9.4.3.4",
+    "children": [
+      "9.4.3.4.2.1",
+      "9.4.3.4.2.2",
+      "9.4.3.4.2.3"
+    ]
+  },
+  {
+    "clause_id": "9.4.3.4.2.1",
+    "text": "9.4.3.4.2.1 If the requirements given in 8.4.3.5(a) are not satisfied, the stresses in concrete and steel shall be calculated by the theory of cracked RC section, in which the tensile resistance of concrete is ignored. Again, for the stresses so calculated shall be within the permissible stresses specified in 9.4.2 for the section to be deemed safe.",
+    "page": 360,
+    "parent": "9.4.3.4.2",
+    "children": []
+  },
+  {
+    "clause_id": "9.4.3.4.2.2",
+    "text": "9.4.3.4.2.2 The maximum stresses in concrete and steel shall be found from first principles based on the cracked section theory satisfying the following requirements:",
+    "page": 360,
+    "parent": "9.4.3.4.2",
+    "children": []
+  },
+  {
+    "clause_id": "9.4.3.4.2.3",
+    "text": "9.4.3.4.2.3 Members subjected to combined axial load and bending moment shall be checked to comply with the requirements of limit state method of design as per 9.4.3.4.",
+    "page": 360,
+    "parent": "9.4.3.4.2",
+    "children": []
+  },
+  {
+    "clause_id": "9.4.3.5",
+    "text": "9.4.3.5 Serviceability design shear force capacity V;",
+    "page": 360,
+    "parent": "9.4.3",
+    "children": [
+      "9.4.3.5.1",
+      "9.4.3.5.2",
+      "9.4.3.5.3"
+    ]
+  },
+  {
+    "clause_id": "9.4.3.5.1",
+    "text": "9.4.3.5.1 The serviceability design shear force demand V,,, on a RC member (generated at the critical sections of members under the action of loads applied as per combinations specified in Table 4 for serviceability criterion) shall not exceed the corresponding serviceability design shear force capacity V, specified hereunder.",
+    "page": 360,
+    "parent": "9.4.3.5",
+    "children": []
+  },
+  {
+    "clause_id": "9.4.3.5.2",
+    "text": "9.4.3.5.2 The serviceability design shear force capacity V; of a RC member shall be estimated as:",
+    "page": 360,
+    "parent": "9.4.3.5",
+    "children": []
+  },
+  {
+    "clause_id": "9.4.3.5.3",
+    "text": "9.4.3.5.3 Shear reinforcement shall be provided in RC beams, columns and structural walls as per the following:",
+    "page": 361,
+    "parent": "9.4.3.5",
+    "children": []
+  },
+  {
+    "clause_id": "9.4.3.6",
+    "text": "9.4.3.6 Serviceability design torsional moment capacity T;",
+    "page": 362,
+    "parent": "9.4.3",
+    "children": [
+      "9.4.3.6.1",
+      "9.4.3.6.2",
+      "9.4.3.6.3"
+    ]
+  },
+  {
+    "clause_id": "9.4.3.6.1",
+    "text": "9.4.3.6.1 A member in torsion is said to have met the requirements of serviceability, if:",
+    "page": 362,
+    "parent": "9.4.3.6",
+    "children": []
+  },
+  {
+    "clause_id": "9.4.3.6.2",
+    "text": "9.4.3.6.2 In general, where the torsional stiffness (and strength) of members has not been considered in the analysis of the structure, no specific calculations for torsion shall be necessary. Adequate control in torsional cracking shall be assumed to have been provided by the required nominal shear reinforcement. But, where the torsional stiffness (and strength) of members has been considered in the analysis, the members shall be designed for torsion.",
+    "page": 363,
+    "parent": "9.4.3.6",
+    "children": []
+  },
+  {
+    "clause_id": "9.4.3.6.3",
+    "text": "9.4.3.6.3 These provisions shall be applicable only when:",
+    "page": 363,
+    "parent": "9.4.3.6",
+    "children": []
+  },
+  {
+    "clause_id": "9.5.1.1",
+    "text": "9.5.1.1 Factors affecting durability of concrete",
+    "page": 367,
+    "parent": "9.5.1",
+    "children": []
+  },
+  {
+    "clause_id": "9.5.1.2",
+    "text": "9.5.1.2 Complexity in structural form, execution and usage generally increase the sensitivity of the structure to an aggressive environment. Hence, to avoid detrimental effects of environment on the structure, the structures shall abide by the following:",
+    "page": 367,
+    "parent": "9.5.1",
+    "children": []
+  },
+  {
+    "clause_id": "9.5.2",
+    "text": "9.5.2 Mechanisms of Deterioration of Concrete",
+    "page": 368,
+    "parent": "9.5",
+    "children": [
+      "9.5.2.1",
+      "9.5.2.2"
+    ]
+  },
+  {
+    "clause_id": "9.5.2.1",
+    "text": "9.5.2.1 Deterioration mechanisms are either chemical or physical in nature and may be originated from within the concrete, or result of the external environmental exposure conditions. Transport mechanism plays a significant role while deciding the rate and extent of deterioration. Some of the potential deterioration mechanism causing durability problems are classified as below:",
+    "page": 368,
+    "parent": "9.5.2",
+    "children": []
+  },
+  {
+    "clause_id": "9.5.2.2",
+    "text": "9.5.2.2 In most of the situations one type of deterioration mechanism dominate. However, in some circumstances several deterioration mechanisms can act together. This is referred to as synergetic deterioration. Under such circumstances, specialist literature may be referred and a risk-based approach might be adopted for guidance.",
+    "page": 368,
+    "parent": "9.5.2",
+    "children": []
+  },
+  {
+    "clause_id": "9.5.3",
+    "text": "9.5.3 Exposure Classes related to Environmental Factors",
+    "page": 369,
+    "parent": "9.5",
+    "children": []
+  },
+  {
+    "clause_id": "9.5.4.1",
+    "text": "9.5.4.1 Design Service Life",
+    "page": 371,
+    "parent": "9.5.4",
+    "children": []
+  },
+  {
+    "clause_id": "9.5.4.2",
+    "text": "9.5.4.2 Limit state of durability",
+    "page": 372,
+    "parent": "9.5.4",
+    "children": []
+  },
+  {
+    "clause_id": "12",
+    "text": "12 ts",
+    "page": 372,
+    "parent": null,
+    "children": []
+  },
+  {
+    "clause_id": "9.5.4.3",
+    "text": "9.5.4.3 Carbonation induced corrosion",
+    "page": 372,
+    "parent": "9.5.4",
+    "children": [
+      "9.5.4.3.1",
+      "9.5.4.3.2",
+      "9.5.4.3.3"
+    ]
+  },
+  {
+    "clause_id": "9.5.4.3.1",
+    "text": "9.5.4.3.1 In order to ensure adequate resistance towards carbonation of concrete structures, basic requirements of maximum water/cement ratio or water/cementitious ratio, minimum grade of concrete, minimum cementitious content, minimum nominal",
+    "page": 372,
+    "parent": "9.5.4.3",
+    "children": []
+  },
+  {
+    "clause_id": "9.5.4.3.2",
+    "text": "9.5.4.3.2 The requirements given in Table 72 apply to 20 mm nominal maximum size aggregate. For other sizes of aggregate, they should be changed as given in Table 73.",
+    "page": 373,
+    "parent": "9.5.4.3",
+    "children": []
+  },
+  {
+    "clause_id": "9.5.4.3.3",
+    "text": "9.5.4.3.3 Limit state design for carbonation induced corrosion",
+    "page": 377,
+    "parent": "9.5.4.3",
+    "children": [
+      "9.5.4.3.3.1",
+      "9.5.4.3.3.2",
+      "9.5.4.3.3.3",
+      "9.5.4.3.3.4",
+      "9.5.4.3.3.5",
+      "9.5.4.3.3.6",
+      "9.5.4.3.3.7",
+      "9.5.4.3.3.8",
+      "9.5.4.3.3.9",
+      "9.5.4.3.3.10"
+    ]
+  },
+  {
+    "clause_id": "9.5.4.3.3.1",
+    "text": "9.5.4.3.3.1 Actions and effects",
+    "page": 377,
+    "parent": "9.5.4.3.3",
+    "children": []
+  },
+  {
+    "clause_id": "9.5.4.3.3.2",
+    "text": "9.5.4.3.3.2 Characteristic value of CO2 levels",
+    "page": 377,
+    "parent": "9.5.4.3.3",
+    "children": []
+  },
+  {
+    "clause_id": "9.5.4.3.3.3",
+    "text": "9.5.4.3.3.3 Effect of climate",
+    "page": 377,
+    "parent": "9.5.4.3.3",
+    "children": []
+  },
+  {
+    "clause_id": "9.5.4.3.3.4",
+    "text": "9.5.4.3.3.4 Resistance to carbonation",
+    "page": 378,
+    "parent": "9.5.4.3.3",
+    "children": []
+  },
+  {
+    "clause_id": "9.5.4.3.3.5",
+    "text": "9.5.4.3.3.5 Carbonation coefficient",
+    "page": 378,
+    "parent": "9.5.4.3.3",
+    "children": []
+  },
+  {
+    "clause_id": "9.5.4.3.3.6",
+    "text": "9.5.4.3.3.6 Characteristic carbonation coefficient",
+    "page": 378,
+    "parent": "9.5.4.3.3",
+    "children": []
+  },
+  {
+    "clause_id": "9.5.4.3.3.7",
+    "text": "9.5.4.3.3.7 Design carbonation coefficient",
+    "page": 379,
+    "parent": "9.5.4.3.3",
+    "children": []
+  },
+  {
+    "clause_id": "9.5.4.3.3.8",
+    "text": "9.5.4.3.3.8 Nominal minimum cover, C",
+    "page": 379,
+    "parent": "9.5.4.3.3",
+    "children": []
+  },
+  {
+    "clause_id": "9.5.4.3.3.9",
+    "text": "9.5.4.3.3.9 Verification of Kx",
+    "page": 380,
+    "parent": "9.5.4.3.3",
+    "children": []
+  },
+  {
+    "clause_id": "9.5.4.3.3.10",
+    "text": "9.5.4.3.3.10 Verification of performance against carbonation",
+    "page": 381,
+    "parent": "9.5.4.3.3",
+    "children": []
+  },
+  {
+    "clause_id": "9.5.4.4",
+    "text": "9.5.4.4 Chloride Induced Corrosion",
+    "page": 382,
+    "parent": "9.5.4",
+    "children": [
+      "9.5.4.4.1",
+      "9.5.4.4.14",
+      "9.5.4.4.2",
+      "9.5.4.4.3",
+      "9.5.4.4.4",
+      "9.5.4.4.5",
+      "9.5.4.4.6"
+    ]
+  },
+  {
+    "clause_id": "9.5.4.4.1",
+    "text": "9.5.4.4.1 Concrete in Sea water",
+    "page": 384,
+    "parent": "9.5.4.4",
+    "children": [
+      "9.5.4.4.1.1",
+      "9.5.4.4.1.2",
+      "9.5.4.4.1.3",
+      "9.5.4.4.1.5"
+    ]
+  },
+  {
+    "clause_id": "9.5.4.4.1.1",
+    "text": "9.5.4.4.1.1 Special attention shall be given to the design of the mix to obtain the densest possible concrete; slag, broken brick, soft limestone, soft sandstone, or other porous or weak aggregates shall not be used.",
+    "page": 384,
+    "parent": "9.5.4.4.1",
+    "children": []
+  },
+  {
+    "clause_id": "9.5.4.4.1.2",
+    "text": "9.5.4.4.1.2 As far as possible, preference shall be given to precast members unreinforced, well-cured and hardened, without sharp corners, and having trowel-smooth finished surfaces free from crazing, cracks or other defects; plastering should be avoided.",
+    "page": 384,
+    "parent": "9.5.4.4.1",
+    "children": []
+  },
+  {
+    "clause_id": "9.5.4.4.1.3",
+    "text": "9.5.4.4.1.3 No construction joints shall be allowed within 600 mm below low water-level or within 600 mm of the upper and lower planes of wave action. Where unusually severe conditions or abrasion are anticipated, such parts of the work shall be protected by bituminous or silico-fluoride coatings or stone facing bedded with bitumen.",
+    "page": 384,
+    "parent": "9.5.4.4.1",
+    "children": []
+  },
+  {
+    "clause_id": "9.5.4.4.14",
+    "text": "9.5.4.4.14 In reinforced concrete structures, care shall be taken to protect the reinforcement from exposure to saline atmosphere during storage, fabrication and use. It may be achieved by treating the surface of reinforcement with cement wash or by suitable methods",
+    "page": 384,
+    "parent": "9.5.4.4",
+    "children": []
+  },
+  {
+    "clause_id": "9.5.4.4.1.5",
+    "text": "9.5.4.4.1.5 To ensure adequate resistance to chloride ingress, basic requirements with respect to minimum cover, maximum water/cement ratio or maximum water/cementitious ratio, minimum grade of concrete, minimum cementitious content, minimum nominal cover and durability test requirements for 50 years design service life for normal structures is given in Table 78. However, for other values of design service life up to 120 years, proper design for durability can be carried out as per 9.5.4.2.",
+    "page": 384,
+    "parent": "9.5.4.4.1",
+    "children": []
+  },
+  {
+    "clause_id": "9.5.4.4.2",
+    "text": "9.5.4.4.2 Limit state of chloride induced corrosion",
+    "page": 388,
+    "parent": "9.5.4.4",
+    "children": [
+      "9.5.4.4.2.1",
+      "9.5.4.4.2.2"
+    ]
+  },
+  {
+    "clause_id": "9.5.4.4.2.1",
+    "text": "9.5.4.4.2.1 Actions and Effects",
+    "page": 388,
+    "parent": "9.5.4.4.2",
+    "children": [
+      "9.5.4.4.2.1.1",
+      "9.5.4.4.2.1.2"
+    ]
+  },
+  {
+    "clause_id": "9.5.4.4.2.1.1",
+    "text": "9.5.4.4.2.1.1 Surface chloride content (Cs)",
+    "page": 388,
+    "parent": "9.5.4.4.2.1",
+    "children": []
+  },
+  {
+    "clause_id": "9.5.4.4.2.1.2",
+    "text": "9.5.4.4.2.1.2 Threshold chloride content (Cin)",
+    "page": 389,
+    "parent": "9.5.4.4.2.1",
+    "children": []
+  },
+  {
+    "clause_id": "9.5.4.4.2.2",
+    "text": "9.5.4.4.2.2 Resistance to chloride ingress",
+    "page": 389,
+    "parent": "9.5.4.4.2",
+    "children": []
+  },
+  {
+    "clause_id": "9.5.4.4.3",
+    "text": "9.5.4.4.3 Characteristic Da(to) and design Da(t) values of chloride diffusion coefficient of concrete The values of initial chloride diffusion coefficient as determined on the basis of w/c ratio shall be considered as characteristic values.",
+    "page": 389,
+    "parent": "9.5.4.4",
+    "children": []
+  },
+  {
+    "clause_id": "9.5.4.4.4",
+    "text": "9.5.4.4.4 Verification of chloride diffusion coefficient, Da(to)",
+    "page": 390,
+    "parent": "9.5.4.4",
+    "children": []
+  },
+  {
+    "clause_id": "9.5.4.4.5",
+    "text": "9.5.4.4.5 Verification of performance against chloride ingress",
+    "page": 392,
+    "parent": "9.5.4.4",
+    "children": []
+  },
+  {
+    "clause_id": "9.5.4.4.6",
+    "text": "9.5.4.4.6 Effect of crack width on service life due to corrosion of rebar (due to chloride ingress or carbonation)",
+    "page": 393,
+    "parent": "9.5.4.4",
+    "children": []
+  },
+  {
+    "clause_id": "9.5.5",
+    "text": "9.5.5 Sulphate Attack",
+    "page": 393,
+    "parent": "9.5",
+    "children": [
+      "9.5.5.1"
+    ]
+  },
+  {
+    "clause_id": "9.5.5.1",
+    "text": "9.5.5.1 Design requirements against sulphate attack",
+    "page": 394,
+    "parent": "9.5.5",
+    "children": []
+  },
+  {
+    "clause_id": "9.5.6",
+    "text": "9.5.6 Freezing and Thawing",
+    "page": 395,
+    "parent": "9.5",
+    "children": [
+      "9.5.6.1"
+    ]
+  },
+  {
+    "clause_id": "9.5.6.1",
+    "text": "9.5.6.1 Design requirements against freezing and thawing",
+    "page": 395,
+    "parent": "9.5.6",
+    "children": []
+  },
+  {
+    "clause_id": "9.5.7",
+    "text": "9.5.7 Alkali Aggregate Reactivity",
+    "page": 396,
+    "parent": "9.5",
+    "children": [
+      "9.5.7.1"
+    ]
+  },
+  {
+    "clause_id": "9.5.7.1",
+    "text": "9.5.7.1 Tests for alkali silica reactivity",
+    "page": 396,
+    "parent": "9.5.7",
+    "children": []
+  },
+  {
+    "clause_id": "9.5.8",
+    "text": "9.5.8 Abrasion",
+    "page": 397,
+    "parent": "9.5",
+    "children": []
+  },
+  {
+    "clause_id": "9.5.9",
+    "text": "9.5.9 Protection Measures",
+    "page": 398,
+    "parent": "9.5",
+    "children": [
+      "9.5.9.1",
+      "9.5.9.2"
+    ]
+  },
+  {
+    "clause_id": "9.5.9.1",
+    "text": "9.5.9.1 The special protection may have useful life shorter than that of the structural element and hence the design shall include schedules for the appropriate maintenance of these protection systems.",
+    "page": 398,
+    "parent": "9.5.9",
+    "children": []
+  },
+  {
+    "clause_id": "9.5.9.2",
+    "text": "9.5.9.2 At sites where alkali concentrations are high or may become very high, the ground water should be lowered by drainage so that it cannot come into direct contact with the concrete. Additional protection may be obtained by the use of suitable impermeable barriers.",
+    "page": 398,
+    "parent": "9.5.9",
+    "children": []
+  },
+  {
+    "clause_id": "9.6.1",
+    "text": "9.6.1 Resistance against Fire",
+    "page": 398,
+    "parent": "9.6",
+    "children": [
+      "9.6.1.1",
+      "9.6.1.2",
+      "9.6.1.3"
+    ]
+  },
+  {
+    "clause_id": "9.6.1.1",
+    "text": "9.6.1.1 Prescriptive Approach",
+    "page": 399,
+    "parent": "9.6.1",
+    "children": []
+  },
+  {
+    "clause_id": "9.6.1.2",
+    "text": "9.6.1.2 Prescriptive Approach involving Empirical Equations",
+    "page": 404,
+    "parent": "9.6.1",
+    "children": [
+      "9.6.1.2.2",
+      "9.6.1.2.3"
+    ]
+  },
+  {
+    "clause_id": "9.6.1.2.2",
+    "text": "9.6.1.2.2 RC Slabs and Walls",
+    "page": 407,
+    "parent": "9.6.1.2",
+    "children": []
+  },
+  {
+    "clause_id": "9.6.1.2.3",
+    "text": "9.6.1.2.3 RC Beams",
+    "page": 407,
+    "parent": "9.6.1.2",
+    "children": []
+  },
+  {
+    "clause_id": "9.6.1.3",
+    "text": "9.6.1.3 Performance-based Approach",
+    "page": 407,
+    "parent": "9.6.1",
+    "children": [
+      "9.6.1.3.1"
+    ]
+  },
+  {
+    "clause_id": "9.6.1.3.1",
+    "text": "9.6.1.3.1 Time -Temperature Curves",
+    "page": 408,
+    "parent": "9.6.1.3",
+    "children": []
+  },
+  {
+    "clause_id": "9.6.2",
+    "text": "9.6.2 Mechanical Properties of Materials at Elevated Temperatures",
+    "page": 408,
+    "parent": "9.6",
+    "children": [
+      "9.6.2.1",
+      "9.6.2.2",
+      "9.6.2.3",
+      "9.6.2.4"
+    ]
+  },
+  {
+    "clause_id": "9.6.2.1",
+    "text": "9.6.2.1 Normal weight concrete",
+    "page": 408,
+    "parent": "9.6.2",
+    "children": []
+  },
+  {
+    "clause_id": "9.6.2.2",
+    "text": "9.6.2.2 High strength concrete",
+    "page": 409,
+    "parent": "9.6.2",
+    "children": [
+      "9.6.2.2.1",
+      "9.6.2.2.2",
+      "9.6.2.2.3",
+      "9.6.2.2.4",
+      "9.6.2.2.5",
+      "9.6.2.2.6",
+      "9.6.2.2.8"
+    ]
+  },
+  {
+    "clause_id": "9.6.2.2.1",
+    "text": "9.6.2.2.1 Compressive Strength",
+    "page": 409,
+    "parent": "9.6.2.2",
+    "children": []
+  },
+  {
+    "clause_id": "9.6.2.2.2",
+    "text": "9.6.2.2.2 Tensile strength",
+    "page": 410,
+    "parent": "9.6.2.2",
+    "children": []
+  },
+  {
+    "clause_id": "9.6.2.2.3",
+    "text": "9.6.2.2.3 Stress-strain curve",
+    "page": 410,
+    "parent": "9.6.2.2",
+    "children": []
+  },
+  {
+    "clause_id": "9.6.2.2.4",
+    "text": "9.6.2.2.4 Modulus of elasticity",
+    "page": 410,
+    "parent": "9.6.2.2",
+    "children": []
+  },
+  {
+    "clause_id": "9.6.2.2.5",
+    "text": "9.6.2.2.5 Thermal elongation",
+    "page": 410,
+    "parent": "9.6.2.2",
+    "children": []
+  },
+  {
+    "clause_id": "9.6.2.2.6",
+    "text": "9.6.2.2.6 Specific heat",
+    "page": 410,
+    "parent": "9.6.2.2",
+    "children": []
+  },
+  {
+    "clause_id": "9.6.2.2.8",
+    "text": "9.6.2.2.8 Thermal conductivity",
+    "page": 411,
+    "parent": "9.6.2.2",
+    "children": []
+  },
+  {
+    "clause_id": "9.6.2.3",
+    "text": "9.6.2.3 Reinforcing steel",
+    "page": 411,
+    "parent": "9.6.2",
+    "children": []
+  },
+  {
+    "clause_id": "9.6.2.4",
+    "text": "9.6.2.4 Prestressing steel",
+    "page": 413,
+    "parent": "9.6.2",
+    "children": []
+  },
+  {
+    "clause_id": "9.6.3",
+    "text": "9.6.3 Resistance against impact",
+    "page": 417,
+    "parent": "9.6",
+    "children": [
+      "9.6.3.1"
+    ]
+  },
+  {
+    "clause_id": "9.6.3.1",
+    "text": "9.6.3.1 Impact analysis",
+    "page": 417,
+    "parent": "9.6.3",
+    "children": []
+  },
+  {
+    "clause_id": "9.7.1",
+    "text": "9.7.1 Available Design Methods",
+    "page": 417,
+    "parent": "9.7",
+    "children": [
+      "9.7.1.1",
+      "9.7.1.2",
+      "9.7.1.3"
+    ]
+  },
+  {
+    "clause_id": "9.7.1.1",
+    "text": "9.7.1.1 Prescriptive method",
+    "page": 417,
+    "parent": "9.7.1",
+    "children": []
+  },
+  {
+    "clause_id": "9.7.1.2",
+    "text": "9.7.1.2 Key members method",
+    "page": 418,
+    "parent": "9.7.1",
+    "children": [
+      "9.7.1.2.1",
+      "9.7.1.2.2",
+      "9.7.1.2.3",
+      "9.7.1.2.4"
+    ]
+  },
+  {
+    "clause_id": "9.7.1.2.1",
+    "text": "9.7.1.2.1 The structure shall be designed for the stress-resultants obtained from:",
+    "page": 418,
+    "parent": "9.7.1.2",
+    "children": []
+  },
+  {
+    "clause_id": "9.7.1.2.2",
+    "text": "9.7.1.2.2 These design strength demands shall be used to design all members and their connections in the structure. When employing progressive collapse analysis, if the applicable loads,",
+    "page": 418,
+    "parent": "9.7.1.2",
+    "children": []
+  },
+  {
+    "clause_id": "9.7.1.2.3",
+    "text": "9.7.1.2.3 The design shall be deemed to meet the requirements of:",
+    "page": 418,
+    "parent": "9.7.1.2",
+    "children": []
+  },
+  {
+    "clause_id": "9.7.1.2.4",
+    "text": "9.7.1.2.4 When designing important and critical & lifeline structures for the Integrity Criteria, Progressive Collapse Analysis shall be performed to estimate the design strength and deformation demands on members, especially the key members of the primary (vertical and lateral) load resisting system, to prevent:",
+    "page": 419,
+    "parent": "9.7.1.2",
+    "children": []
+  },
+  {
+    "clause_id": "9.7.1.3",
+    "text": "9.7.1.3 Nonlinear analysis method",
+    "page": 419,
+    "parent": "9.7.1",
+    "children": []
+  },
+  {
+    "clause_id": "10.1.1",
+    "text": "10.1.1 Cement",
+    "page": 420,
+    "parent": "10.1",
+    "children": [
+      "10.1.1.1",
+      "10.1.1.2"
+    ]
+  },
+  {
+    "clause_id": "10.1.1.1",
+    "text": "10.1.1.1 Cement shall be protected during transportation and handling to avoid any deterioration or contamination. Cement bags shall be stored on site in perfectly dry and waterproof sheds, and on platforms that are raised about 0.2 m above ground level, and about 0.6 m clear off the walls in a manner to avoid deterioration or contamination. The bags shall be stacked with not more than 8 bags along the height, and in such a manner as to facilitate their removal and use in the order in which the batches of cement are received.",
+    "page": 420,
+    "parent": "10.1.1",
+    "children": []
+  },
+  {
+    "clause_id": "10.1.1.2",
+    "text": "10.1.1.2 When cement is stored in bulk storage containers (like silos), the following shall be complied with:",
+    "page": 420,
+    "parent": "10.1.1",
+    "children": []
+  },
+  {
+    "clause_id": "10.1.2",
+    "text": "10.1.2 Aggregates",
+    "page": 421,
+    "parent": "10.1",
+    "children": []
+  },
+  {
+    "clause_id": "10.1.3",
+    "text": "10.1.3 Reinforcing Steel",
+    "page": 421,
+    "parent": "10.1",
+    "children": []
+  },
+  {
+    "clause_id": "10.1.4",
+    "text": "10.1.4 Prestressing Material",
+    "page": 421,
+    "parent": "10.1",
+    "children": [
+      "10.1.4.1",
+      "10.1.4.3"
+    ]
+  },
+  {
+    "clause_id": "10.1.4.1",
+    "text": "10.1.4.1 All prestressing material (for example steel tendons, sheathing, anchorages, sleeves or couplers) shall be protected during transportation, handling and storage to avoid any damage or deterioration.",
+    "page": 421,
+    "parent": "10.1.4",
+    "children": []
+  },
+  {
+    "clause_id": "10.1.4.3",
+    "text": "10.1.4.3 Tendons shall",
+    "page": 422,
+    "parent": "10.1.4",
+    "children": []
+  },
+  {
+    "clause_id": "10.1.5",
+    "text": "10.1.5 Anchorage Components",
+    "page": 422,
+    "parent": "10.1",
+    "children": []
+  },
+  {
+    "clause_id": "10.1.6",
+    "text": "10.1.6 Environmental Considerations at the Site",
+    "page": 422,
+    "parent": "10.1",
+    "children": []
+  },
+  {
+    "clause_id": "10.2.1.1",
+    "text": "10.2.1.1 General",
+    "page": 422,
+    "parent": "10.2.1",
+    "children": []
+  },
+  {
+    "clause_id": "10.2.1.2",
+    "text": "10.2.1.2 Formwork Systems",
+    "page": 424,
+    "parent": "10.2.1",
+    "children": []
+  },
+  {
+    "clause_id": "10.2.1.3",
+    "text": "10.2.1.3 Cleaning and Treatment of Formwork",
+    "page": 424,
+    "parent": "10.2.1",
+    "children": []
+  },
+  {
+    "clause_id": "10.2.1.4",
+    "text": "10.2.1.4 In prestresses concrete structures, moulds for pre-tension members shall be sufficiently strong and stiff to withstand (without distortion) the effects of placing and compacting concrete as well as those of prestressing in the case of manufacture by the individual mould process, where the prestressing tendon is supported by the mould before transfer.",
+    "page": 424,
+    "parent": "10.2.1",
+    "children": []
+  },
+  {
+    "clause_id": "10.2.1.5",
+    "text": "10.2.1.5 While using self compacting concrete, extra care need to be taken in formwork design as lateral pressure of fresh concrete on formwork is more in case of SCC as compared to normal concrete.",
+    "page": 424,
+    "parent": "10.2.1",
+    "children": []
+  },
+  {
+    "clause_id": "10.2.1.6",
+    "text": "10.2.1.6 Stripping time",
+    "page": 424,
+    "parent": "10.2.1",
+    "children": [
+      "10.2.1.6.1",
+      "10.2.1.6.2",
+      "10.2.1.6.3"
+    ]
+  },
+  {
+    "clause_id": "10.2.1.6.1",
+    "text": "10.2.1.6.1 While the above criteria of strength shall be the guiding factor for removal of formwork, in normal circumstances, where ambient temperature does not fall below 15\u00b0C and adequate curing is done, the striking period specified below may deem to satisfy the guideline given in 92.1.6.",
+    "page": 425,
+    "parent": "10.2.1.6",
+    "children": []
+  },
+  {
+    "clause_id": "10.2.1.6.2",
+    "text": "10.2.1.6.2 The number of props left under, their sizes and disposition shall be such as to safely carry the full dead load of the slab, beam or arch, as the case may be, together with any imposed load likely to occur during curing or further construction.",
+    "page": 425,
+    "parent": "10.2.1.6",
+    "children": []
+  },
+  {
+    "clause_id": "10.2.1.6.3",
+    "text": "10.2.1.6.3 Where the shape of the element is such that the formwork has re-entrant angles, the formwork shall be removed as soon as possible after the concrete has set, to avoid shrinkage cracking occurring due to the restraint imposed.",
+    "page": 426,
+    "parent": "10.2.1.6",
+    "children": []
+  },
+  {
+    "clause_id": "10.2.2",
+    "text": "10.2.2 Production of Concrete",
+    "page": 426,
+    "parent": "10.2",
+    "children": [
+      "10.2.2.1",
+      "10.2.2.3",
+      "10.2.2.5",
+      "10.2.2.8"
+    ]
+  },
+  {
+    "clause_id": "10.2.2.1",
+    "text": "10.2.2.1 Batching",
+    "page": 426,
+    "parent": "10.2.2",
+    "children": [
+      "10.2.2.1.1",
+      "10.2.2.1.2"
+    ]
+  },
+  {
+    "clause_id": "10.2.2.1.1",
+    "text": "10.2.2.1.1 Volume batching of cement and aggregates may be allowed for PCC below foundations and other non-structural concrete works, only where weigh-batching is not practical and provided accurate bulk densities of materials have been pre- established to be used in concrete. For volume batching accurately measurable wooden/ metal/plastic boxes will only be used. But, in such cases, allowance for bulking shall be made in accordance with IS 2386 (Part 3). The mass volume relationship should be checked as frequently as possible (preferably everyday), the frequency for the given job being determined by engineer-in-charge to ensure that the specified grading is maintained.",
+    "page": 426,
+    "parent": "10.2.2.1",
+    "children": []
+  },
+  {
+    "clause_id": "10.2.2.1.2",
+    "text": "10.2.2.1.2 For large and medium project sites, concrete shall be sourced from ready- mixed concrete plants or captive on-site or off-site automatic batching & mixing plants. The quality control aspects of concrete produced and supplied by either of these plants shall be in accordance with IS 4926. Further:",
+    "page": 426,
+    "parent": "10.2.2.1",
+    "children": []
+  },
+  {
+    "clause_id": "10.2.2.3",
+    "text": "10.2.2.3 Transporting and Handling",
+    "page": 428,
+    "parent": "10.2.2",
+    "children": [
+      "10.2.2.3.1",
+      "10.2.2.3.2",
+      "10.2.2.3.3"
+    ]
+  },
+  {
+    "clause_id": "10.2.2.3.1",
+    "text": "10.2.2.3.1 During hot or cold weather, concrete shall be transported in deep containers. Other suitable methods to reduce the loss of water by evaporation in hot weather and heat loss in cold weather may also be adopted.",
+    "page": 428,
+    "parent": "10.2.2.3",
+    "children": []
+  },
+  {
+    "clause_id": "10.2.2.3.2",
+    "text": "10.2.2.3.2 When ready mix concrete is used, an additional dose of admixtures may be added to the concrete, such that total dosage of the admixture does not exceed the maximum recommended for that admixture; and sufficient trials have been carried out to ensure the performance of the concrete after such redosing. Also, sufficient number of rotations of the transit mixer must be carried out at mixing RPM so as to ensure a homogenous mixing of the redosing admixture.",
+    "page": 429,
+    "parent": "10.2.2.3",
+    "children": []
+  },
+  {
+    "clause_id": "10.2.2.3.3",
+    "text": "10.2.2.3.3 Unless otherwise specified, the equipment used for transportation and compaction of concrete shall include:",
+    "page": 429,
+    "parent": "10.2.2.3",
+    "children": []
+  },
+  {
+    "clause_id": "10.2.2.5",
+    "text": "10.2.2.5 Compacting",
+    "page": 429,
+    "parent": "10.2.2",
+    "children": [
+      "10.2.2.5.1",
+      "10.2.2.5.2",
+      "10.2.2.5.3",
+      "10.2.2.5.4"
+    ]
+  },
+  {
+    "clause_id": "10.2.2.5.1",
+    "text": "10.2.2.5.1 Concrete shall be compacted using mechanical vibrators complying with IS 2505, IS 2506, IS 2514 and IS 4656. Over-vibration and under-vibration of concrete are harmful and shall be avoided. Also, vibration of very wet mixes shall be avoided. Whenever vibration has to be applied externally, the design of formwork and disposition of vibrators shall receive special consideration to ensure efficient compaction and to avoid surface blemishes.",
+    "page": 429,
+    "parent": "10.2.2.5",
+    "children": []
+  },
+  {
+    "clause_id": "10.2.2.5.2",
+    "text": "10.2.2.5.2 The concrete used shall have adequate workability that can be properly compacted by means of internal vibration. Adequate compaction shall be ensured by providing suitable workability and by employing appropriate placing and compacting equipment and procedures. Full compaction shall be ensured in the vicinity of: (a) construction and movement joints, (b) embedded water bars and reinforcement, (c) tandems or duct formers, (d) embedded fixtures, and (e) corners of formwork, to produce a dense homogeneous void-free mass having the required surface finish.",
+    "page": 430,
+    "parent": "10.2.2.5",
+    "children": []
+  },
+  {
+    "clause_id": "10.2.2.5.3",
+    "text": "10.2.2.5.3 When vibrators are used, vibration shall be done continuously during the placing of each batch of concrete until the expulsion of air has practically ceased and in a manner that does not promote segregation.",
+    "page": 430,
+    "parent": "10.2.2.5",
+    "children": []
+  },
+  {
+    "clause_id": "10.2.2.5.4",
+    "text": "10.2.2.5.4 When external vibrators are used, the design of formwork and access of vibrator shall be such as not to be applied through reinforcement and all inserts (like ducts). Internal vibrators shall be inserted in an orderly manner and the distance between insertions vibrators shall be about one and half times the radius of the area visibly affected by vibration. Additional vibrators in serviceable condition shall be kept at site so that they can be used immediately in the event of break-down.",
+    "page": 430,
+    "parent": "10.2.2.5",
+    "children": []
+  },
+  {
+    "clause_id": "10.2.2.7.1",
+    "text": "10.2.2.7.1 Normal curing",
+    "page": 431,
+    "parent": "10.2.2.7",
+    "children": []
+  },
+  {
+    "clause_id": "10.2.2.7.2",
+    "text": "10.2.2.7.2 Moist curing",
+    "page": 431,
+    "parent": "10.2.2.7",
+    "children": []
+  },
+  {
+    "clause_id": "10.2.2.7.3",
+    "text": "10.2.2.7.3 Membrane curing",
+    "page": 431,
+    "parent": "10.2.2.7",
+    "children": []
+  },
+  {
+    "clause_id": "10.2.2.7.4",
+    "text": "10.2.2.7.4 Steam Curing",
+    "page": 431,
+    "parent": "10.2.2.7",
+    "children": []
+  },
+  {
+    "clause_id": "10.2.2.8",
+    "text": "10.2.2.8 Supervising",
+    "page": 432,
+    "parent": "10.2.2",
+    "children": []
+  },
+  {
+    "clause_id": "10.3.1",
+    "text": "10.3.1 Hot Weather Concreting",
+    "page": 432,
+    "parent": "10.3",
+    "children": []
+  },
+  {
+    "clause_id": "10.3.2",
+    "text": "10.3.2 Cold Weather Concreting",
+    "page": 437,
+    "parent": "10.3",
+    "children": []
+  },
+  {
+    "clause_id": "10.3.3",
+    "text": "10.3.3 Under-Water Concreting",
+    "page": 441,
+    "parent": "10.3",
+    "children": [
+      "10.3.3.1",
+      "10.3.3.2",
+      "10.3.3.3",
+      "10.3.3.4",
+      "10.3.3.5",
+      "10.3.3.6"
+    ]
+  },
+  {
+    "clause_id": "10.3.3.1",
+    "text": "10.3.3.1 When it is necessary to deposit concrete under water, the methods, equipment, materials and proportions of the mix to be used shall be submitted to and approved by the Engineer-in-Charge before the work is started.",
+    "page": 442,
+    "parent": "10.3.3",
+    "children": []
+  },
+  {
+    "clause_id": "10.3.3.2",
+    "text": "10.3.3.2 Under-water concrete should have a slump specified in 7.1.4.7. The water- cement ratio shall not exceed 0.6 for PCC work and 0.45 for reinforced concrete, depending on the grade of concrete or the type of chemical attack. For aggregates of 10 mm, 20 mm and 40 mm nominal maximum sizes, the cement content shall be at least 420 kg/m3, 380 kg/m3 and 360 kg/m of concrete, respectively.",
+    "page": 442,
+    "parent": "10.3.3",
+    "children": []
+  },
+  {
+    "clause_id": "10.3.3.3",
+    "text": "10.3.3.3 Coffer-dams or forms shall be sufficiently tight to ensure still water, if practicable, and in any case to reduce the flow of water to less than 3m/min through the space into which concrete is to be deposited. Coffer-dams or forms in still water shall be sufficiently tight to prevent loss of mortar through the walls. De-watering by pumping shall not be done, while concrete is being placed or until 24 hours thereafter.",
+    "page": 442,
+    "parent": "10.3.3",
+    "children": []
+  },
+  {
+    "clause_id": "10.3.3.4",
+    "text": "10.3.3.4 Concrete shall be deposited, continuously until it is brought to the required height. While depositing, the top surface shall be kept as nearly level as possible and the formation of seams avoided. The methods to be used for depositing concrete under water shall be one of the following:",
+    "page": 442,
+    "parent": "10.3.3",
+    "children": []
+  },
+  {
+    "clause_id": "10.3.3.5",
+    "text": "10.3.3.5 To minimize the formulation of laitance, great care shall be exercised not to disturb the concrete as far as possible while it is being deposited.",
+    "page": 442,
+    "parent": "10.3.3",
+    "children": []
+  },
+  {
+    "clause_id": "10.3.3.6",
+    "text": "10.3.3.6 Ingredient materials of concrete to be placed under water shall meet all relevant specifications. In addition, the following shall apply:",
+    "page": 442,
+    "parent": "10.3.3",
+    "children": []
+  },
+  {
+    "clause_id": "10.3.4",
+    "text": "10.3.4 Concreting in Aggressive Soils",
+    "page": 442,
+    "parent": "10.3",
+    "children": []
+  },
+  {
+    "clause_id": "10.4",
+    "text": "10.4 Mass Concreting",
+    "page": 443,
+    "parent": "10",
+    "children": []
+  },
+  {
+    "clause_id": "10.5.1",
+    "text": "10.5.1 Cutting",
+    "page": 443,
+    "parent": "10.5",
+    "children": []
+  },
+  {
+    "clause_id": "10.5.2",
+    "text": "10.5.2 Fabricating",
+    "page": 443,
+    "parent": "10.5",
+    "children": []
+  },
+  {
+    "clause_id": "10.5.3",
+    "text": "10.5.3 Assembling",
+    "page": 443,
+    "parent": "10.5",
+    "children": [
+      "10.5.3.1",
+      "10.5.3.2",
+      "10.5.3.3"
+    ]
+  },
+  {
+    "clause_id": "10.5.3.1",
+    "text": "10.5.3.1 Reinforcement Detailing",
+    "page": 444,
+    "parent": "10.5.3",
+    "children": [
+      "10.5.3.1.1",
+      "10.5.3.1.2",
+      "10.5.3.1.3"
+    ]
+  },
+  {
+    "clause_id": "10.5.3.1.1",
+    "text": "10.5.3.1.1 Reinforcement detailing and placing shall be such that:",
+    "page": 444,
+    "parent": "10.5.3.1",
+    "children": []
+  },
+  {
+    "clause_id": "10.5.3.1.2",
+    "text": "10.5.3.1.2 When the reinforcing detailing scheme shown on the construction drawings does not meet the above two requirements, the said drawings shall be referred back to the structural designer for providing a revised detailing scheme meeting the above requirements.",
+    "page": 444,
+    "parent": "10.5.3.1",
+    "children": []
+  },
+  {
+    "clause_id": "10.5.3.1.3",
+    "text": "10.5.3.1.3 Bar bending schedules prepared for all reinforcement work (in keeping with the procedure specified in IS 2502) shall comply with the following:",
+    "page": 444,
+    "parent": "10.5.3.1",
+    "children": []
+  },
+  {
+    "clause_id": "10.5.3.2",
+    "text": "10.5.3.2 Handling of Reinforcement",
+    "page": 444,
+    "parent": "10.5.3",
+    "children": []
+  },
+  {
+    "clause_id": "10.5.3.3",
+    "text": "10.5.3.3 Tolerances on Placing of Reinforcement",
+    "page": 444,
+    "parent": "10.5.3",
+    "children": [
+      "10.5.3.3.1",
+      "10.5.3.3.2"
+    ]
+  },
+  {
+    "clause_id": "10.5.3.3.1",
+    "text": "10.5.3.3.1 Reinforcement bars shall be secured against displacement outside the specified limits. Spacers, chairs and other supports detailed on drawings, together with such other supports as may be necessary, shall be:",
+    "page": 444,
+    "parent": "10.5.3.3",
+    "children": []
+  },
+  {
+    "clause_id": "10.5.3.3.2",
+    "text": "10.5.3.3.2 In any case, spacers, chairs and other supports shall be placed in the formwork within the following tolerance on clear cover:",
+    "page": 445,
+    "parent": "10.5.3.3",
+    "children": []
+  },
+  {
+    "clause_id": "10.5.4",
+    "text": "10.5.4 Welded Joints or Mechanical Connections",
+    "page": 445,
+    "parent": "10.5",
+    "children": []
+  },
+  {
+    "clause_id": "10.6.1",
+    "text": "10.6.1 Cutting and Placing",
+    "page": 445,
+    "parent": "10.6",
+    "children": [
+      "10.6.1.1",
+      "10.6.1.2",
+      "10.6.1.3"
+    ]
+  },
+  {
+    "clause_id": "10.6.1.1",
+    "text": "10.6.1.1 Straightness",
+    "page": 445,
+    "parent": "10.6.1",
+    "children": []
+  },
+  {
+    "clause_id": "10.6.1.2",
+    "text": "10.6.1.2 Arrangement and Positioning",
+    "page": 445,
+    "parent": "10.6.1",
+    "children": []
+  },
+  {
+    "clause_id": "10.6.1.3",
+    "text": "10.6.1.3 Jointing",
+    "page": 446,
+    "parent": "10.6.1",
+    "children": []
+  },
+  {
+    "clause_id": "10.6.2",
+    "text": "10.6.2 Protection of Prestressing Steel and Anchorages",
+    "page": 446,
+    "parent": "10.6",
+    "children": [
+      "10.6.2.1",
+      "10.6.2.2",
+      "10.6.2.3",
+      "10.6.2.4"
+    ]
+  },
+  {
+    "clause_id": "10.6.2.1",
+    "text": "10.6.2.1 Construction with Unbonded Steel embedded in Concrete",
+    "page": 446,
+    "parent": "10.6.2",
+    "children": []
+  },
+  {
+    "clause_id": "10.6.2.2",
+    "text": "10.6.2.2 Construction with Unbonded Steel and Anchorages not embedded in Concrete (External Prestressing Elements)",
+    "page": 447,
+    "parent": "10.6.2",
+    "children": []
+  },
+  {
+    "clause_id": "10.6.2.3",
+    "text": "10.6.2.3 Construction with Post-tensioned Bonded Prestressing Steel",
+    "page": 447,
+    "parent": "10.6.2",
+    "children": []
+  },
+  {
+    "clause_id": "10.6.2.4",
+    "text": "10.6.2.4 Protection during construction period",
+    "page": 447,
+    "parent": "10.6.2",
+    "children": []
+  },
+  {
+    "clause_id": "10.6.3",
+    "text": "10.6.3 Prestressing",
+    "page": 448,
+    "parent": "10.6",
+    "children": [
+      "10.6.3.1",
+      "10.6.3.2",
+      "10.6.3.3"
+    ]
+  },
+  {
+    "clause_id": "10.6.3.1",
+    "text": "10.6.3.1 Prestressing Equipment",
+    "page": 448,
+    "parent": "10.6.3",
+    "children": [
+      "10.6.3.1.1",
+      "10.6.3.1.2",
+      "10.6.3.1.3",
+      "10.6.3.1.4"
+    ]
+  },
+  {
+    "clause_id": "10.6.3.1.1",
+    "text": "10.6.3.1.1 Tensioning apparatus",
+    "page": 448,
+    "parent": "10.6.3.1",
+    "children": []
+  },
+  {
+    "clause_id": "10.6.3.1.2",
+    "text": "10.6.3.1.2 Temporary gripping device",
+    "page": 448,
+    "parent": "10.6.3.1",
+    "children": []
+  },
+  {
+    "clause_id": "10.6.3.1.3",
+    "text": "10.6.3.1.3 Releasing device",
+    "page": 449,
+    "parent": "10.6.3.1",
+    "children": []
+  },
+  {
+    "clause_id": "10.6.3.1.4",
+    "text": "10.6.3.1.4 Anchorage device",
+    "page": 449,
+    "parent": "10.6.3.1",
+    "children": []
+  },
+  {
+    "clause_id": "10.6.3.2",
+    "text": "10.6.3.2 Procedure for Tensioning and Transfer",
+    "page": 449,
+    "parent": "10.6.3",
+    "children": [
+      "10.6.3.2.1",
+      "10.6.3.2.2",
+      "10.6.3.2.3",
+      "10.6.3.2.4",
+      "10.6.3.2.5",
+      "10.6.3.2.6"
+    ]
+  },
+  {
+    "clause_id": "10.6.3.2.1",
+    "text": "10.6.3.2.1 Stressing",
+    "page": 449,
+    "parent": "10.6.3.2",
+    "children": []
+  },
+  {
+    "clause_id": "10.6.3.2.2",
+    "text": "10.6.3.2.2 Slack in prestressing",
+    "page": 450,
+    "parent": "10.6.3.2",
+    "children": []
+  },
+  {
+    "clause_id": "10.6.3.2.3",
+    "text": "10.6.3.2.3 In practice, the force and elongation of tendon may not exactly match with the expected values given in stressing schedule. In such cases either the force (or the elongation) will be achieved first and the other value lags behind. In such cases, the force (or elongation) shall be further increased, but not exceeding 5 percent of the design value till the elongation (or force), which had lagged behind reaches the design value. If, even after reaching 5 percent extra value of the force (or elongation), the",
+    "page": 450,
+    "parent": "10.6.3.2",
+    "children": []
+  },
+  {
+    "clause_id": "10.6.3.2.4",
+    "text": "10.6.3.2.4 Measurement of prestressing force",
+    "page": 451,
+    "parent": "10.6.3.2",
+    "children": [
+      "10.6.3.2.4.1",
+      "10.6.3.2.4.2",
+      "10.6.3.2.4.3"
+    ]
+  },
+  {
+    "clause_id": "10.6.3.2.4.1",
+    "text": "10.6.3.2.4.1 The force induced in the prestressing tendon shall be determined by means of gauges attached to the tensioning apparatus as well as by measuring the extension of the steel. It is essential that both methods are used jointly so that the inaccuracies to which each is singly susceptible are minimized. Due allowance shall be made for the frictional losses in the tensioning apparatus.",
+    "page": 451,
+    "parent": "10.6.3.2.4",
+    "children": []
+  },
+  {
+    "clause_id": "10.6.3.2.4.2",
+    "text": "10.6.3.2.4.2 All dynamometers and pressure gauges including master gauge shall be calibrated by an approved laboratory immediately prior to use and then at intervals not exceeding 3 months and true force determined from the calibration curve. Further, whenever there is a breakage of tendons, the calibration shall be carried out before reuse of the gauges. The pressure gauges shall be accurate within 2 percent of their full capacity.",
+    "page": 451,
+    "parent": "10.6.3.2.4",
+    "children": []
+  },
+  {
+    "clause_id": "10.6.3.2.4.3",
+    "text": "10.6.3.2.4.3 In measuring the extension of prestressing steel, any slip which may occur in the gripping device shall be taken into consideration.",
+    "page": 451,
+    "parent": "10.6.3.2.4",
+    "children": []
+  },
+  {
+    "clause_id": "10.6.3.2.5",
+    "text": "10.6.3.2.5 Breakage of wires",
+    "page": 451,
+    "parent": "10.6.3.2",
+    "children": []
+  },
+  {
+    "clause_id": "10.6.3.2.6",
+    "text": "10.6.3.2.6 Transfer of prestressing force",
+    "page": 451,
+    "parent": "10.6.3.2",
+    "children": [
+      "10.6.3.2.6.1",
+      "10.6.3.2.6.2",
+      "10.6.3.2.6.3"
+    ]
+  },
+  {
+    "clause_id": "10.6.3.2.6.1",
+    "text": "10.6.3.2.6.1 The transfer of the prestress shall be carried out gradually so as to avoid large differences of tension between wires in a tendon, severe eccentricities of prestressing force and the sudden application of stress to the concrete.",
+    "page": 451,
+    "parent": "10.6.3.2.6",
+    "children": []
+  },
+  {
+    "clause_id": "10.6.3.2.6.2",
+    "text": "10.6.3.2.6.2 Where the total prestressing force in a member is built up by successive transfers to the force of a number of individual tendons on to the concrete, account shall be taken of the effect of the successive prestressing.",
+    "page": 452,
+    "parent": "10.6.3.2.6",
+    "children": []
+  },
+  {
+    "clause_id": "10.6.3.2.6.3",
+    "text": "10.6.3.2.6.3 In the long line and similar methods of prestressing, when the transfer is made on several moulds at a time, care shall be taken to ensure that the prestressing force is evenly applied on all the moulds, and that the transfer of prestress to the concrete is uniform along the entire length of the tension line.",
+    "page": 452,
+    "parent": "10.6.3.2.6",
+    "children": []
+  },
+  {
+    "clause_id": "10.6.3.3",
+    "text": "10.6.3.3 Grouting",
+    "page": 452,
+    "parent": "10.6.3",
+    "children": [
+      "10.6.3.3.1",
+      "10.6.3.3.2",
+      "10.6.3.3.3",
+      "10.6.3.3.4",
+      "10.6.3.3.5"
+    ]
+  },
+  {
+    "clause_id": "10.6.3.3.1",
+    "text": "10.6.3.3.1 Equipment",
+    "page": 452,
+    "parent": "10.6.3.3",
+    "children": [
+      "10.6.3.3.1.1",
+      "10.6.3.3.1.2",
+      "10.6.3.3.1.3",
+      "10.6.3.3.1.5"
+    ]
+  },
+  {
+    "clause_id": "10.6.3.3.1.1",
+    "text": "10.6.3.3.1.1 Grout colloidal mixer",
+    "page": 452,
+    "parent": "10.6.3.3.1",
+    "children": []
+  },
+  {
+    "clause_id": "10.6.3.3.1.2",
+    "text": "10.6.3.3.1.2 Grout pump",
+    "page": 452,
+    "parent": "10.6.3.3.1",
+    "children": []
+  },
+  {
+    "clause_id": "10.6.3.3.1.3",
+    "text": "10.6.3.3.1.3 Water pump",
+    "page": 452,
+    "parent": "10.6.3.3.1",
+    "children": []
+  },
+  {
+    "clause_id": "10.6.3.3.1.5",
+    "text": "10.6.3.3.1.5 Connections and air vents",
+    "page": 453,
+    "parent": "10.6.3.3.1",
+    "children": []
+  },
+  {
+    "clause_id": "10.6.3.3.2",
+    "text": "10.6.3.3.2 Mixing of grout",
+    "page": 453,
+    "parent": "10.6.3.3",
+    "children": []
+  },
+  {
+    "clause_id": "10.6.3.3.3",
+    "text": "10.6.3.3.3 Preparations before grouting",
+    "page": 453,
+    "parent": "10.6.3.3",
+    "children": []
+  },
+  {
+    "clause_id": "10.6.3.3.4",
+    "text": "10.6.3.3.4 Injection of grout",
+    "page": 454,
+    "parent": "10.6.3.3",
+    "children": []
+  },
+  {
+    "clause_id": "10.6.3.3.5",
+    "text": "10.6.3.3.5 Precautions and recommendations for effective grouting",
+    "page": 455,
+    "parent": "10.6.3.3",
+    "children": []
+  },
+  {
+    "clause_id": "10.8.1",
+    "text": "10.8.1 Construction Joints",
+    "page": 457,
+    "parent": "10.8",
+    "children": [
+      "10.8.1.1",
+      "10.8.1.2",
+      "10.8.1.3",
+      "10.8.1.4",
+      "10.8.1.5"
+    ]
+  },
+  {
+    "clause_id": "10.8.1.1",
+    "text": "10.8.1.1 Construction joints shall not be located on the portion subjected to large shear force. The direction of construction joints is crossed at right angles to the direction of compressive force in member. When construction joints are located on the portion subjected to shear force:",
+    "page": 457,
+    "parent": "10.8.1",
+    "children": []
+  },
+  {
+    "clause_id": "10.8.1.2",
+    "text": "10.8.1.2 Construction joints shall be placed at accessible locations to permit cleaning out of laitance, cement slurry and unsound concrete, to create rough or uneven surface. Laitance and cement slurry shall be cleaned out using wire brush on the surface of joint immediately after initial setting of concrete and to clean out the same immediately thereafter. The prepared surface shall be in a clean saturated surface dry condition, when fresh concrete is placed against it.",
+    "page": 457,
+    "parent": "10.8.1",
+    "children": []
+  },
+  {
+    "clause_id": "10.8.1.3",
+    "text": "10.8.1.3 In the case of construction joints at locations where the previous pour has been cast against shuttering, a rough surface for the previously poured concrete shall be obtained to expose the aggregate with a high pressure water jet or any other appropriate means. Fresh concrete shall be thoroughly vibrated near construction joints so that mortar from the new concrete flows between large aggregates and develops proper bond with old concrete.",
+    "page": 457,
+    "parent": "10.8.1",
+    "children": []
+  },
+  {
+    "clause_id": "10.8.1.4",
+    "text": "10.8.1.4 When leaving dowels open in structural members at a construction joint for some time before continuing the construction, precautions shall be taken. Cement slurry shall be applied on the bars during the exposed period. When steel bars are showing the signs of rusting, they shall be cleaned properly before continuing the construction. Anti-corrosive treatment may be done, if necessary.",
+    "page": 457,
+    "parent": "10.8.1",
+    "children": []
+  },
+  {
+    "clause_id": "10.8.1.5",
+    "text": "10.8.1.5 When continuing construction at a construction joint, it shall be prepared to assure bond between the old and new concretes, by:",
+    "page": 458,
+    "parent": "10.8.1",
+    "children": []
+  },
+  {
+    "clause_id": "10.8.2",
+    "text": "10.8.2 Jointing of Butted Assemblies in Prestressed Concrete Construction",
+    "page": 458,
+    "parent": "10.8",
+    "children": [
+      "10.8.2.1",
+      "10.8.2.2",
+      "10.8.2.3",
+      "10.8.2.4"
+    ]
+  },
+  {
+    "clause_id": "10.8.2.1",
+    "text": "10.8.2.1 The joints of butted assemblies shall be made of either cement grout or cement mortar or concrete. Cement grouting shall be used for joints up to 12 mm thick. For joints thicker than 12 mm and up to 75 mm, cement mortar shall be used. The mortar, which may be made of one part cement and one-and-a-half parts sand shall be of a dry consistency and shall be packed hard in layers so that it rings true. Where joints exceeding 75 mm are encountered, the joint shall be made up of concrete. Use of epoxy may be permitted with the approval of engineer-in-charge.",
+    "page": 458,
+    "parent": "10.8.2",
+    "children": []
+  },
+  {
+    "clause_id": "10.8.2.2",
+    "text": "10.8.2.2 The stressing operations may be carried out in case of mortar joints immediately after placing the mortar but the stress in the mortar shall not exceed 7 MPa. In grouted joints and concrete joints, the allowable stress in the first 24 h after placing of the grout or concrete in the joint shall approximate as closely as possible to the strength of the grout or concrete used.",
+    "page": 458,
+    "parent": "10.8.2",
+    "children": []
+  },
+  {
+    "clause_id": "10.8.2.3",
+    "text": "10.8.2.3 The holes for the prestressing tendons shall be accurately located and shall be in true alignment when the units are put together.",
+    "page": 458,
+    "parent": "10.8.2",
+    "children": []
+  },
+  {
+    "clause_id": "10.8.2.4",
+    "text": "10.8.2.4 Full tensioning shall not be carried out until the strength of the concrete or mortar in the joint has reached twice the stress at transfer.",
+    "page": 458,
+    "parent": "10.8.2",
+    "children": []
+  },
+  {
+    "clause_id": "10.8.3",
+    "text": "10.8.3 Instability during Erection of Precast members",
+    "page": 458,
+    "parent": "10.8",
+    "children": []
+  },
+  {
+    "clause_id": "11.3.1",
+    "text": "11.3.1 Inspections before start of construction shall ensure that:",
+    "page": 462,
+    "parent": "11.3",
+    "children": []
+  },
+  {
+    "clause_id": "11.3.2",
+    "text": "11.3.2 Quality inspections during construction (with testing wherever required) shall be assured at every stage for achieving desired quality in construction. Inspections shall be carried out and appropriately documented for:",
+    "page": 462,
+    "parent": "11.3",
+    "children": []
+  },
+  {
+    "clause_id": "11.3.3",
+    "text": "11.3.3 Immediately after stripping the formwork, all concrete shall be inspected for defective work (if any) or small defects (if any) either removed or made good as applicable after approval of Competent Authority before concrete has thoroughly hardened. The defects found and remedial measures taken shall be documented appropriately.",
+    "page": 462,
+    "parent": "11.3",
+    "children": []
+  },
+  {
+    "clause_id": "11.4.1",
+    "text": "11.4.1 Test for Workability",
+    "page": 463,
+    "parent": "11.4",
+    "children": []
+  },
+  {
+    "clause_id": "11.4.2",
+    "text": "11.4.2 Tests for Strength of Concrete",
+    "page": 463,
+    "parent": "11.4",
+    "children": [
+      "11.4.2.1",
+      "11.4.2.2",
+      "11.4.2.3",
+      "11.4.2.4"
+    ]
+  },
+  {
+    "clause_id": "11.4.2.1",
+    "text": "11.4.2.1 Specimen",
+    "page": 463,
+    "parent": "11.4.2",
+    "children": []
+  },
+  {
+    "clause_id": "11.4.2.2",
+    "text": "11.4.2.2 Frequency of sampling",
+    "page": 464,
+    "parent": "11.4.2",
+    "children": []
+  },
+  {
+    "clause_id": "11.4.2.3",
+    "text": "11.4.2.3 Test results",
+    "page": 464,
+    "parent": "11.4.2",
+    "children": []
+  },
+  {
+    "clause_id": "11.4.2.4",
+    "text": "11.4.2.4 Acceptance criteria",
+    "page": 464,
+    "parent": "11.4.2",
+    "children": [
+      "11.4.2.4.1",
+      "11.4.2.4.2",
+      "11.4.2.4.3",
+      "11.4.2.4.4",
+      "11.4.2.4.5",
+      "11.4.2.4.6",
+      "11.4.2.4.7"
+    ]
+  },
+  {
+    "clause_id": "11.4.2.4.1",
+    "text": "11.4.2.4.1 Compressive strength",
+    "page": 464,
+    "parent": "11.4.2.4",
+    "children": []
+  },
+  {
+    "clause_id": "11.4.2.4.2",
+    "text": "11.4.2.4.2 Flexural strength",
+    "page": 465,
+    "parent": "11.4.2.4",
+    "children": []
+  },
+  {
+    "clause_id": "11.4.2.4.3",
+    "text": "11.4.2.4.3 For concrete of quantity up to 30 m3 in a shift (where the number of samples to be taken is less than 4 as per frequency of sampling given in 11.4.2.2), the mean of test results of 4 consecutive non-overlapping samples shall be calculated (including the samples of preceding and succeeding days). Where it is not possible for small works (where total quantity involved is less than 30 m\u00b0, at least 2 samples shall be taken and no sample shall have strength less than f,, and mean of 2 samples not less than f4.+2.",
+    "page": 465,
+    "parent": "11.4.2.4",
+    "children": []
+  },
+  {
+    "clause_id": "11.4.2.4.4",
+    "text": "11.4.2.4.4 The quantity of concrete represented by a group of four consecutive test results shall include the batches from which the first and last samples were taken together with all intervening batches. For the individual test result requirements given in Table 96 or in above, only the particular batch from which the sample was taken shall be at risk. Where the mean rate of sampling is not specified, the maximum quantity of concrete that four consecutive test results represent shall be limited to 60 m3.",
+    "page": 465,
+    "parent": "11.4.2.4",
+    "children": []
+  },
+  {
+    "clause_id": "11.4.2.4.5",
+    "text": "11.4.2.4.5 If the concrete is deemed not to comply persuant to 11.4.2.4.4, the structural adequacy of the parts affected shall be investigated, and any consequential action shall be taken, as needed.",
+    "page": 465,
+    "parent": "11.4.2.4",
+    "children": []
+  },
+  {
+    "clause_id": "11.4.2.4.6",
+    "text": "11.4.2.4.6 Concrete of each grade shall be assessed separately.",
+    "page": 466,
+    "parent": "11.4.2.4",
+    "children": []
+  },
+  {
+    "clause_id": "11.4.2.4.7",
+    "text": "11.4.2.4.7 Cast concrete is liable to be rejected, if:",
+    "page": 466,
+    "parent": "11.4.2.4",
+    "children": []
+  },
+  {
+    "clause_id": "11.4.3",
+    "text": "11.4.3 Non-destructive Tests during construction",
+    "page": 466,
+    "parent": "11.4",
+    "children": [
+      "11.4.3.1"
+    ]
+  },
+  {
+    "clause_id": "11.4.3.1",
+    "text": "11.4.3.1 Acceptance Criteria",
+    "page": 466,
+    "parent": "11.4.3",
+    "children": []
+  },
+  {
+    "clause_id": "11.4.4",
+    "text": "11.4.4 Concrete Core Tests",
+    "page": 467,
+    "parent": "11.4",
+    "children": []
+  },
+  {
+    "clause_id": "11.4.5",
+    "text": "11.4.5 Durability Tests",
+    "page": 467,
+    "parent": "11.4",
+    "children": [
+      "11.4.5.1",
+      "11.4.5.2",
+      "11.4.5.3"
+    ]
+  },
+  {
+    "clause_id": "11.4.5.1",
+    "text": "11.4.5.1 Frequency of sampling",
+    "page": 467,
+    "parent": "11.4.5",
+    "children": []
+  },
+  {
+    "clause_id": "11.4.5.2",
+    "text": "11.4.5.2 Specimen",
+    "page": 467,
+    "parent": "11.4.5",
+    "children": []
+  },
+  {
+    "clause_id": "11.4.5.3",
+    "text": "11.4.5.3 Acceptance Criteria",
+    "page": 468,
+    "parent": "11.4.5",
+    "children": []
+  },
+  {
+    "clause_id": "11.7",
+    "text": "11.7 Quality Assurance in Reinforcement Steel",
+    "page": 472,
+    "parent": "11",
+    "children": [
+      "11.7.1",
+      "11.7.2",
+      "11.7.3",
+      "11.7.4"
+    ]
+  },
+  {
+    "clause_id": "11.7.1",
+    "text": "11.7.1 Samples",
+    "page": 472,
+    "parent": "11.7",
+    "children": []
+  },
+  {
+    "clause_id": "11.7.2",
+    "text": "11.7.2 Frequency",
+    "page": 472,
+    "parent": "11.7",
+    "children": []
+  },
+  {
+    "clause_id": "11.7.3",
+    "text": "11.7.3 Test to be Conducted",
+    "page": 472,
+    "parent": "11.7",
+    "children": []
+  },
+  {
+    "clause_id": "11.7.4",
+    "text": "11.7.4 Acceptance Criteria",
+    "page": 472,
+    "parent": "11.7",
+    "children": []
+  },
+  {
+    "clause_id": "11.8",
+    "text": "11.8 Quality Assurance in Prestressing Steel and Grout Work",
+    "page": 473,
+    "parent": "11",
+    "children": [
+      "11.8.1",
+      "11.8.2"
+    ]
+  },
+  {
+    "clause_id": "11.8.1",
+    "text": "11.8.1 Tests and Frequency",
+    "page": 473,
+    "parent": "11.8",
+    "children": []
+  },
+  {
+    "clause_id": "11.8.2",
+    "text": "11.8.2 Acceptance Criteria",
+    "page": 473,
+    "parent": "11.8",
+    "children": []
+  },
+  {
+    "clause_id": "11.9.1",
+    "text": "11.9.1 Non-destructive Tests (NDTs)",
+    "page": 475,
+    "parent": "11.9",
+    "children": [
+      "11.9.1.1"
+    ]
+  },
+  {
+    "clause_id": "11.9.1.1",
+    "text": "11.9.1.1 Tests for estimation of strength and in place quality of concrete",
+    "page": 476,
+    "parent": "11.9.1",
+    "children": []
+  },
+  {
+    "clause_id": "11.9.2",
+    "text": "11.9.2 Concrete Core Test",
+    "page": 476,
+    "parent": "11.9",
+    "children": [
+      "11.9.2.1"
+    ]
+  },
+  {
+    "clause_id": "11.9.2.1",
+    "text": "11.9.2.1 Acceptance criteria of core test results",
+    "page": 476,
+    "parent": "11.9.2",
+    "children": [
+      "11.9.2.1.1",
+      "11.9.2.1.2",
+      "11.9.2.1.3",
+      "11.9.2.1.4",
+      "11.9.2.1.5",
+      "11.9.2.1.6"
+    ]
+  },
+  {
+    "clause_id": "11.9.2.1.1",
+    "text": "11.9.2.1.1 Concrete in the structural member represented by core test samples shall be considered acceptable, if:",
+    "page": 476,
+    "parent": "11.9.2.1",
+    "children": []
+  },
+  {
+    "clause_id": "11.9.2.1.2",
+    "text": "11.9.2.1.2 Where the requirements of (a) and (b) above as the case may be have been met, the concrete can be said to comply with requirements of IS 456. But where 10 or more cores are taken but the results do not meet the criteria given in (b) above, but results of average of cores from all the individual members tested have strength more than 0.85fck and no individual core has strength less than 0.75fcx, the concrete in the particular batch or member may be accepted for structural adequacy and contractual acceptance/penalties/deduction may be decided as per contract provisions by the project authorities.",
+    "page": 477,
+    "parent": "11.9.2.1",
+    "children": []
+  },
+  {
+    "clause_id": "11.9.2.1.3",
+    "text": "11.9.2.1.3 When the core test results do not satisfy the above requirements, or when such tests could not be performed, load test (as per 11.9.3) may be performed on the structure to ascertain its load carrying capacity.",
+    "page": 477,
+    "parent": "11.9.2.1",
+    "children": []
+  },
+  {
+    "clause_id": "11.9.2.1.4",
+    "text": "11.9.2.1.4 Where there is doubt on strength, core tests could not be performed and load test has been carried out, additional NDTs shall be carried out to assess the strength and durability of concrete.",
+    "page": 477,
+    "parent": "11.9.2.1",
+    "children": []
+  },
+  {
+    "clause_id": "11.9.2.1.5",
+    "text": "11.9.2.1.5 Normally, though, there is a gain of strength beyond 28 days, the quantum of increase depends upon the type and grade of cement, method of curing and prevalent environmental condition. Therefore, while assessing the strength of concrete based on cores extracted at a later age, no increase in strength of concrete shall be considered, except where considered in design or included in the contract specifications.",
+    "page": 477,
+    "parent": "11.9.2.1",
+    "children": []
+  },
+  {
+    "clause_id": "11.9.2.1.6",
+    "text": "11.9.2.1.6 Tests as specified in 7 and in sections above shall be used to establish the properties of reinforcement and concrete making materials.",
+    "page": 477,
+    "parent": "11.9.2.1",
+    "children": []
+  },
+  {
+    "clause_id": "11.9.3",
+    "text": "11.9.3 Load Tests",
+    "page": 477,
+    "parent": "11.9",
+    "children": [
+      "11.9.3.1",
+      "11.9.3.2"
+    ]
+  },
+  {
+    "clause_id": "11.9.3.1",
+    "text": "11.9.3.1 In case of doubt regarding the grade of concrete used either due to poor workmanship or based on results of cube strength tests or core tests, load tests may be carried out as specified hereunder. Load Tests shall be performed on",
+    "page": 477,
+    "parent": "11.9.3",
+    "children": []
+  },
+  {
+    "clause_id": "11.9.3.2",
+    "text": "11.9.3.2 The following procedure shall be followed for conducting the load test on a structure:",
+    "page": 478,
+    "parent": "11.9.3",
+    "children": []
+  },
+  {
+    "clause_id": "11.9.4",
+    "text": "11.9.4 Vibration Tests",
+    "page": 478,
+    "parent": "11.9",
+    "children": [
+      "11.9.4.1",
+      "11.9.4.2"
+    ]
+  },
+  {
+    "clause_id": "11.9.4.1",
+    "text": "11.9.4.1 Ambient vibration test",
+    "page": 479,
+    "parent": "11.9.4",
+    "children": []
+  },
+  {
+    "clause_id": "11.9.4.2",
+    "text": "11.9.4.2 Forced vibration test",
+    "page": 479,
+    "parent": "11.9.4",
+    "children": []
+  },
+  {
+    "clause_id": "11.9.5",
+    "text": "11.9.5 Impact Tests",
+    "page": 479,
+    "parent": "11.9",
+    "children": []
+  },
+  {
+    "clause_id": "12.2.1",
+    "text": "12.2.1 Flexure and Shear",
+    "page": 480,
+    "parent": "12.2",
+    "children": []
+  },
+  {
+    "clause_id": "12.2.2",
+    "text": "12.2.2 Properties of SFRC",
+    "page": 480,
+    "parent": "12.2",
+    "children": [
+      "12.2.2.1",
+      "12.2.2.2",
+      "12.2.2.3",
+      "12.2.2.4",
+      "12.2.2.5",
+      "12.2.2.6"
+    ]
+  },
+  {
+    "clause_id": "12.2.2.1",
+    "text": "12.2.2.1 Compressive strength",
+    "page": 480,
+    "parent": "12.2.2",
+    "children": []
+  },
+  {
+    "clause_id": "12.2.2.2",
+    "text": "12.2.2.2 Tensile Properties",
+    "page": 480,
+    "parent": "12.2.2",
+    "children": []
+  },
+  {
+    "clause_id": "12.2.2.3",
+    "text": "12.2.2.3 Determination of strength by direct testing",
+    "page": 481,
+    "parent": "12.2.2",
+    "children": []
+  },
+  {
+    "clause_id": "12.2.2.4",
+    "text": "12.2.2.4 Residual tensile strength-residual flexural strength relationship",
+    "page": 482,
+    "parent": "12.2.2",
+    "children": []
+  },
+  {
+    "clause_id": "12.2.2.5",
+    "text": "12.2.2.5 Determination of strength by indirect testing",
+    "page": 482,
+    "parent": "12.2.2",
+    "children": []
+  },
+  {
+    "clause_id": "12.2.2.6",
+    "text": "12.2.2.6 Modulus of elasticity",
+    "page": 482,
+    "parent": "12.2.2",
+    "children": []
+  },
+  {
+    "clause_id": "12.2.3",
+    "text": "12.2.3 Production of SFRC",
+    "page": 483,
+    "parent": "12.2",
+    "children": [
+      "12.2.3.2",
+      "12.2.3.3"
+    ]
+  },
+  {
+    "clause_id": "12.2.3.2",
+    "text": "12.2.3.2 Mixing of Fibres",
+    "page": 483,
+    "parent": "12.2.3",
+    "children": []
+  },
+  {
+    "clause_id": "12.2.3.3",
+    "text": "12.2.3.3 Determining the steel fibre content",
+    "page": 483,
+    "parent": "12.2.3",
+    "children": []
+  },
+  {
+    "clause_id": "12.3.1",
+    "text": "12.3.1 General",
+    "page": 484,
+    "parent": "12.3",
+    "children": []
+  },
+  {
+    "clause_id": "12.3.2",
+    "text": "12.3.2 Light weight aggregates namely sintered fly ash aggregates shall only be used for making light weight structural concrete (a type of special concrete). However use of lightweight aggregates for structural concrete should be limited to normal structures up to four storey height only. Its use in prestressed concrete and special structures like chimneys and cooling towers etc. should be avoided. Other light weight aggregates may be used only for non structural purpose with permission of competent project authority only.",
+    "page": 484,
+    "parent": "12.3",
+    "children": []
+  },
+  {
+    "clause_id": "12.3.3",
+    "text": "12.3.3 Guidelines for use of Sintered Fly Ash Lightweight Coarse Aggregate in Structural Concrete",
+    "page": 485,
+    "parent": "12.3",
+    "children": [
+      "12.3.3.1",
+      "12.3.3.2",
+      "12.3.3.3",
+      "12.3.3.4"
+    ]
+  },
+  {
+    "clause_id": "12.3.3.1",
+    "text": "12.3.3.1 Mechanical properties of sintered fly ash lightweight aggregate concrete",
+    "page": 485,
+    "parent": "12.3.3",
+    "children": [
+      "12.3.3.1.1",
+      "12.3.3.1.2",
+      "12.3.3.1.3",
+      "12.3.3.1.4"
+    ]
+  },
+  {
+    "clause_id": "12.3.3.1.1",
+    "text": "12.3.3.1.1 Lightweight concrete up to grade M35 and below may be made and used for structural use in non-wearing surfaces. There is normally little gain of strength beyond 28 days. The design should be based on 28 days characteristic strength of concrete. The flexural and splitting tensile strengths shall be obtained as described in IS 516 and IS 5816, respectively. For estimating the tensile strength from the compressive strength, the following formula may be used:",
+    "page": 485,
+    "parent": "12.3.3.1",
+    "children": []
+  },
+  {
+    "clause_id": "12.3.3.1.2",
+    "text": "12.3.3.1.2 The modulus of elasticity is primarily influenced by the elastic properties of the aggregate. The modulus of elasticity of concrete can be assumed as follows:",
+    "page": 485,
+    "parent": "12.3.3.1",
+    "children": []
+  },
+  {
+    "clause_id": "12.3.3.1.3",
+    "text": "12.3.3.1.3 Poisson\u2019s ratio of 0.20 may be usually assumed for practical design purposes.",
+    "page": 485,
+    "parent": "12.3.3.1",
+    "children": []
+  },
+  {
+    "clause_id": "12.3.3.1.4",
+    "text": "12.3.3.1.4 The linear thermal expansion coefficients for lightweight concrete ranges from 7 to 11 x 10\u00b0 mm/mm/\u00b0C depending on the amount of natural sand used.",
+    "page": 485,
+    "parent": "12.3.3.1",
+    "children": []
+  },
+  {
+    "clause_id": "12.3.3.2",
+    "text": "12.3.3.2 Durability of lightweight aggregate concrete",
+    "page": 485,
+    "parent": "12.3.3",
+    "children": [
+      "12.3.3.2.1",
+      "12.3.3.2.2"
+    ]
+  },
+  {
+    "clause_id": "12.3.3.2.1",
+    "text": "12.3.3.2.1 Exposure to sulphate attack",
+    "page": 486,
+    "parent": "12.3.3.2",
+    "children": []
+  },
+  {
+    "clause_id": "12.3.3.2.2",
+    "text": "12.3.3.2.2 Requirement of concrete cover",
+    "page": 486,
+    "parent": "12.3.3.2",
+    "children": []
+  },
+  {
+    "clause_id": "12.3.3.3",
+    "text": "12.3.3.3 Concrete Mix Proportions",
+    "page": 486,
+    "parent": "12.3.3",
+    "children": []
+  },
+  {
+    "clause_id": "12.3.3.4",
+    "text": "12.3.3.4 Other aspects",
+    "page": 486,
+    "parent": "12.3.3",
+    "children": []
+  },
+  {
+    "clause_id": "12.4.1.1",
+    "text": "12.4.1.1 Polymer-modified cementitious mixtures, also called polymer modified concrete (PMC) or polymer portland-cement concrete (PPCC) and latex modified concrete (LMC). They are defined as hydraulic cement combined at the time of mixing with organic polymers that are dispersed or redispersed in water, with or without aggregates.",
+    "page": 486,
+    "parent": "12.4.1",
+    "children": []
+  },
+  {
+    "clause_id": "12.4.1.2",
+    "text": "12.4.1.2 The organic polymer is supplied in three forms: as a dispersion in water that is called latex; as a redispersible powder; or as a liquid that is dispersible or soluble in water. Dispersions of polymers in water and redispersible polymer powders have been in use for many years as admixtures to hydraulic-cement mixtures. These admixtures are called polymer modifiers. The dispersions of these polymer modifiers are called latexes.",
+    "page": 487,
+    "parent": "12.4.1",
+    "children": []
+  },
+  {
+    "clause_id": "12.4.1.3",
+    "text": "12.4.1.3 Types of Polymer",
+    "page": 487,
+    "parent": "12.4.1",
+    "children": []
+  },
+  {
+    "clause_id": "12.4.2",
+    "text": "12.4.2 General requirements of polymer modifier to be used in concrete",
+    "page": 487,
+    "parent": "12.4",
+    "children": []
+  },
+  {
+    "clause_id": "12.4.3",
+    "text": "12.4.3 Proportioning of concrete for test concrete and reference concrete",
+    "page": 488,
+    "parent": "12.4",
+    "children": []
+  },
+  {
+    "clause_id": "12.4.4",
+    "text": "12.4.4 Mixture proportioning",
+    "page": 489,
+    "parent": "12.4",
+    "children": []
+  },
+  {
+    "clause_id": "12.4.5",
+    "text": "12.4.5 Curing",
+    "page": 489,
+    "parent": "12.4",
+    "children": []
+  },
+  {
+    "clause_id": "12.5.1",
+    "text": "12.5.1 Features of fresh Self Compacting Concrete",
+    "page": 489,
+    "parent": "12.5",
+    "children": []
+  },
+  {
+    "clause_id": "12.5.2",
+    "text": "12.5.2 Physical Properties of SCC",
+    "page": 491,
+    "parent": "12.5",
+    "children": []
+  },
+  {
+    "clause_id": "12.6.1",
+    "text": "12.6.1 Mix Design",
+    "page": 492,
+    "parent": "12.6",
+    "children": [
+      "12.6.1.1",
+      "12.6.1.2"
+    ]
+  },
+  {
+    "clause_id": "12.6.1.1",
+    "text": "12.6.1.1 Mix design for RCC is totally different from the design of mix for a conventional cement concrete pavement as the Abrahm\u2019s water/ cement ratio law does not hold good. RCC is a no-slump concrete.",
+    "page": 492,
+    "parent": "12.6.1",
+    "children": []
+  },
+  {
+    "clause_id": "12.6.1.2",
+    "text": "12.6.1.2 The mix shall be proportioned by weight of all ingredients such that the desired target mean strength is achieved. The moisture content shall be selected so that the mix is dry enough to support the weight of a vibratory roller, and yet wet enough to permit adequate distribution of paste throughout the mass during mixing, laying and compaction operations. The water content by weight may be in the range of 4 -7 per cent and shall be determined by trial mixes having water content changing at intervals of 0.5 percent. The optimum water content is determined using a loaded vee bee test apparatus or Modified proctor density test. Loaded Vee Bee time for RCC to be used in dams is generally in the range of 20410 seconds and for pavements a the range of loaded veebee time is 50+10 sec. Wet Density achieved shall also be determined and compared with theoretical air free density. For pavements where RCC is used for top layer and no wearing course is proposed, a drier mix is preferred which gives less undulations. In this case Modified proctor test is preferred over loaded vee beetest to determine Optimum water content. The coarse aggregates by volume shall be in the range of 52 - 56 percent and the volume of sand shall be varied to optimize the strength by trials. The fly-ash/ cement ratio and the water/cementitious material (cement + fly ash) ratio shall be selected so as to achieve the required strength. Fly-ash quantity shall be so proportioned that it replaces cement to an extent of 20 - 50 per cent by weight.",
+    "page": 492,
+    "parent": "12.6.1",
+    "children": []
+  },
+  {
+    "clause_id": "12.6.2",
+    "text": "12.6.2 Construction",
+    "page": 492,
+    "parent": "12.6",
+    "children": [
+      "12.6.2.2",
+      "12.6.2.4"
+    ]
+  },
+  {
+    "clause_id": "12.6.2.2",
+    "text": "12.6.2.2 Batching, mixing, transportation, laying, compaction and curing",
+    "page": 492,
+    "parent": "12.6.2",
+    "children": [
+      "12.6.2.2.1",
+      "12.6.2.2.2",
+      "12.6.2.2.3",
+      "12.6.2.2.4",
+      "12.6.2.2.5",
+      "12.6.2.2.6"
+    ]
+  },
+  {
+    "clause_id": "12.6.2.2.1",
+    "text": "12.6.2.2.1 The batching and mixing shall be done in a batching plant capable of proportioning the materials by weight each type of material being weighed separately. The capacity of the batching and mixing plant shall be at least 25 percent higher than the proposed capacity for laying the concrete for structure. The batching and mixing shall be carried out preferably in a forced-action central batching and mixing plant having necessary automatic controls to ensure accurate proportioning and mixing. The weighing balances shall be calibrated by weighing the aggregates, cement. fly-ash and water on a large weighing machine.",
+    "page": 493,
+    "parent": "12.6.2.2",
+    "children": []
+  },
+  {
+    "clause_id": "12.6.2.2.2",
+    "text": "12.6.2.2.2 Concrete shall be discharged from the mixer and transported directly to the point where it is to be laid. The capacity of the transport equipment shall match the production capacity of the batching plant and the laying equipment to ensure construction to go on at a uniform speed in an uninterrupted manner.",
+    "page": 493,
+    "parent": "12.6.2.2",
+    "children": []
+  },
+  {
+    "clause_id": "12.6.2.2.3",
+    "text": "12.6.2.2.3 The concrete shall be laid by a paver, with electronic sensors. The paver shall be capable of laying the material in one layer in an even manner without segregation.",
+    "page": 493,
+    "parent": "12.6.2.2",
+    "children": []
+  },
+  {
+    "clause_id": "12.6.2.2.4",
+    "text": "12.6.2.2.4 Compaction shall be carried out immediately after the material is laid and levelled. Rolling shall be done with a vibratory roller of the double drum smooth wheel type. The number of passes required to obtain the maximum compaction shall be determined during the trial run by increasing the in-situ density. In addition to the number of passes required for compaction, there shall be a preliminary pass without vibration to bed the concrete down, and again a final pass without vibration to remove the roller marks and to smoothen the surface.",
+    "page": 493,
+    "parent": "12.6.2.2",
+    "children": []
+  },
+  {
+    "clause_id": "12.6.2.2.5",
+    "text": "12.6.2.2.5 The spreading, compacting and finishing of the concrete shall be carried out as rapidly as possible and the operation shall be so arranged as to ensure that the time between the mixing of the first batch of concrete in any transverse section of the layer and the final finishing of the same shall not exceed 90 minutes when the concrete temperature is above 25\u00b0C and below 30\u00b0C, and 120 minutes if less than 25\u00b0C. This period may be reviewed in light of the results of the trial run, but in no case shall it exceed 2 hours. Work shall not proceed when the temperature of the concrete exceeds 30\u00b0C. If necessary, chilled water or addition of ice may be resorted to for bringing down the temperature. It is desirable to stop concreting when the ambient temperature is above 35\u00b0C. After compaction has been completed, the roller shall not stand on the compacted surface for the duration of the curing period, except during commencement of next day\u2019s work near the location where the work was terminated the previous day. If the RCC is too wet or too dry for compaction upon laying, the water content shall be adjusted at the plant to correct this. Only minor changes in water content from the design mix should be made; otherwise a new mix design may be needed.",
+    "page": 493,
+    "parent": "12.6.2.2",
+    "children": []
+  },
+  {
+    "clause_id": "12.6.2.2.6",
+    "text": "12.6.2.2.6 In view of the low water content in RCC, soon after the compaction is over, depending upon weather, wind velocity and humidity, curing shall start within one hour to two hours or alternatively curing compound can also be used.",
+    "page": 493,
+    "parent": "12.6.2.2",
+    "children": []
+  },
+  {
+    "clause_id": "12.6.2.4",
+    "text": "12.6.2.4 Contraction joints and crack control",
+    "page": 494,
+    "parent": "12.6.2",
+    "children": []
+  },
+  {
+    "clause_id": "12.6.3",
+    "text": "12.6.3 Physical Properties of RCC",
+    "page": 494,
+    "parent": "12.6",
+    "children": []
+  },
+  {
+    "clause_id": "12.7.1",
+    "text": "12.7.1 Alkali activated concrete or geopolymer concrete is a type of concrete that is made by reacting aluminate and silicate bearing materials such as fly ash or slag from iron and metal production with an alkaline activator. Generally no cement is used in alkali activated concrete and thus it can be a substitute for Portland cement concrete. However, in certain cases, a small percentage of cement is added to bring down the curing temperature requirements.",
+    "page": 494,
+    "parent": "12.7",
+    "children": []
+  },
+  {
+    "clause_id": "12.7.2",
+    "text": "12.7.2 The advancements in material sciences have led to development of altogether alternative binding material to concrete in the form of alkali activated concrete or geopolymer concrete (which is considered part of broad group of alkali activated materials). Alkali activated concrete are a relatively newer class of building material.",
+    "page": 494,
+    "parent": "12.7",
+    "children": []
+  },
+  {
+    "clause_id": "12.7.3",
+    "text": "12.7.3 The alkali activated concrete can be used for manufacture of precast unreinforced products for non structural applications like paver blocks, kerb stones, blocks, etc as per guidelines given in IS 17452. The grades shall be limited up to M 40.",
+    "page": 495,
+    "parent": "12.7",
+    "children": []
+  }
+]

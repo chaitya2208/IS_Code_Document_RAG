@@ -1,0 +1,87 @@
+[
+  {
+    "from_clause": "11.4.2.4.4",
+    "to_table": "Table 96",
+    "page": 465
+  },
+  {
+    "from_clause": "5.6.1",
+    "to_table": "Table 3",
+    "page": 27
+  },
+  {
+    "from_clause": "7.1.1.4.2.1",
+    "to_table": "Table 9",
+    "page": 51
+  },
+  {
+    "from_clause": "7.1.2.1",
+    "to_table": "Table 10",
+    "page": 53
+  },
+  {
+    "from_clause": "7.1.2.2",
+    "to_table": "Table 10",
+    "page": 53
+  },
+  {
+    "from_clause": "7.1.3.2.3",
+    "to_table": "Table 10",
+    "page": 55
+  },
+  {
+    "from_clause": "7.2.1.2",
+    "to_table": "Table 14",
+    "page": 68
+  },
+  {
+    "from_clause": "8.1.2.1",
+    "to_table": "Table 2",
+    "page": 95
+  },
+  {
+    "from_clause": "9.2.1.5.1.3",
+    "to_table": "Table 37",
+    "page": 154
+  },
+  {
+    "from_clause": "9.2.2.7.2",
+    "to_table": "Table 4",
+    "page": 164
+  },
+  {
+    "from_clause": "9.3.2.7.8.3",
+    "to_table": "Table 48",
+    "page": 259
+  },
+  {
+    "from_clause": "9.3.2.7.8.3",
+    "to_table": "Table 49",
+    "page": 259
+  },
+  {
+    "from_clause": "9.3.2.7.8.3",
+    "to_table": "Table 50",
+    "page": 259
+  },
+  {
+    "from_clause": "9.4.3.5.1",
+    "to_table": "Table 4",
+    "page": 360
+  },
+  {
+    "from_clause": "9.5.4.3.2",
+    "to_table": "Table 72",
+    "page": 373
+  },
+  {
+    "from_clause": "9.5.4.3.2",
+    "to_table": "Table 73",
+    "page": 373
+  },
+  {
+    "from_clause": "9.5.4.4.1.5",
+    "to_table": "Table 78",
+    "page": 384
+  }
+]
