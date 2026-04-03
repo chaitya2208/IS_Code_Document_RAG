@@ -1,53 +1,38 @@
 import streamlit as st
-from rag_core import answer_question
-import json
 import os
+from rag_core import answer_question
 
-PROJECT_ROOT = os.path.dirname(os.path.abspath(__file__))
-PROCESSED_DIR = os.path.join(PROJECT_ROOT, "data", "processed")
-FIGURES_FILE = os.path.join(PROCESSED_DIR, "figures.json")
-
-with open(FIGURES_FILE, "r", encoding="utf-8") as f:
-    FIGURES = json.load(f)
-
-
-st.set_page_config(
-    page_title="IS 456 Intelligent Assistant",
-    layout="wide"
-)
+st.set_page_config(page_title="IS 456 Assistant", layout="wide")
 
 st.title("📘 IS 456 – Intelligent Assistant")
-st.caption("Grounded answers with clauses, pages, tables, and figures")
 
-st.divider()
+query = st.text_input("Ask a question from IS 456")
 
-query = st.text_input("Ask a question from IS 456", placeholder="e.g. load combinations")
+if st.button("Ask"):
+    if query:
+        answer, related_figures = answer_question(query)
 
-if st.button("Ask") and query.strip():
-    with st.spinner("Searching IS 456..."):
-        answer = answer_question(query)
+        st.markdown("## ✅ Answer")
+        st.write(answer)
 
-    st.subheader("✅ Answer")
-    st.write(answer)
+        if related_figures:
+            st.markdown("## 🖼️ Related Figures")
 
-    # ---------- FIGURES ----------
-    related_figures = []
-    for fig in FIGURES:
-        if any(clause in answer for clause in fig.get("linked_clauses", [])):
-            related_figures.append(fig)
+            for fig in related_figures:
+                col1, col2 = st.columns([2, 1])
 
-    if related_figures:
-        st.divider()
-        st.subheader("🖼️ Related Figures")
+                with col1:
+                    img_path = fig.get("image_path")
+                    if img_path and os.path.exists(img_path):
+                        st.image(img_path, use_container_width=True)
+                    else:
+                        st.warning("Image not found")
 
-        for fig in related_figures:
-            cols = st.columns([1, 2])
-            with cols[0]:
-                st.image(fig["image_path"], use_column_width=True)
-            with cols[1]:
-                st.markdown(f"**Figure:** {fig['figure_id']}")
-                st.markdown(f"**Document page:** {fig['doc_page']}")
-                if fig.get("linked_clauses"):
-                    st.markdown(
-                        f"**Linked clauses:** {', '.join(fig['linked_clauses'])}"
-                    )
+                with col2:
+                    st.write(f"**Figure:** {fig.get('figure_id')}")
+                    st.write(f"**Document page:** {fig.get('doc_page')}")
+
+                    desc = fig.get("description", "")
+                    if desc:
+                        st.write("**Explanation:**")
+                        st.write(desc[:200])
